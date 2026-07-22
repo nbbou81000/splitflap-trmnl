@@ -1,0 +1,133 @@
+{
+  "updated_at": "22/07 12:44",
+  "city": "ALBI",
+  "weather": {
+    "temp": 31,
+    "wind": 2,
+    "tmin": 14,
+    "tmax": 36,
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
+  },
+  "iss": {
+    "date": "22/07",
+    "time": "21H31",
+    "dir": "NO>E",
+    "mag": -1.2,
+    "duration_min": 10
+  },
+  "lines": {
+    "wide": {
+      "meteo": {
+        "full": [
+          "METEO ALBI",
+          "",
+          "31C  SOLEIL",
+          "",
+          "MIN 14C  MAX 36C",
+          "",
+          "VENT 2 KM/H",
+          ""
+        ],
+        "short": [
+          "METEO ALBI",
+          "31C SOLEIL",
+          "MIN 14C MAX 36C",
+          "VENT 2 KM/H"
+        ]
+      },
+      "iss": {
+        "full": [
+          "PROCHAINE ISS",
+          "",
+          "LE 22/07 A 21H31",
+          "",
+          "NO>E  MAG -1.2",
+          "",
+          "DUREE 10 MIN",
+          ""
+        ],
+        "short": [
+          "PROCHAINE ISS",
+          "LE 22/07 A 21H31",
+          "NO>E MAG -1.2",
+          "DUREE 10 MIN"
+        ]
+      },
+      "both": {
+        "full": [
+          "METEO ALBI",
+          "31C SOLEIL",
+          "MIN 14C MAX 36C",
+          "VENT 2 KM/H",
+          "PROCHAINE ISS",
+          "LE 22/07 A 21H31",
+          "NO>E MAG -1.2",
+          "DUREE 10 MIN"
+        ],
+        "short": [
+          "31C SOLEIL",
+          "VENT 2 KM/H",
+          "LE 22/07 A 21H31",
+          "NO>E MAG -1.2"
+        ]
+      }
+    },
+    "narrow": {
+      "meteo": {
+        "full": [
+          "METEO",
+          "ALBI",
+          "",
+          "31C",
+          "SOLEIL",
+          "",
+          "14C > 36C",
+          "VT 2KMH"
+        ],
+        "short": [
+          "ALBI",
+          "31C",
+          "SOLEIL",
+          "14C>36C"
+        ]
+      },
+      "iss": {
+        "full": [
+          "ISS",
+          "",
+          "22/07",
+          "21H31",
+          "",
+          "NO>E",
+          "MAG -1.2",
+          "10 MIN"
+        ],
+        "short": [
+          "ISS 21H31",
+          "22/07",
+          "NO>E",
+          "10MIN M-1.2"
+        ]
+      },
+      "both": {
+        "full": [
+          "ALBI",
+          "31C",
+          "SOLEIL",
+          "14C>36C",
+          "ISS 21H31",
+          "22/07",
+          "NO>E",
+          "10MIN M-1.2"
+        ],
+        "short": [
+          "31C",
+          "SOLEIL",
+          "ISS 21H31",
+          "22/07"
+        ]
+      }
+    }
+  }
+}
