@@ -1,13 +1,13 @@
 {
-  "updated_at": "23/07 03:23",
+  "updated_at": "23/07 06:43",
   "city": "ALBI",
   "weather": {
-    "temp": 17,
+    "temp": 14,
     "wind": 4,
-    "tmin": 15,
+    "tmin": 14,
     "tmax": 37,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "23/07",
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  COUVERT",
+          "14C  PEU NUAGEUX",
           "",
-          "MIN 15C  MAX 37C",
+          "MIN 14C  MAX 37C",
           "",
           "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C COUVERT",
-          "MIN 15C MAX 37C",
+          "14C PEU NUAGEUX",
+          "MIN 14C MAX 37C",
           "VENT 4 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "17C COUVERT",
-          "MIN 15C MAX 37C",
+          "14C PEU NUAGEUX",
+          "MIN 14C MAX 37C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 23/07 A 22H21",
@@ -66,7 +66,7 @@
           "DUREE 8 MIN"
         ],
         "short": [
-          "17C COUVERT",
+          "14C PEU NUAGEUX",
           "VENT 4 KM/H",
           "LE 23/07 A 22H21",
           "NO>SE MAG -2.3"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "17C",
-          "COUVERT",
+          "14C",
+          "NUAGEUX",
           "",
-          "15C > 37C",
+          "14C > 37C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "17C",
-          "COUVERT",
-          "15C>37C"
+          "14C",
+          "NUAGEUX",
+          "14C>37C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "17C",
-          "COUVERT",
-          "15C>37C",
+          "14C",
+          "NUAGEUX",
+          "14C>37C",
           "ISS 22H21",
           "23/07",
           "NO>SE",
           "8MIN M-2.3"
         ],
         "short": [
-          "17C",
-          "COUVERT",
+          "14C",
+          "NUAGEUX",
           "ISS 22H21",
           "23/07"
         ]
