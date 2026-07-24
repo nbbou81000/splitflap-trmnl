@@ -1,11 +1,11 @@
 {
-  "updated_at": "24/07 03:19",
+  "updated_at": "24/07 06:40",
   "city": "ALBI",
   "weather": {
-    "temp": 17,
-    "wind": 4,
-    "tmin": 16,
-    "tmax": 40,
+    "temp": 15,
+    "wind": 3,
+    "tmin": 15,
+    "tmax": 39,
     "label": "SOLEIL",
     "label_short": "SOLEIL"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  SOLEIL",
+          "15C  SOLEIL",
           "",
-          "MIN 16C  MAX 40C",
+          "MIN 15C  MAX 39C",
           "",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C SOLEIL",
-          "MIN 16C MAX 40C",
-          "VENT 4 KM/H"
+          "15C SOLEIL",
+          "MIN 15C MAX 39C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "17C SOLEIL",
-          "MIN 16C MAX 40C",
-          "VENT 4 KM/H",
+          "15C SOLEIL",
+          "MIN 15C MAX 39C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 24/07 A 21H33",
           "NO>ESE MAG -2.1",
           "DUREE 10 MIN"
         ],
         "short": [
-          "17C SOLEIL",
-          "VENT 4 KM/H",
+          "15C SOLEIL",
+          "VENT 3 KM/H",
           "LE 24/07 A 21H33",
           "NO>ESE MAG -2.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "17C",
+          "15C",
           "SOLEIL",
           "",
-          "16C > 40C",
-          "VT 4KMH"
+          "15C > 39C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "17C",
+          "15C",
           "SOLEIL",
-          "16C>40C"
+          "15C>39C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "17C",
+          "15C",
           "SOLEIL",
-          "16C>40C",
+          "15C>39C",
           "ISS 21H33",
           "24/07",
           "NO>ESE",
           "10MIN M-2.1"
         ],
         "short": [
-          "17C",
+          "15C",
           "SOLEIL",
           "ISS 21H33",
           "24/07"
