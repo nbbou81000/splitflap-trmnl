@@ -1,11 +1,11 @@
 {
-  "updated_at": "24/07 23:51",
+  "updated_at": "25/07 00:48",
   "city": "ALBI",
   "weather": {
-    "temp": 24,
-    "wind": 3,
-    "tmin": 15,
-    "tmax": 39,
+    "temp": 25,
+    "wind": 5,
+    "tmin": 21,
+    "tmax": 31,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "24C  PEU NUAGEUX",
+          "25C  PEU NUAGEUX",
           "",
-          "MIN 15C  MAX 39C",
+          "MIN 21C  MAX 31C",
           "",
-          "VENT 3 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "24C PEU NUAGEUX",
-          "MIN 15C MAX 39C",
-          "VENT 3 KM/H"
+          "25C PEU NUAGEUX",
+          "MIN 21C MAX 31C",
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "24C PEU NUAGEUX",
-          "MIN 15C MAX 39C",
-          "VENT 3 KM/H",
+          "25C PEU NUAGEUX",
+          "MIN 21C MAX 31C",
+          "VENT 5 KM/H",
           "PROCHAINE ISS",
           "LE 25/07 A 22H22",
           "ONO>SE MAG -1.1",
           "DUREE 8 MIN"
         ],
         "short": [
-          "24C PEU NUAGEUX",
-          "VENT 3 KM/H",
+          "25C PEU NUAGEUX",
+          "VENT 5 KM/H",
           "LE 25/07 A 22H22",
           "ONO>SE MAG -1.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "24C",
+          "25C",
           "NUAGEUX",
           "",
-          "15C > 39C",
-          "VT 3KMH"
+          "21C > 31C",
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "24C",
+          "25C",
           "NUAGEUX",
-          "15C>39C"
+          "21C>31C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "24C",
+          "25C",
           "NUAGEUX",
-          "15C>39C",
+          "21C>31C",
           "ISS 22H22",
           "25/07",
           "ONO>SE",
           "8MIN M-1.1"
         ],
         "short": [
-          "24C",
+          "25C",
           "NUAGEUX",
           "ISS 22H22",
           "25/07"
