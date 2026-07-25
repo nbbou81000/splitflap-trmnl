@@ -1,11 +1,11 @@
 {
-  "updated_at": "25/07 03:20",
+  "updated_at": "25/07 06:35",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
+    "temp": 21,
     "wind": 8,
-    "tmin": 21,
-    "tmax": 31,
+    "tmin": 20,
+    "tmax": 30,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  COUVERT",
+          "21C  COUVERT",
           "",
-          "MIN 21C  MAX 31C",
+          "MIN 20C  MAX 30C",
           "",
           "VENT 8 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C COUVERT",
-          "MIN 21C MAX 31C",
+          "21C COUVERT",
+          "MIN 20C MAX 30C",
           "VENT 8 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "22C COUVERT",
-          "MIN 21C MAX 31C",
+          "21C COUVERT",
+          "MIN 20C MAX 30C",
           "VENT 8 KM/H",
           "PROCHAINE ISS",
           "LE 25/07 A 22H22",
@@ -66,7 +66,7 @@
           "DUREE 8 MIN"
         ],
         "short": [
-          "22C COUVERT",
+          "21C COUVERT",
           "VENT 8 KM/H",
           "LE 25/07 A 22H22",
           "ONO>SE MAG -1.1"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
+          "21C",
           "COUVERT",
           "",
-          "21C > 31C",
+          "20C > 30C",
           "VT 8KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
+          "21C",
           "COUVERT",
-          "21C>31C"
+          "20C>30C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "22C",
+          "21C",
           "COUVERT",
-          "21C>31C",
+          "20C>30C",
           "ISS 22H22",
           "25/07",
           "ONO>SE",
           "8MIN M-1.1"
         ],
         "short": [
-          "22C",
+          "21C",
           "COUVERT",
           "ISS 22H22",
           "25/07"
