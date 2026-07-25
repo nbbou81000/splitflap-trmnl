@@ -1,13 +1,13 @@
 {
-  "updated_at": "25/07 17:33",
+  "updated_at": "25/07 18:41",
   "city": "ALBI",
   "weather": {
-    "temp": 27,
-    "wind": 23,
-    "tmin": 21,
+    "temp": 22,
+    "wind": 22,
+    "tmin": 19,
     "tmax": 30,
-    "label": "PLUIE",
-    "label_short": "PLUIE"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "25/07",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "27C  PLUIE",
+          "22C  AVERSES",
           "",
-          "MIN 21C  MAX 30C",
+          "MIN 19C  MAX 30C",
           "",
-          "VENT 23 KM/H",
+          "VENT 22 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "27C PLUIE",
-          "MIN 21C MAX 30C",
-          "VENT 23 KM/H"
+          "22C AVERSES",
+          "MIN 19C MAX 30C",
+          "VENT 22 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "27C PLUIE",
-          "MIN 21C MAX 30C",
-          "VENT 23 KM/H",
+          "22C AVERSES",
+          "MIN 19C MAX 30C",
+          "VENT 22 KM/H",
           "PROCHAINE ISS",
           "LE 25/07 A 22H22",
           "ONO>SE MAG -1.1",
           "DUREE 8 MIN"
         ],
         "short": [
-          "27C PLUIE",
-          "VENT 23 KM/H",
+          "22C AVERSES",
+          "VENT 22 KM/H",
           "LE 25/07 A 22H22",
           "ONO>SE MAG -1.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "27C",
-          "PLUIE",
+          "22C",
+          "AVERSES",
           "",
-          "21C > 30C",
-          "VT 23KMH"
+          "19C > 30C",
+          "VT 22KMH"
         ],
         "short": [
           "ALBI",
-          "27C",
-          "PLUIE",
-          "21C>30C"
+          "22C",
+          "AVERSES",
+          "19C>30C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "27C",
-          "PLUIE",
-          "21C>30C",
+          "22C",
+          "AVERSES",
+          "19C>30C",
           "ISS 22H22",
           "25/07",
           "ONO>SE",
           "8MIN M-1.1"
         ],
         "short": [
-          "27C",
-          "PLUIE",
+          "22C",
+          "AVERSES",
           "ISS 22H22",
           "25/07"
         ]
