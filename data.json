@@ -1,20 +1,20 @@
 {
-  "updated_at": "25/07 22:02",
+  "updated_at": "25/07 23:13",
   "city": "ALBI",
   "weather": {
     "temp": 19,
-    "wind": 13,
+    "wind": 9,
     "tmin": 19,
     "tmax": 30,
     "label": "AVERSES",
     "label_short": "AVERSES"
   },
   "iss": {
-    "date": "25/07",
-    "time": "22H22",
+    "date": "26/07",
+    "time": "21H35",
     "dir": "ONO>SE",
-    "mag": -1.1,
-    "duration_min": 8
+    "mag": -1.9,
+    "duration_min": 10
   },
   "lines": {
     "wide": {
@@ -26,32 +26,32 @@
           "",
           "MIN 19C  MAX 30C",
           "",
-          "VENT 13 KM/H",
+          "VENT 9 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "19C AVERSES",
           "MIN 19C MAX 30C",
-          "VENT 13 KM/H"
+          "VENT 9 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 25/07 A 22H22",
+          "LE 26/07 A 21H35",
           "",
-          "ONO>SE  MAG -1.1",
+          "ONO>SE  MAG -1.9",
           "",
-          "DUREE 8 MIN",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 25/07 A 22H22",
-          "ONO>SE MAG -1.1",
-          "DUREE 8 MIN"
+          "LE 26/07 A 21H35",
+          "ONO>SE MAG -1.9",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
@@ -59,17 +59,17 @@
           "METEO ALBI",
           "19C AVERSES",
           "MIN 19C MAX 30C",
-          "VENT 13 KM/H",
+          "VENT 9 KM/H",
           "PROCHAINE ISS",
-          "LE 25/07 A 22H22",
-          "ONO>SE MAG -1.1",
-          "DUREE 8 MIN"
+          "LE 26/07 A 21H35",
+          "ONO>SE MAG -1.9",
+          "DUREE 10 MIN"
         ],
         "short": [
           "19C AVERSES",
-          "VENT 13 KM/H",
-          "LE 25/07 A 22H22",
-          "ONO>SE MAG -1.1"
+          "VENT 9 KM/H",
+          "LE 26/07 A 21H35",
+          "ONO>SE MAG -1.9"
         ]
       }
     },
@@ -83,7 +83,7 @@
           "AVERSES",
           "",
           "19C > 30C",
-          "VT 13KMH"
+          "VT 9KMH"
         ],
         "short": [
           "ALBI",
@@ -96,18 +96,18 @@
         "full": [
           "ISS",
           "",
-          "25/07",
-          "22H22",
+          "26/07",
+          "21H35",
           "",
           "ONO>SE",
-          "MAG -1.1",
-          "8 MIN"
+          "MAG -1.9",
+          "10 MIN"
         ],
         "short": [
-          "ISS 22H22",
-          "25/07",
+          "ISS 21H35",
+          "26/07",
           "ONO>SE",
-          "8MIN M-1.1"
+          "10MIN M-1.9"
         ]
       },
       "both": {
@@ -116,16 +116,16 @@
           "19C",
           "AVERSES",
           "19C>30C",
-          "ISS 22H22",
-          "25/07",
+          "ISS 21H35",
+          "26/07",
           "ONO>SE",
-          "8MIN M-1.1"
+          "10MIN M-1.9"
         ],
         "short": [
           "19C",
           "AVERSES",
-          "ISS 22H22",
-          "25/07"
+          "ISS 21H35",
+          "26/07"
         ]
       }
     }
