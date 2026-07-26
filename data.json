@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/07 17:35",
+  "updated_at": "26/07 18:42",
   "city": "ALBI",
   "weather": {
-    "temp": 25,
+    "temp": 26,
     "wind": 16,
     "tmin": 17,
-    "tmax": 25,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 26,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "26/07",
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "25C  COUVERT",
+          "26C  PEU NUAGEUX",
           "",
-          "MIN 17C  MAX 25C",
+          "MIN 17C  MAX 26C",
           "",
           "VENT 16 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "25C COUVERT",
-          "MIN 17C MAX 25C",
+          "26C PEU NUAGEUX",
+          "MIN 17C MAX 26C",
           "VENT 16 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "25C COUVERT",
-          "MIN 17C MAX 25C",
+          "26C PEU NUAGEUX",
+          "MIN 17C MAX 26C",
           "VENT 16 KM/H",
           "PROCHAINE ISS",
           "LE 26/07 A 21H35",
@@ -66,7 +66,7 @@
           "DUREE 10 MIN"
         ],
         "short": [
-          "25C COUVERT",
+          "26C PEU NUAGEUX",
           "VENT 16 KM/H",
           "LE 26/07 A 21H35",
           "ONO>SE MAG -1.9"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "25C",
-          "COUVERT",
+          "26C",
+          "NUAGEUX",
           "",
-          "17C > 25C",
+          "17C > 26C",
           "VT 16KMH"
         ],
         "short": [
           "ALBI",
-          "25C",
-          "COUVERT",
-          "17C>25C"
+          "26C",
+          "NUAGEUX",
+          "17C>26C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "25C",
-          "COUVERT",
-          "17C>25C",
+          "26C",
+          "NUAGEUX",
+          "17C>26C",
           "ISS 21H35",
           "26/07",
           "ONO>SE",
           "10MIN M-1.9"
         ],
         "short": [
-          "25C",
-          "COUVERT",
+          "26C",
+          "NUAGEUX",
           "ISS 21H35",
           "26/07"
         ]
