@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/07 01:25",
+  "updated_at": "26/07 03:03",
   "city": "ALBI",
   "weather": {
     "temp": 18,
-    "wind": 4,
+    "wind": 7,
     "tmin": 17,
     "tmax": 26,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "26/07",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  AVERSES",
+          "18C  COUVERT",
           "",
           "MIN 17C  MAX 26C",
           "",
-          "VENT 4 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C AVERSES",
+          "18C COUVERT",
           "MIN 17C MAX 26C",
-          "VENT 4 KM/H"
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "18C AVERSES",
+          "18C COUVERT",
           "MIN 17C MAX 26C",
-          "VENT 4 KM/H",
+          "VENT 7 KM/H",
           "PROCHAINE ISS",
           "LE 26/07 A 21H35",
           "ONO>SE MAG -1.9",
           "DUREE 10 MIN"
         ],
         "short": [
-          "18C AVERSES",
-          "VENT 4 KM/H",
+          "18C COUVERT",
+          "VENT 7 KM/H",
           "LE 26/07 A 21H35",
           "ONO>SE MAG -1.9"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "18C",
-          "AVERSES",
+          "COUVERT",
           "",
           "17C > 26C",
-          "VT 4KMH"
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
           "18C",
-          "AVERSES",
+          "COUVERT",
           "17C>26C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "18C",
-          "AVERSES",
+          "COUVERT",
           "17C>26C",
           "ISS 21H35",
           "26/07",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "18C",
-          "AVERSES",
+          "COUVERT",
           "ISS 21H35",
           "26/07"
         ]
