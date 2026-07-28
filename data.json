@@ -1,13 +1,13 @@
 {
-  "updated_at": "28/07 03:14",
+  "updated_at": "28/07 06:32",
   "city": "ALBI",
   "weather": {
-    "temp": 16,
+    "temp": 14,
     "wind": 4,
-    "tmin": 15,
-    "tmax": 36,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "tmin": 14,
+    "tmax": 35,
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "28/07",
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "16C  SOLEIL",
+          "14C  BROUILLARD",
           "",
-          "MIN 15C  MAX 36C",
+          "MIN 14C  MAX 35C",
           "",
           "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "16C SOLEIL",
-          "MIN 15C MAX 36C",
+          "14C BROUILLARD",
+          "MIN 14C MAX 35C",
           "VENT 4 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "16C SOLEIL",
-          "MIN 15C MAX 36C",
+          "14C BROUILLARD",
+          "MIN 14C MAX 35C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 28/07 A 21H36",
@@ -66,7 +66,7 @@
           "DUREE 10 MIN"
         ],
         "short": [
-          "16C SOLEIL",
+          "14C BROUILLARD",
           "VENT 4 KM/H",
           "LE 28/07 A 21H36",
           "ONO>SSE MAG -0.4"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "16C",
-          "SOLEIL",
+          "14C",
+          "BROUILLARD",
           "",
-          "15C > 36C",
+          "14C > 35C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "16C",
-          "SOLEIL",
-          "15C>36C"
+          "14C",
+          "BROUILLARD",
+          "14C>35C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "16C",
-          "SOLEIL",
-          "15C>36C",
+          "14C",
+          "BROUILLARD",
+          "14C>35C",
           "ISS 21H36",
           "28/07",
           "ONO>SSE",
           "10MIN M-0.4"
         ],
         "short": [
-          "16C",
-          "SOLEIL",
+          "14C",
+          "BROUILLARD",
           "ISS 21H36",
           "28/07"
         ]
