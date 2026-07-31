@@ -1,11 +1,11 @@
 {
-  "updated_at": "31/07 12:25",
+  "updated_at": "31/07 14:23",
   "city": "ALBI",
   "weather": {
-    "temp": 26,
-    "wind": 8,
+    "temp": 28,
+    "wind": 7,
     "tmin": 23,
-    "tmax": 30,
+    "tmax": 31,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "26C  COUVERT",
+          "28C  COUVERT",
           "",
-          "MIN 23C  MAX 30C",
+          "MIN 23C  MAX 31C",
           "",
-          "VENT 8 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "26C COUVERT",
-          "MIN 23C MAX 30C",
-          "VENT 8 KM/H"
+          "28C COUVERT",
+          "MIN 23C MAX 31C",
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "26C COUVERT",
-          "MIN 23C MAX 30C",
-          "VENT 8 KM/H",
+          "28C COUVERT",
+          "MIN 23C MAX 31C",
+          "VENT 7 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "26C COUVERT",
-          "VENT 8 KM/H",
+          "28C COUVERT",
+          "VENT 7 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "26C",
+          "28C",
           "COUVERT",
           "",
-          "23C > 30C",
-          "VT 8KMH"
+          "23C > 31C",
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
-          "26C",
+          "28C",
           "COUVERT",
-          "23C>30C"
+          "23C>31C"
         ]
       },
       "iss": {
@@ -107,16 +107,16 @@
       "both": {
         "full": [
           "ALBI",
-          "26C",
+          "28C",
           "COUVERT",
-          "23C>30C",
+          "23C>31C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "26C",
+          "28C",
           "COUVERT",
           "ISS",
           "PAS DE"
