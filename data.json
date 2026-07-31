@@ -1,13 +1,13 @@
 {
-  "updated_at": "31/07 03:23",
+  "updated_at": "31/07 06:50",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
+    "temp": 23,
     "wind": 4,
-    "tmin": 21,
+    "tmin": 23,
     "tmax": 31,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": null,
   "lines": {
@@ -16,17 +16,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  BROUILLARD",
+          "23C  AVERSES",
           "",
-          "MIN 21C  MAX 31C",
+          "MIN 23C  MAX 31C",
           "",
           "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C BROUILLARD",
-          "MIN 21C MAX 31C",
+          "23C AVERSES",
+          "MIN 23C MAX 31C",
           "VENT 4 KM/H"
         ]
       },
@@ -51,8 +51,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "22C BROUILLARD",
-          "MIN 21C MAX 31C",
+          "23C AVERSES",
+          "MIN 23C MAX 31C",
           "VENT 4 KM/H",
           "ISS",
           "",
@@ -60,7 +60,7 @@
           "VISIBLE PREVU"
         ],
         "short": [
-          "22C BROUILLARD",
+          "23C AVERSES",
           "VENT 4 KM/H",
           "",
           "PAS DE PASSAGE"
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
-          "BROUILLARD",
+          "23C",
+          "AVERSES",
           "",
-          "21C > 31C",
+          "23C > 31C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
-          "BROUILLARD",
-          "21C>31C"
+          "23C",
+          "AVERSES",
+          "23C>31C"
         ]
       },
       "iss": {
@@ -107,17 +107,17 @@
       "both": {
         "full": [
           "ALBI",
-          "22C",
-          "BROUILLARD",
-          "21C>31C",
+          "23C",
+          "AVERSES",
+          "23C>31C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "22C",
-          "BROUILLARD",
+          "23C",
+          "AVERSES",
           "ISS",
           "PAS DE"
         ]
