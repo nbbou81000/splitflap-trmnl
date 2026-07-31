@@ -1,13 +1,13 @@
 {
-  "updated_at": "31/07 09:42",
+  "updated_at": "31/07 12:25",
   "city": "ALBI",
   "weather": {
-    "temp": 23,
-    "wind": 7,
+    "temp": 26,
+    "wind": 8,
     "tmin": 23,
     "tmax": 30,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "23C  AVERSES",
+          "26C  COUVERT",
           "",
           "MIN 23C  MAX 30C",
           "",
-          "VENT 7 KM/H",
+          "VENT 8 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "23C AVERSES",
+          "26C COUVERT",
           "MIN 23C MAX 30C",
-          "VENT 7 KM/H"
+          "VENT 8 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "23C AVERSES",
+          "26C COUVERT",
           "MIN 23C MAX 30C",
-          "VENT 7 KM/H",
+          "VENT 8 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "23C AVERSES",
-          "VENT 7 KM/H",
+          "26C COUVERT",
+          "VENT 8 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,16 +73,16 @@
           "METEO",
           "ALBI",
           "",
-          "23C",
-          "AVERSES",
+          "26C",
+          "COUVERT",
           "",
           "23C > 30C",
-          "VT 7KMH"
+          "VT 8KMH"
         ],
         "short": [
           "ALBI",
-          "23C",
-          "AVERSES",
+          "26C",
+          "COUVERT",
           "23C>30C"
         ]
       },
@@ -107,8 +107,8 @@
       "both": {
         "full": [
           "ALBI",
-          "23C",
-          "AVERSES",
+          "26C",
+          "COUVERT",
           "23C>30C",
           "ISS",
           "PAS DE",
@@ -116,8 +116,8 @@
           "PREVU"
         ],
         "short": [
-          "23C",
-          "AVERSES",
+          "26C",
+          "COUVERT",
           "ISS",
           "PAS DE"
         ]
