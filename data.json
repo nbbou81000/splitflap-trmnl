@@ -1,11 +1,11 @@
 {
-  "updated_at": "31/07 06:50",
+  "updated_at": "31/07 09:42",
   "city": "ALBI",
   "weather": {
     "temp": 23,
-    "wind": 4,
+    "wind": 7,
     "tmin": 23,
-    "tmax": 31,
+    "tmax": 30,
     "label": "AVERSES",
     "label_short": "AVERSES"
   },
@@ -18,16 +18,16 @@
           "",
           "23C  AVERSES",
           "",
-          "MIN 23C  MAX 31C",
+          "MIN 23C  MAX 30C",
           "",
-          "VENT 4 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "23C AVERSES",
-          "MIN 23C MAX 31C",
-          "VENT 4 KM/H"
+          "MIN 23C MAX 30C",
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
@@ -52,8 +52,8 @@
         "full": [
           "METEO ALBI",
           "23C AVERSES",
-          "MIN 23C MAX 31C",
-          "VENT 4 KM/H",
+          "MIN 23C MAX 30C",
+          "VENT 7 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
@@ -61,7 +61,7 @@
         ],
         "short": [
           "23C AVERSES",
-          "VENT 4 KM/H",
+          "VENT 7 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -76,14 +76,14 @@
           "23C",
           "AVERSES",
           "",
-          "23C > 31C",
-          "VT 4KMH"
+          "23C > 30C",
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
           "23C",
           "AVERSES",
-          "23C>31C"
+          "23C>30C"
         ]
       },
       "iss": {
@@ -109,7 +109,7 @@
           "ALBI",
           "23C",
           "AVERSES",
-          "23C>31C",
+          "23C>30C",
           "ISS",
           "PAS DE",
           "PASSAGE",
