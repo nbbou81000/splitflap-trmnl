@@ -1,13 +1,13 @@
 {
-  "updated_at": "02/08 13:56",
+  "updated_at": "02/08 15:00",
   "city": "ALBI",
   "weather": {
-    "temp": 34,
-    "wind": 7,
+    "temp": 36,
+    "wind": 10,
     "tmin": 17,
     "tmax": 38,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "34C  PEU NUAGEUX",
+          "36C  SOLEIL",
           "",
           "MIN 17C  MAX 38C",
           "",
-          "VENT 7 KM/H",
+          "VENT 10 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "34C PEU NUAGEUX",
+          "36C SOLEIL",
           "MIN 17C MAX 38C",
-          "VENT 7 KM/H"
+          "VENT 10 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "34C PEU NUAGEUX",
+          "36C SOLEIL",
           "MIN 17C MAX 38C",
-          "VENT 7 KM/H",
+          "VENT 10 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "34C PEU NUAGEUX",
-          "VENT 7 KM/H",
+          "36C SOLEIL",
+          "VENT 10 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,16 +73,16 @@
           "METEO",
           "ALBI",
           "",
-          "34C",
-          "NUAGEUX",
+          "36C",
+          "SOLEIL",
           "",
           "17C > 38C",
-          "VT 7KMH"
+          "VT 10KMH"
         ],
         "short": [
           "ALBI",
-          "34C",
-          "NUAGEUX",
+          "36C",
+          "SOLEIL",
           "17C>38C"
         ]
       },
@@ -107,8 +107,8 @@
       "both": {
         "full": [
           "ALBI",
-          "34C",
-          "NUAGEUX",
+          "36C",
+          "SOLEIL",
           "17C>38C",
           "ISS",
           "PAS DE",
@@ -116,8 +116,8 @@
           "PREVU"
         ],
         "short": [
-          "34C",
-          "NUAGEUX",
+          "36C",
+          "SOLEIL",
           "ISS",
           "PAS DE"
         ]
