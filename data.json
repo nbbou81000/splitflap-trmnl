@@ -1,11 +1,11 @@
 {
-  "updated_at": "03/08 03:01",
+  "updated_at": "03/08 06:54",
   "city": "ALBI",
   "weather": {
-    "temp": 25,
-    "wind": 4,
+    "temp": 21,
+    "wind": 3,
     "tmin": 21,
-    "tmax": 37,
+    "tmax": 36,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "25C  PEU NUAGEUX",
+          "21C  PEU NUAGEUX",
           "",
-          "MIN 21C  MAX 37C",
+          "MIN 21C  MAX 36C",
           "",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "25C PEU NUAGEUX",
-          "MIN 21C MAX 37C",
-          "VENT 4 KM/H"
+          "21C PEU NUAGEUX",
+          "MIN 21C MAX 36C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "25C PEU NUAGEUX",
-          "MIN 21C MAX 37C",
-          "VENT 4 KM/H",
+          "21C PEU NUAGEUX",
+          "MIN 21C MAX 36C",
+          "VENT 3 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "25C PEU NUAGEUX",
-          "VENT 4 KM/H",
+          "21C PEU NUAGEUX",
+          "VENT 3 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "25C",
+          "21C",
           "NUAGEUX",
           "",
-          "21C > 37C",
-          "VT 4KMH"
+          "21C > 36C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "25C",
+          "21C",
           "NUAGEUX",
-          "21C>37C"
+          "21C>36C"
         ]
       },
       "iss": {
@@ -107,16 +107,16 @@
       "both": {
         "full": [
           "ALBI",
-          "25C",
+          "21C",
           "NUAGEUX",
-          "21C>37C",
+          "21C>36C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "25C",
+          "21C",
           "NUAGEUX",
           "ISS",
           "PAS DE"
