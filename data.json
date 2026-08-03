@@ -1,13 +1,13 @@
 {
-  "updated_at": "03/08 10:17",
+  "updated_at": "03/08 13:51",
   "city": "ALBI",
   "weather": {
-    "temp": 27,
-    "wind": 5,
+    "temp": 35,
+    "wind": 15,
     "tmin": 21,
-    "tmax": 36,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 37,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "27C  COUVERT",
+          "35C  PEU NUAGEUX",
           "",
-          "MIN 21C  MAX 36C",
+          "MIN 21C  MAX 37C",
           "",
-          "VENT 5 KM/H",
+          "VENT 15 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "27C COUVERT",
-          "MIN 21C MAX 36C",
-          "VENT 5 KM/H"
+          "35C PEU NUAGEUX",
+          "MIN 21C MAX 37C",
+          "VENT 15 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "27C COUVERT",
-          "MIN 21C MAX 36C",
-          "VENT 5 KM/H",
+          "35C PEU NUAGEUX",
+          "MIN 21C MAX 37C",
+          "VENT 15 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "27C COUVERT",
-          "VENT 5 KM/H",
+          "35C PEU NUAGEUX",
+          "VENT 15 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "27C",
-          "COUVERT",
+          "35C",
+          "NUAGEUX",
           "",
-          "21C > 36C",
-          "VT 5KMH"
+          "21C > 37C",
+          "VT 15KMH"
         ],
         "short": [
           "ALBI",
-          "27C",
-          "COUVERT",
-          "21C>36C"
+          "35C",
+          "NUAGEUX",
+          "21C>37C"
         ]
       },
       "iss": {
@@ -107,17 +107,17 @@
       "both": {
         "full": [
           "ALBI",
-          "27C",
-          "COUVERT",
-          "21C>36C",
+          "35C",
+          "NUAGEUX",
+          "21C>37C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "27C",
-          "COUVERT",
+          "35C",
+          "NUAGEUX",
           "ISS",
           "PAS DE"
         ]
