@@ -1,9 +1,9 @@
 {
-  "updated_at": "04/08 00:47",
+  "updated_at": "04/08 01:56",
   "city": "ALBI",
   "weather": {
     "temp": 21,
-    "wind": 4,
+    "wind": 5,
     "tmin": 20,
     "tmax": 32,
     "label": "COUVERT",
@@ -20,14 +20,14 @@
           "",
           "MIN 20C  MAX 32C",
           "",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "21C COUVERT",
           "MIN 20C MAX 32C",
-          "VENT 4 KM/H"
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
@@ -53,7 +53,7 @@
           "METEO ALBI",
           "21C COUVERT",
           "MIN 20C MAX 32C",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
@@ -61,7 +61,7 @@
         ],
         "short": [
           "21C COUVERT",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -77,7 +77,7 @@
           "COUVERT",
           "",
           "20C > 32C",
-          "VT 4KMH"
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
