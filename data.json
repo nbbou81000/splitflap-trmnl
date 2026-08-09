@@ -1,10 +1,10 @@
 {
-  "updated_at": "09/08 06:06",
+  "updated_at": "09/08 07:27",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
-    "wind": 5,
-    "tmin": 21,
+    "temp": 21,
+    "wind": 3,
+    "tmin": 20,
     "tmax": 39,
     "label": "SOLEIL",
     "label_short": "SOLEIL"
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  SOLEIL",
+          "21C  SOLEIL",
           "",
-          "MIN 21C  MAX 39C",
+          "MIN 20C  MAX 39C",
           "",
-          "VENT 5 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C SOLEIL",
-          "MIN 21C MAX 39C",
-          "VENT 5 KM/H"
+          "21C SOLEIL",
+          "MIN 20C MAX 39C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "22C SOLEIL",
-          "MIN 21C MAX 39C",
-          "VENT 5 KM/H",
+          "21C SOLEIL",
+          "MIN 20C MAX 39C",
+          "VENT 3 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "22C SOLEIL",
-          "VENT 5 KM/H",
+          "21C SOLEIL",
+          "VENT 3 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
+          "21C",
           "SOLEIL",
           "",
-          "21C > 39C",
-          "VT 5KMH"
+          "20C > 39C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
+          "21C",
           "SOLEIL",
-          "21C>39C"
+          "20C>39C"
         ]
       },
       "iss": {
@@ -107,16 +107,16 @@
       "both": {
         "full": [
           "ALBI",
-          "22C",
+          "21C",
           "SOLEIL",
-          "21C>39C",
+          "20C>39C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "22C",
+          "21C",
           "SOLEIL",
           "ISS",
           "PAS DE"
