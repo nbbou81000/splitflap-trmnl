@@ -1,13 +1,13 @@
 {
-  "updated_at": "09/08 14:21",
+  "updated_at": "09/08 15:27",
   "city": "ALBI",
   "weather": {
-    "temp": 38,
-    "wind": 8,
+    "temp": 39,
+    "wind": 3,
     "tmin": 20,
     "tmax": 39,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "38C  SOLEIL",
+          "39C  PEU NUAGEUX",
           "",
           "MIN 20C  MAX 39C",
           "",
-          "VENT 8 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "38C SOLEIL",
+          "39C PEU NUAGEUX",
           "MIN 20C MAX 39C",
-          "VENT 8 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "38C SOLEIL",
+          "39C PEU NUAGEUX",
           "MIN 20C MAX 39C",
-          "VENT 8 KM/H",
+          "VENT 3 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "38C SOLEIL",
-          "VENT 8 KM/H",
+          "39C PEU NUAGEUX",
+          "VENT 3 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,16 +73,16 @@
           "METEO",
           "ALBI",
           "",
-          "38C",
-          "SOLEIL",
+          "39C",
+          "NUAGEUX",
           "",
           "20C > 39C",
-          "VT 8KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "38C",
-          "SOLEIL",
+          "39C",
+          "NUAGEUX",
           "20C>39C"
         ]
       },
@@ -107,8 +107,8 @@
       "both": {
         "full": [
           "ALBI",
-          "38C",
-          "SOLEIL",
+          "39C",
+          "NUAGEUX",
           "20C>39C",
           "ISS",
           "PAS DE",
@@ -116,8 +116,8 @@
           "PREVU"
         ],
         "short": [
-          "38C",
-          "SOLEIL",
+          "39C",
+          "NUAGEUX",
           "ISS",
           "PAS DE"
         ]
