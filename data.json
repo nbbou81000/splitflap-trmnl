@@ -1,13 +1,13 @@
 {
-  "updated_at": "10/08 20:09",
+  "updated_at": "10/08 21:26",
   "city": "ALBI",
   "weather": {
-    "temp": 33,
-    "wind": 6,
+    "temp": 32,
+    "wind": 5,
     "tmin": 18,
     "tmax": 34,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "33C  COUVERT",
+          "32C  SOLEIL",
           "",
           "MIN 18C  MAX 34C",
           "",
-          "VENT 6 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "33C COUVERT",
+          "32C SOLEIL",
           "MIN 18C MAX 34C",
-          "VENT 6 KM/H"
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "33C COUVERT",
+          "32C SOLEIL",
           "MIN 18C MAX 34C",
-          "VENT 6 KM/H",
+          "VENT 5 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "33C COUVERT",
-          "VENT 6 KM/H",
+          "32C SOLEIL",
+          "VENT 5 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,16 +73,16 @@
           "METEO",
           "ALBI",
           "",
-          "33C",
-          "COUVERT",
+          "32C",
+          "SOLEIL",
           "",
           "18C > 34C",
-          "VT 6KMH"
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "33C",
-          "COUVERT",
+          "32C",
+          "SOLEIL",
           "18C>34C"
         ]
       },
@@ -107,8 +107,8 @@
       "both": {
         "full": [
           "ALBI",
-          "33C",
-          "COUVERT",
+          "32C",
+          "SOLEIL",
           "18C>34C",
           "ISS",
           "PAS DE",
@@ -116,8 +116,8 @@
           "PREVU"
         ],
         "short": [
-          "33C",
-          "COUVERT",
+          "32C",
+          "SOLEIL",
           "ISS",
           "PAS DE"
         ]
