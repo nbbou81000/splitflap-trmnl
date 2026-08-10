@@ -1,13 +1,13 @@
 {
-  "updated_at": "10/08 16:09",
+  "updated_at": "10/08 17:27",
   "city": "ALBI",
   "weather": {
     "temp": 33,
-    "wind": 10,
+    "wind": 6,
     "tmin": 18,
     "tmax": 34,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "33C  PEU NUAGEUX",
+          "33C  COUVERT",
           "",
           "MIN 18C  MAX 34C",
           "",
-          "VENT 10 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "33C PEU NUAGEUX",
+          "33C COUVERT",
           "MIN 18C MAX 34C",
-          "VENT 10 KM/H"
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "33C PEU NUAGEUX",
+          "33C COUVERT",
           "MIN 18C MAX 34C",
-          "VENT 10 KM/H",
+          "VENT 6 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "33C PEU NUAGEUX",
-          "VENT 10 KM/H",
+          "33C COUVERT",
+          "VENT 6 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -74,15 +74,15 @@
           "ALBI",
           "",
           "33C",
-          "NUAGEUX",
+          "COUVERT",
           "",
           "18C > 34C",
-          "VT 10KMH"
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
           "33C",
-          "NUAGEUX",
+          "COUVERT",
           "18C>34C"
         ]
       },
@@ -108,7 +108,7 @@
         "full": [
           "ALBI",
           "33C",
-          "NUAGEUX",
+          "COUVERT",
           "18C>34C",
           "ISS",
           "PAS DE",
@@ -117,7 +117,7 @@
         ],
         "short": [
           "33C",
-          "NUAGEUX",
+          "COUVERT",
           "ISS",
           "PAS DE"
         ]
