@@ -1,13 +1,13 @@
 {
-  "updated_at": "10/08 05:03",
+  "updated_at": "10/08 07:00",
   "city": "ALBI",
   "weather": {
-    "temp": 20,
-    "wind": 2,
-    "tmin": 19,
+    "temp": 18,
+    "wind": 8,
+    "tmin": 18,
     "tmax": 34,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  SOLEIL",
+          "18C  BROUILLARD",
           "",
-          "MIN 19C  MAX 34C",
+          "MIN 18C  MAX 34C",
           "",
-          "VENT 2 KM/H",
+          "VENT 8 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "20C SOLEIL",
-          "MIN 19C MAX 34C",
-          "VENT 2 KM/H"
+          "18C BROUILLARD",
+          "MIN 18C MAX 34C",
+          "VENT 8 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "20C SOLEIL",
-          "MIN 19C MAX 34C",
-          "VENT 2 KM/H",
+          "18C BROUILLARD",
+          "MIN 18C MAX 34C",
+          "VENT 8 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "20C SOLEIL",
-          "VENT 2 KM/H",
+          "18C BROUILLARD",
+          "VENT 8 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "20C",
-          "SOLEIL",
+          "18C",
+          "BROUILLARD",
           "",
-          "19C > 34C",
-          "VT 2KMH"
+          "18C > 34C",
+          "VT 8KMH"
         ],
         "short": [
           "ALBI",
-          "20C",
-          "SOLEIL",
-          "19C>34C"
+          "18C",
+          "BROUILLARD",
+          "18C>34C"
         ]
       },
       "iss": {
@@ -107,17 +107,17 @@
       "both": {
         "full": [
           "ALBI",
-          "20C",
-          "SOLEIL",
-          "19C>34C",
+          "18C",
+          "BROUILLARD",
+          "18C>34C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "20C",
-          "SOLEIL",
+          "18C",
+          "BROUILLARD",
           "ISS",
           "PAS DE"
         ]
