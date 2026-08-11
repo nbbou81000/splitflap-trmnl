@@ -1,10 +1,10 @@
 {
-  "updated_at": "11/08 08:41",
+  "updated_at": "11/08 10:00",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
+    "temp": 25,
     "wind": 3,
-    "tmin": 21,
+    "tmin": 20,
     "tmax": 36,
     "label": "COUVERT",
     "label_short": "COUVERT"
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  COUVERT",
+          "25C  COUVERT",
           "",
-          "MIN 21C  MAX 36C",
+          "MIN 20C  MAX 36C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C COUVERT",
-          "MIN 21C MAX 36C",
+          "25C COUVERT",
+          "MIN 20C MAX 36C",
           "VENT 3 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "22C COUVERT",
-          "MIN 21C MAX 36C",
+          "25C COUVERT",
+          "MIN 20C MAX 36C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
@@ -66,7 +66,7 @@
           "DUREE 10 MIN"
         ],
         "short": [
-          "22C COUVERT",
+          "25C COUVERT",
           "VENT 3 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
+          "25C",
           "COUVERT",
           "",
-          "21C > 36C",
+          "20C > 36C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
+          "25C",
           "COUVERT",
-          "21C>36C"
+          "20C>36C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "22C",
+          "25C",
           "COUVERT",
-          "21C>36C",
+          "20C>36C",
           "ISS 06H27",
           "16/08",
           "SSO>ENE",
           "10MIN M-0.6"
         ],
         "short": [
-          "22C",
+          "25C",
           "COUVERT",
           "ISS 06H27",
           "16/08"
