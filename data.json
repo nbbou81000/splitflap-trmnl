@@ -1,15 +1,21 @@
 {
-  "updated_at": "11/08 06:12",
+  "updated_at": "11/08 07:32",
   "city": "ALBI",
   "weather": {
     "temp": 21,
-    "wind": 2,
-    "tmin": 20,
-    "tmax": 35,
+    "wind": 3,
+    "tmin": 21,
+    "tmax": 36,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
-  "iss": null,
+  "iss": {
+    "date": "16/08",
+    "time": "06H27",
+    "dir": "SSO>ENE",
+    "mag": -0.6,
+    "duration_min": 10
+  },
   "lines": {
     "wide": {
       "meteo": {
@@ -18,52 +24,52 @@
           "",
           "21C  COUVERT",
           "",
-          "MIN 20C  MAX 35C",
+          "MIN 21C  MAX 36C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "21C COUVERT",
-          "MIN 20C MAX 35C",
-          "VENT 2 KM/H"
+          "MIN 21C MAX 36C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
         "full": [
-          "ISS",
+          "PROCHAINE ISS",
           "",
-          "PAS DE PASSAGE",
-          "VISIBLE PREVU",
+          "LE 16/08 A 06H27",
           "",
+          "SSO>ENE  MAG -0.6",
           "",
-          "",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
-          "ISS",
-          "",
-          "PAS DE PASSAGE",
-          "VISIBLE PREVU"
+          "PROCHAINE ISS",
+          "LE 16/08 A 06H27",
+          "SSO>ENE MAG -0.6",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
           "21C COUVERT",
-          "MIN 20C MAX 35C",
-          "VENT 2 KM/H",
-          "ISS",
-          "",
-          "PAS DE PASSAGE",
-          "VISIBLE PREVU"
+          "MIN 21C MAX 36C",
+          "VENT 3 KM/H",
+          "PROCHAINE ISS",
+          "LE 16/08 A 06H27",
+          "SSO>ENE MAG -0.6",
+          "DUREE 10 MIN"
         ],
         "short": [
           "21C COUVERT",
-          "VENT 2 KM/H",
-          "",
-          "PAS DE PASSAGE"
+          "VENT 3 KM/H",
+          "LE 16/08 A 06H27",
+          "SSO>ENE MAG -0.6"
         ]
       }
     },
@@ -76,32 +82,32 @@
           "21C",
           "COUVERT",
           "",
-          "20C > 35C",
-          "VT 2KMH"
+          "21C > 36C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
           "21C",
           "COUVERT",
-          "20C>35C"
+          "21C>36C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "PAS DE",
-          "PASSAGE",
-          "PREVU",
+          "16/08",
+          "06H27",
           "",
-          "",
-          ""
+          "SSO>ENE",
+          "MAG -0.6",
+          "10 MIN"
         ],
         "short": [
-          "ISS",
-          "PAS DE",
-          "PASSAGE",
-          "PREVU"
+          "ISS 06H27",
+          "16/08",
+          "SSO>ENE",
+          "10MIN M-0.6"
         ]
       },
       "both": {
@@ -109,17 +115,17 @@
           "ALBI",
           "21C",
           "COUVERT",
-          "20C>35C",
-          "ISS",
-          "PAS DE",
-          "PASSAGE",
-          "PREVU"
+          "21C>36C",
+          "ISS 06H27",
+          "16/08",
+          "SSO>ENE",
+          "10MIN M-0.6"
         ],
         "short": [
           "21C",
           "COUVERT",
-          "ISS",
-          "PAS DE"
+          "ISS 06H27",
+          "16/08"
         ]
       }
     }
