@@ -1,9 +1,9 @@
 {
-  "updated_at": "11/08 19:24",
+  "updated_at": "11/08 20:12",
   "city": "ALBI",
   "weather": {
-    "temp": 35,
-    "wind": 11,
+    "temp": 34,
+    "wind": 6,
     "tmin": 20,
     "tmax": 36,
     "label": "PEU NUAGEUX",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "35C  PEU NUAGEUX",
+          "34C  PEU NUAGEUX",
           "",
           "MIN 20C  MAX 36C",
           "",
-          "VENT 11 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "35C PEU NUAGEUX",
+          "34C PEU NUAGEUX",
           "MIN 20C MAX 36C",
-          "VENT 11 KM/H"
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "35C PEU NUAGEUX",
+          "34C PEU NUAGEUX",
           "MIN 20C MAX 36C",
-          "VENT 11 KM/H",
+          "VENT 6 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6",
           "DUREE 10 MIN"
         ],
         "short": [
-          "35C PEU NUAGEUX",
-          "VENT 11 KM/H",
+          "34C PEU NUAGEUX",
+          "VENT 6 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
         ]
@@ -79,15 +79,15 @@
           "METEO",
           "ALBI",
           "",
-          "35C",
+          "34C",
           "NUAGEUX",
           "",
           "20C > 36C",
-          "VT 11KMH"
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
-          "35C",
+          "34C",
           "NUAGEUX",
           "20C>36C"
         ]
@@ -113,7 +113,7 @@
       "both": {
         "full": [
           "ALBI",
-          "35C",
+          "34C",
           "NUAGEUX",
           "20C>36C",
           "ISS 06H27",
@@ -122,7 +122,7 @@
           "10MIN M-0.6"
         ],
         "short": [
-          "35C",
+          "34C",
           "NUAGEUX",
           "ISS 06H27",
           "16/08"
