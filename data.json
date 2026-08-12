@@ -1,11 +1,11 @@
 {
-  "updated_at": "13/08 00:07",
+  "updated_at": "13/08 01:06",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
+    "temp": 19,
     "wind": 5,
-    "tmin": 17,
-    "tmax": 39,
+    "tmin": 16,
+    "tmax": 40,
     "label": "SOLEIL",
     "label_short": "SOLEIL"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  SOLEIL",
+          "19C  SOLEIL",
           "",
-          "MIN 17C  MAX 39C",
+          "MIN 16C  MAX 40C",
           "",
           "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C SOLEIL",
-          "MIN 17C MAX 39C",
+          "19C SOLEIL",
+          "MIN 16C MAX 40C",
           "VENT 5 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "22C SOLEIL",
-          "MIN 17C MAX 39C",
+          "19C SOLEIL",
+          "MIN 16C MAX 40C",
           "VENT 5 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
@@ -66,7 +66,7 @@
           "DUREE 10 MIN"
         ],
         "short": [
-          "22C SOLEIL",
+          "19C SOLEIL",
           "VENT 5 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
+          "19C",
           "SOLEIL",
           "",
-          "17C > 39C",
+          "16C > 40C",
           "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
+          "19C",
           "SOLEIL",
-          "17C>39C"
+          "16C>40C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "22C",
+          "19C",
           "SOLEIL",
-          "17C>39C",
+          "16C>40C",
           "ISS 06H27",
           "16/08",
           "SSO>ENE",
           "10MIN M-0.6"
         ],
         "short": [
-          "22C",
+          "19C",
           "SOLEIL",
           "ISS 06H27",
           "16/08"
