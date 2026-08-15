@@ -1,11 +1,11 @@
 {
-  "updated_at": "15/08 23:41",
+  "updated_at": "16/08 00:07",
   "city": "ALBI",
   "weather": {
-    "temp": 23,
-    "wind": 2,
-    "tmin": 21,
-    "tmax": 34,
+    "temp": 22,
+    "wind": 4,
+    "tmin": 20,
+    "tmax": 30,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "23C  COUVERT",
+          "22C  COUVERT",
           "",
-          "MIN 21C  MAX 34C",
+          "MIN 20C  MAX 30C",
           "",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "23C COUVERT",
-          "MIN 21C MAX 34C",
-          "VENT 2 KM/H"
+          "22C COUVERT",
+          "MIN 20C MAX 30C",
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "23C COUVERT",
-          "MIN 21C MAX 34C",
-          "VENT 2 KM/H",
+          "22C COUVERT",
+          "MIN 20C MAX 30C",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6",
           "DUREE 10 MIN"
         ],
         "short": [
-          "23C COUVERT",
-          "VENT 2 KM/H",
+          "22C COUVERT",
+          "VENT 4 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "23C",
+          "22C",
           "COUVERT",
           "",
-          "21C > 34C",
-          "VT 2KMH"
+          "20C > 30C",
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "23C",
+          "22C",
           "COUVERT",
-          "21C>34C"
+          "20C>30C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "23C",
+          "22C",
           "COUVERT",
-          "21C>34C",
+          "20C>30C",
           "ISS 06H27",
           "16/08",
           "SSO>ENE",
           "10MIN M-0.6"
         ],
         "short": [
-          "23C",
+          "22C",
           "COUVERT",
           "ISS 06H27",
           "16/08"
