@@ -1,13 +1,13 @@
 {
-  "updated_at": "15/08 20:09",
+  "updated_at": "15/08 20:52",
   "city": "ALBI",
   "weather": {
     "temp": 26,
-    "wind": 7,
+    "wind": 8,
     "tmin": 23,
     "tmax": 34,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "16/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "26C  AVERSES",
+          "26C  COUVERT",
           "",
           "MIN 23C  MAX 34C",
           "",
-          "VENT 7 KM/H",
+          "VENT 8 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "26C AVERSES",
+          "26C COUVERT",
           "MIN 23C MAX 34C",
-          "VENT 7 KM/H"
+          "VENT 8 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "26C AVERSES",
+          "26C COUVERT",
           "MIN 23C MAX 34C",
-          "VENT 7 KM/H",
+          "VENT 8 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6",
           "DUREE 10 MIN"
         ],
         "short": [
-          "26C AVERSES",
-          "VENT 7 KM/H",
+          "26C COUVERT",
+          "VENT 8 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "26C",
-          "AVERSES",
+          "COUVERT",
           "",
           "23C > 34C",
-          "VT 7KMH"
+          "VT 8KMH"
         ],
         "short": [
           "ALBI",
           "26C",
-          "AVERSES",
+          "COUVERT",
           "23C>34C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "26C",
-          "AVERSES",
+          "COUVERT",
           "23C>34C",
           "ISS 06H27",
           "16/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "26C",
-          "AVERSES",
+          "COUVERT",
           "ISS 06H27",
           "16/08"
         ]
