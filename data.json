@@ -1,13 +1,13 @@
 {
-  "updated_at": "15/08 01:43",
+  "updated_at": "15/08 02:28",
   "city": "ALBI",
   "weather": {
-    "temp": 26,
-    "wind": 10,
+    "temp": 25,
+    "wind": 9,
     "tmin": 23,
     "tmax": 34,
-    "label": "ORAGE",
-    "label_short": "ORAGE"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "16/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "26C  ORAGE",
+          "25C  COUVERT",
           "",
           "MIN 23C  MAX 34C",
           "",
-          "VENT 10 KM/H",
+          "VENT 9 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "26C ORAGE",
+          "25C COUVERT",
           "MIN 23C MAX 34C",
-          "VENT 10 KM/H"
+          "VENT 9 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "26C ORAGE",
+          "25C COUVERT",
           "MIN 23C MAX 34C",
-          "VENT 10 KM/H",
+          "VENT 9 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6",
           "DUREE 10 MIN"
         ],
         "short": [
-          "26C ORAGE",
-          "VENT 10 KM/H",
+          "25C COUVERT",
+          "VENT 9 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "26C",
-          "ORAGE",
+          "25C",
+          "COUVERT",
           "",
           "23C > 34C",
-          "VT 10KMH"
+          "VT 9KMH"
         ],
         "short": [
           "ALBI",
-          "26C",
-          "ORAGE",
+          "25C",
+          "COUVERT",
           "23C>34C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "26C",
-          "ORAGE",
+          "25C",
+          "COUVERT",
           "23C>34C",
           "ISS 06H27",
           "16/08",
@@ -122,8 +122,8 @@
           "10MIN M-0.6"
         ],
         "short": [
-          "26C",
-          "ORAGE",
+          "25C",
+          "COUVERT",
           "ISS 06H27",
           "16/08"
         ]
