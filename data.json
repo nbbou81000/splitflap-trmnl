@@ -1,9 +1,9 @@
 {
-  "updated_at": "15/08 10:12",
+  "updated_at": "15/08 10:50",
   "city": "ALBI",
   "weather": {
-    "temp": 23,
-    "wind": 5,
+    "temp": 24,
+    "wind": 6,
     "tmin": 22,
     "tmax": 32,
     "label": "COUVERT",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "23C  COUVERT",
+          "24C  COUVERT",
           "",
           "MIN 22C  MAX 32C",
           "",
-          "VENT 5 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "23C COUVERT",
+          "24C COUVERT",
           "MIN 22C MAX 32C",
-          "VENT 5 KM/H"
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "23C COUVERT",
+          "24C COUVERT",
           "MIN 22C MAX 32C",
-          "VENT 5 KM/H",
+          "VENT 6 KM/H",
           "PROCHAINE ISS",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6",
           "DUREE 10 MIN"
         ],
         "short": [
-          "23C COUVERT",
-          "VENT 5 KM/H",
+          "24C COUVERT",
+          "VENT 6 KM/H",
           "LE 16/08 A 06H27",
           "SSO>ENE MAG -0.6"
         ]
@@ -79,15 +79,15 @@
           "METEO",
           "ALBI",
           "",
-          "23C",
+          "24C",
           "COUVERT",
           "",
           "22C > 32C",
-          "VT 5KMH"
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
-          "23C",
+          "24C",
           "COUVERT",
           "22C>32C"
         ]
@@ -113,7 +113,7 @@
       "both": {
         "full": [
           "ALBI",
-          "23C",
+          "24C",
           "COUVERT",
           "22C>32C",
           "ISS 06H27",
@@ -122,7 +122,7 @@
           "10MIN M-0.6"
         ],
         "short": [
-          "23C",
+          "24C",
           "COUVERT",
           "ISS 06H27",
           "16/08"
