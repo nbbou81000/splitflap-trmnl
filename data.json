@@ -1,11 +1,11 @@
 {
-  "updated_at": "16/08 23:40",
+  "updated_at": "17/08 00:07",
   "city": "ALBI",
   "weather": {
-    "temp": 23,
-    "wind": 2,
-    "tmin": 21,
-    "tmax": 29,
+    "temp": 22,
+    "wind": 3,
+    "tmin": 19,
+    "tmax": 31,
     "label": "SOLEIL",
     "label_short": "SOLEIL"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "23C  SOLEIL",
+          "22C  SOLEIL",
           "",
-          "MIN 21C  MAX 29C",
+          "MIN 19C  MAX 31C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "23C SOLEIL",
-          "MIN 21C MAX 29C",
-          "VENT 2 KM/H"
+          "22C SOLEIL",
+          "MIN 19C MAX 31C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "23C SOLEIL",
-          "MIN 21C MAX 29C",
-          "VENT 2 KM/H",
+          "22C SOLEIL",
+          "MIN 19C MAX 31C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 17/08 A 05H40",
           "S>ENE MAG 0.1",
           "DUREE 7 MIN"
         ],
         "short": [
-          "23C SOLEIL",
-          "VENT 2 KM/H",
+          "22C SOLEIL",
+          "VENT 3 KM/H",
           "LE 17/08 A 05H40",
           "S>ENE MAG 0.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "23C",
+          "22C",
           "SOLEIL",
           "",
-          "21C > 29C",
-          "VT 2KMH"
+          "19C > 31C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "23C",
+          "22C",
           "SOLEIL",
-          "21C>29C"
+          "19C>31C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "23C",
+          "22C",
           "SOLEIL",
-          "21C>29C",
+          "19C>31C",
           "ISS 05H40",
           "17/08",
           "S>ENE",
           "7MIN M0.1"
         ],
         "short": [
-          "23C",
+          "22C",
           "SOLEIL",
           "ISS 05H40",
           "17/08"
