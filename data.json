@@ -1,20 +1,20 @@
 {
-  "updated_at": "16/08 06:05",
+  "updated_at": "16/08 06:56",
   "city": "ALBI",
   "weather": {
     "temp": 21,
     "wind": 1,
     "tmin": 21,
-    "tmax": 28,
+    "tmax": 29,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
   "iss": {
-    "date": "16/08",
-    "time": "06H27",
-    "dir": "SSO>ENE",
-    "mag": -0.6,
-    "duration_min": 10
+    "date": "17/08",
+    "time": "05H40",
+    "dir": "S>ENE",
+    "mag": 0.1,
+    "duration_min": 7
   },
   "lines": {
     "wide": {
@@ -24,7 +24,7 @@
           "",
           "21C  COUVERT",
           "",
-          "MIN 21C  MAX 28C",
+          "MIN 21C  MAX 29C",
           "",
           "VENT 1 KM/H",
           ""
@@ -32,7 +32,7 @@
         "short": [
           "METEO ALBI",
           "21C COUVERT",
-          "MIN 21C MAX 28C",
+          "MIN 21C MAX 29C",
           "VENT 1 KM/H"
         ]
       },
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 16/08 A 06H27",
+          "LE 17/08 A 05H40",
           "",
-          "SSO>ENE  MAG -0.6",
+          "S>ENE  MAG 0.1",
           "",
-          "DUREE 10 MIN",
+          "DUREE 7 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 16/08 A 06H27",
-          "SSO>ENE MAG -0.6",
-          "DUREE 10 MIN"
+          "LE 17/08 A 05H40",
+          "S>ENE MAG 0.1",
+          "DUREE 7 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
           "21C COUVERT",
-          "MIN 21C MAX 28C",
+          "MIN 21C MAX 29C",
           "VENT 1 KM/H",
           "PROCHAINE ISS",
-          "LE 16/08 A 06H27",
-          "SSO>ENE MAG -0.6",
-          "DUREE 10 MIN"
+          "LE 17/08 A 05H40",
+          "S>ENE MAG 0.1",
+          "DUREE 7 MIN"
         ],
         "short": [
           "21C COUVERT",
           "VENT 1 KM/H",
-          "LE 16/08 A 06H27",
-          "SSO>ENE MAG -0.6"
+          "LE 17/08 A 05H40",
+          "S>ENE MAG 0.1"
         ]
       }
     },
@@ -82,32 +82,32 @@
           "21C",
           "COUVERT",
           "",
-          "21C > 28C",
+          "21C > 29C",
           "VT 1KMH"
         ],
         "short": [
           "ALBI",
           "21C",
           "COUVERT",
-          "21C>28C"
+          "21C>29C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "16/08",
-          "06H27",
+          "17/08",
+          "05H40",
           "",
-          "SSO>ENE",
-          "MAG -0.6",
-          "10 MIN"
+          "S>ENE",
+          "MAG 0.1",
+          "7 MIN"
         ],
         "short": [
-          "ISS 06H27",
-          "16/08",
-          "SSO>ENE",
-          "10MIN M-0.6"
+          "ISS 05H40",
+          "17/08",
+          "S>ENE",
+          "7MIN M0.1"
         ]
       },
       "both": {
@@ -115,17 +115,17 @@
           "ALBI",
           "21C",
           "COUVERT",
-          "21C>28C",
-          "ISS 06H27",
-          "16/08",
-          "SSO>ENE",
-          "10MIN M-0.6"
+          "21C>29C",
+          "ISS 05H40",
+          "17/08",
+          "S>ENE",
+          "7MIN M0.1"
         ],
         "short": [
           "21C",
           "COUVERT",
-          "ISS 06H27",
-          "16/08"
+          "ISS 05H40",
+          "17/08"
         ]
       }
     }
