@@ -1,20 +1,20 @@
 {
-  "updated_at": "17/08 05:24",
+  "updated_at": "17/08 06:08",
   "city": "ALBI",
   "weather": {
-    "temp": 20,
-    "wind": 3,
+    "temp": 19,
+    "wind": 2,
     "tmin": 19,
     "tmax": 31,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
   "iss": {
-    "date": "17/08",
-    "time": "05H40",
-    "dir": "S>ENE",
-    "mag": 0.1,
-    "duration_min": 7
+    "date": "18/08",
+    "time": "06H28",
+    "dir": "SO>ENE",
+    "mag": -2.1,
+    "duration_min": 9
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  BROUILLARD",
+          "19C  BROUILLARD",
           "",
           "MIN 19C  MAX 31C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "20C BROUILLARD",
+          "19C BROUILLARD",
           "MIN 19C MAX 31C",
-          "VENT 3 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 17/08 A 05H40",
+          "LE 18/08 A 06H28",
           "",
-          "S>ENE  MAG 0.1",
+          "SO>ENE  MAG -2.1",
           "",
-          "DUREE 7 MIN",
+          "DUREE 9 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 17/08 A 05H40",
-          "S>ENE MAG 0.1",
-          "DUREE 7 MIN"
+          "LE 18/08 A 06H28",
+          "SO>ENE MAG -2.1",
+          "DUREE 9 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "20C BROUILLARD",
+          "19C BROUILLARD",
           "MIN 19C MAX 31C",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
-          "LE 17/08 A 05H40",
-          "S>ENE MAG 0.1",
-          "DUREE 7 MIN"
+          "LE 18/08 A 06H28",
+          "SO>ENE MAG -2.1",
+          "DUREE 9 MIN"
         ],
         "short": [
-          "20C BROUILLARD",
-          "VENT 3 KM/H",
-          "LE 17/08 A 05H40",
-          "S>ENE MAG 0.1"
+          "19C BROUILLARD",
+          "VENT 2 KM/H",
+          "LE 18/08 A 06H28",
+          "SO>ENE MAG -2.1"
         ]
       }
     },
@@ -79,15 +79,15 @@
           "METEO",
           "ALBI",
           "",
-          "20C",
+          "19C",
           "BROUILLARD",
           "",
           "19C > 31C",
-          "VT 3KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "20C",
+          "19C",
           "BROUILLARD",
           "19C>31C"
         ]
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "17/08",
-          "05H40",
+          "18/08",
+          "06H28",
           "",
-          "S>ENE",
-          "MAG 0.1",
-          "7 MIN"
+          "SO>ENE",
+          "MAG -2.1",
+          "9 MIN"
         ],
         "short": [
-          "ISS 05H40",
-          "17/08",
-          "S>ENE",
-          "7MIN M0.1"
+          "ISS 06H28",
+          "18/08",
+          "SO>ENE",
+          "9MIN M-2.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "20C",
+          "19C",
           "BROUILLARD",
           "19C>31C",
-          "ISS 05H40",
-          "17/08",
-          "S>ENE",
-          "7MIN M0.1"
+          "ISS 06H28",
+          "18/08",
+          "SO>ENE",
+          "9MIN M-2.1"
         ],
         "short": [
-          "20C",
+          "19C",
           "BROUILLARD",
-          "ISS 05H40",
-          "17/08"
+          "ISS 06H28",
+          "18/08"
         ]
       }
     }
