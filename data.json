@@ -1,11 +1,11 @@
 {
-  "updated_at": "19/08 00:09",
+  "updated_at": "19/08 00:45",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
-    "wind": 3,
-    "tmin": 16,
-    "tmax": 35,
+    "temp": 23,
+    "wind": 2,
+    "tmin": 17,
+    "tmax": 34,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  PEU NUAGEUX",
+          "23C  PEU NUAGEUX",
           "",
-          "MIN 16C  MAX 35C",
+          "MIN 17C  MAX 34C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C PEU NUAGEUX",
-          "MIN 16C MAX 35C",
-          "VENT 3 KM/H"
+          "23C PEU NUAGEUX",
+          "MIN 17C MAX 34C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "22C PEU NUAGEUX",
-          "MIN 16C MAX 35C",
-          "VENT 3 KM/H",
+          "23C PEU NUAGEUX",
+          "MIN 17C MAX 34C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 19/08 A 05H40",
           "SO>ENE MAG -1.3",
           "DUREE 7 MIN"
         ],
         "short": [
-          "22C PEU NUAGEUX",
-          "VENT 3 KM/H",
+          "23C PEU NUAGEUX",
+          "VENT 2 KM/H",
           "LE 19/08 A 05H40",
           "SO>ENE MAG -1.3"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
+          "23C",
           "NUAGEUX",
           "",
-          "16C > 35C",
-          "VT 3KMH"
+          "17C > 34C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
+          "23C",
           "NUAGEUX",
-          "16C>35C"
+          "17C>34C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "22C",
+          "23C",
           "NUAGEUX",
-          "16C>35C",
+          "17C>34C",
           "ISS 05H40",
           "19/08",
           "SO>ENE",
           "7MIN M-1.3"
         ],
         "short": [
-          "22C",
+          "23C",
           "NUAGEUX",
           "ISS 05H40",
           "19/08"
