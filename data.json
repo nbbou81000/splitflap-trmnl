@@ -1,11 +1,11 @@
 {
-  "updated_at": "18/08 23:43",
+  "updated_at": "19/08 00:09",
   "city": "ALBI",
   "weather": {
-    "temp": 23,
+    "temp": 22,
     "wind": 3,
-    "tmin": 21,
-    "tmax": 31,
+    "tmin": 16,
+    "tmax": 35,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "23C  PEU NUAGEUX",
+          "22C  PEU NUAGEUX",
           "",
-          "MIN 21C  MAX 31C",
+          "MIN 16C  MAX 35C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "23C PEU NUAGEUX",
-          "MIN 21C MAX 31C",
+          "22C PEU NUAGEUX",
+          "MIN 16C MAX 35C",
           "VENT 3 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "23C PEU NUAGEUX",
-          "MIN 21C MAX 31C",
+          "22C PEU NUAGEUX",
+          "MIN 16C MAX 35C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 19/08 A 05H40",
@@ -66,7 +66,7 @@
           "DUREE 7 MIN"
         ],
         "short": [
-          "23C PEU NUAGEUX",
+          "22C PEU NUAGEUX",
           "VENT 3 KM/H",
           "LE 19/08 A 05H40",
           "SO>ENE MAG -1.3"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "23C",
+          "22C",
           "NUAGEUX",
           "",
-          "21C > 31C",
+          "16C > 35C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "23C",
+          "22C",
           "NUAGEUX",
-          "21C>31C"
+          "16C>35C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "23C",
+          "22C",
           "NUAGEUX",
-          "21C>31C",
+          "16C>35C",
           "ISS 05H40",
           "19/08",
           "SO>ENE",
           "7MIN M-1.3"
         ],
         "short": [
-          "23C",
+          "22C",
           "NUAGEUX",
           "ISS 05H40",
           "19/08"
