@@ -1,13 +1,13 @@
 {
-  "updated_at": "19/08 22:11",
+  "updated_at": "19/08 22:49",
   "city": "ALBI",
   "weather": {
-    "temp": 28,
-    "wind": 7,
+    "temp": 27,
+    "wind": 3,
     "tmin": 16,
     "tmax": 35,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "20/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "28C  PEU NUAGEUX",
+          "27C  AVERSES",
           "",
           "MIN 16C  MAX 35C",
           "",
-          "VENT 7 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "28C PEU NUAGEUX",
+          "27C AVERSES",
           "MIN 16C MAX 35C",
-          "VENT 7 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "28C PEU NUAGEUX",
+          "27C AVERSES",
           "MIN 16C MAX 35C",
-          "VENT 7 KM/H",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6",
           "DUREE 5 MIN"
         ],
         "short": [
-          "28C PEU NUAGEUX",
-          "VENT 7 KM/H",
+          "27C AVERSES",
+          "VENT 3 KM/H",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "28C",
-          "NUAGEUX",
+          "27C",
+          "AVERSES",
           "",
           "16C > 35C",
-          "VT 7KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "28C",
-          "NUAGEUX",
+          "27C",
+          "AVERSES",
           "16C>35C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "28C",
-          "NUAGEUX",
+          "27C",
+          "AVERSES",
           "16C>35C",
           "ISS 04H53",
           "20/08",
@@ -122,8 +122,8 @@
           "5MIN M-0.6"
         ],
         "short": [
-          "28C",
-          "NUAGEUX",
+          "27C",
+          "AVERSES",
           "ISS 04H53",
           "20/08"
         ]
