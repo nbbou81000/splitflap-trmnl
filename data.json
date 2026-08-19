@@ -1,8 +1,8 @@
 {
-  "updated_at": "19/08 04:53",
+  "updated_at": "19/08 05:35",
   "city": "ALBI",
   "weather": {
-    "temp": 20,
+    "temp": 19,
     "wind": 3,
     "tmin": 17,
     "tmax": 34,
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  BROUILLARD",
+          "19C  BROUILLARD",
           "",
           "MIN 17C  MAX 34C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "20C BROUILLARD",
+          "19C BROUILLARD",
           "MIN 17C MAX 34C",
           "VENT 3 KM/H"
         ]
@@ -57,7 +57,7 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "20C BROUILLARD",
+          "19C BROUILLARD",
           "MIN 17C MAX 34C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
@@ -66,7 +66,7 @@
           "DUREE 7 MIN"
         ],
         "short": [
-          "20C BROUILLARD",
+          "19C BROUILLARD",
           "VENT 3 KM/H",
           "LE 19/08 A 05H40",
           "SO>ENE MAG -1.3"
@@ -79,7 +79,7 @@
           "METEO",
           "ALBI",
           "",
-          "20C",
+          "19C",
           "BROUILLARD",
           "",
           "17C > 34C",
@@ -87,7 +87,7 @@
         ],
         "short": [
           "ALBI",
-          "20C",
+          "19C",
           "BROUILLARD",
           "17C>34C"
         ]
@@ -113,7 +113,7 @@
       "both": {
         "full": [
           "ALBI",
-          "20C",
+          "19C",
           "BROUILLARD",
           "17C>34C",
           "ISS 05H40",
@@ -122,7 +122,7 @@
           "7MIN M-1.3"
         ],
         "short": [
-          "20C",
+          "19C",
           "BROUILLARD",
           "ISS 05H40",
           "19/08"
