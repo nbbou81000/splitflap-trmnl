@@ -1,13 +1,13 @@
 {
-  "updated_at": "19/08 18:52",
+  "updated_at": "19/08 19:15",
   "city": "ALBI",
   "weather": {
     "temp": 33,
-    "wind": 14,
+    "wind": 15,
     "tmin": 16,
     "tmax": 35,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "20/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "33C  PEU NUAGEUX",
+          "33C  AVERSES",
           "",
           "MIN 16C  MAX 35C",
           "",
-          "VENT 14 KM/H",
+          "VENT 15 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "33C PEU NUAGEUX",
+          "33C AVERSES",
           "MIN 16C MAX 35C",
-          "VENT 14 KM/H"
+          "VENT 15 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "33C PEU NUAGEUX",
+          "33C AVERSES",
           "MIN 16C MAX 35C",
-          "VENT 14 KM/H",
+          "VENT 15 KM/H",
           "PROCHAINE ISS",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6",
           "DUREE 5 MIN"
         ],
         "short": [
-          "33C PEU NUAGEUX",
-          "VENT 14 KM/H",
+          "33C AVERSES",
+          "VENT 15 KM/H",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "33C",
-          "NUAGEUX",
+          "AVERSES",
           "",
           "16C > 35C",
-          "VT 14KMH"
+          "VT 15KMH"
         ],
         "short": [
           "ALBI",
           "33C",
-          "NUAGEUX",
+          "AVERSES",
           "16C>35C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "33C",
-          "NUAGEUX",
+          "AVERSES",
           "16C>35C",
           "ISS 04H53",
           "20/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "33C",
-          "NUAGEUX",
+          "AVERSES",
           "ISS 04H53",
           "20/08"
         ]
