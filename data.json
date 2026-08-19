@@ -1,9 +1,9 @@
 {
-  "updated_at": "19/08 13:46",
+  "updated_at": "19/08 14:17",
   "city": "ALBI",
   "weather": {
     "temp": 32,
-    "wind": 4,
+    "wind": 5,
     "tmin": 16,
     "tmax": 34,
     "label": "SOLEIL",
@@ -26,14 +26,14 @@
           "",
           "MIN 16C  MAX 34C",
           "",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "32C SOLEIL",
           "MIN 16C MAX 34C",
-          "VENT 4 KM/H"
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
@@ -59,7 +59,7 @@
           "METEO ALBI",
           "32C SOLEIL",
           "MIN 16C MAX 34C",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           "PROCHAINE ISS",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6",
@@ -67,7 +67,7 @@
         ],
         "short": [
           "32C SOLEIL",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6"
         ]
@@ -83,7 +83,7 @@
           "SOLEIL",
           "",
           "16C > 34C",
-          "VT 4KMH"
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
