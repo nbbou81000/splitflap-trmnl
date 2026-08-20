@@ -1,13 +1,13 @@
 {
-  "updated_at": "20/08 03:57",
+  "updated_at": "20/08 04:50",
   "city": "ALBI",
   "weather": {
     "temp": 21,
-    "wind": 4,
+    "wind": 3,
     "tmin": 21,
     "tmax": 29,
-    "label": "ORAGE",
-    "label_short": "ORAGE"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "20/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  ORAGE",
+          "21C  COUVERT",
           "",
           "MIN 21C  MAX 29C",
           "",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C ORAGE",
+          "21C COUVERT",
           "MIN 21C MAX 29C",
-          "VENT 4 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "21C ORAGE",
+          "21C COUVERT",
           "MIN 21C MAX 29C",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6",
           "DUREE 5 MIN"
         ],
         "short": [
-          "21C ORAGE",
-          "VENT 4 KM/H",
+          "21C COUVERT",
+          "VENT 3 KM/H",
           "LE 20/08 A 04H53",
           "SSO>ENE MAG -0.6"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "21C",
-          "ORAGE",
+          "COUVERT",
           "",
           "21C > 29C",
-          "VT 4KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
           "21C",
-          "ORAGE",
+          "COUVERT",
           "21C>29C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "21C",
-          "ORAGE",
+          "COUVERT",
           "21C>29C",
           "ISS 04H53",
           "20/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "21C",
-          "ORAGE",
+          "COUVERT",
           "ISS 04H53",
           "20/08"
         ]
