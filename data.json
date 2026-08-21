@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 06:07",
+  "updated_at": "21/08 07:00",
   "city": "ALBI",
   "weather": {
     "temp": 18,
-    "wind": 7,
-    "tmin": 17,
+    "wind": 6,
+    "tmin": 18,
     "tmax": 23,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "22/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  AVERSES",
+          "18C  COUVERT",
           "",
-          "MIN 17C  MAX 23C",
+          "MIN 18C  MAX 23C",
           "",
-          "VENT 7 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C AVERSES",
-          "MIN 17C MAX 23C",
-          "VENT 7 KM/H"
+          "18C COUVERT",
+          "MIN 18C MAX 23C",
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "18C AVERSES",
-          "MIN 17C MAX 23C",
-          "VENT 7 KM/H",
+          "18C COUVERT",
+          "MIN 18C MAX 23C",
+          "VENT 6 KM/H",
           "PROCHAINE ISS",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2",
           "DUREE 5 MIN"
         ],
         "short": [
-          "18C AVERSES",
-          "VENT 7 KM/H",
+          "18C COUVERT",
+          "VENT 6 KM/H",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2"
         ]
@@ -80,16 +80,16 @@
           "ALBI",
           "",
           "18C",
-          "AVERSES",
+          "COUVERT",
           "",
-          "17C > 23C",
-          "VT 7KMH"
+          "18C > 23C",
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
           "18C",
-          "AVERSES",
-          "17C>23C"
+          "COUVERT",
+          "18C>23C"
         ]
       },
       "iss": {
@@ -114,8 +114,8 @@
         "full": [
           "ALBI",
           "18C",
-          "AVERSES",
-          "17C>23C",
+          "COUVERT",
+          "18C>23C",
           "ISS 04H53",
           "22/08",
           "SO>ENE",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "18C",
-          "AVERSES",
+          "COUVERT",
           "ISS 04H53",
           "22/08"
         ]
