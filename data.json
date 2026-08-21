@@ -1,20 +1,20 @@
 {
-  "updated_at": "21/08 02:30",
+  "updated_at": "21/08 04:15",
   "city": "ALBI",
   "weather": {
-    "temp": 19,
-    "wind": 4,
+    "temp": 18,
+    "wind": 11,
     "tmin": 17,
-    "tmax": 24,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "tmax": 23,
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
     "date": "21/08",
-    "time": "04H05",
-    "dir": "S>ENE",
-    "mag": 0.4,
-    "duration_min": 3
+    "time": "05H41",
+    "dir": "SO>NE",
+    "mag": -2.4,
+    "duration_min": 7
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "19C  AVERSES",
+          "18C  PLUIE",
           "",
-          "MIN 17C  MAX 24C",
+          "MIN 17C  MAX 23C",
           "",
-          "VENT 4 KM/H",
+          "VENT 11 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "19C AVERSES",
-          "MIN 17C MAX 24C",
-          "VENT 4 KM/H"
+          "18C PLUIE",
+          "MIN 17C MAX 23C",
+          "VENT 11 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 21/08 A 04H05",
+          "LE 21/08 A 05H41",
           "",
-          "S>ENE  MAG 0.4",
+          "SO>NE  MAG -2.4",
           "",
-          "DUREE 3 MIN",
+          "DUREE 7 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 21/08 A 04H05",
-          "S>ENE MAG 0.4",
-          "DUREE 3 MIN"
+          "LE 21/08 A 05H41",
+          "SO>NE MAG -2.4",
+          "DUREE 7 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "19C AVERSES",
-          "MIN 17C MAX 24C",
-          "VENT 4 KM/H",
+          "18C PLUIE",
+          "MIN 17C MAX 23C",
+          "VENT 11 KM/H",
           "PROCHAINE ISS",
-          "LE 21/08 A 04H05",
-          "S>ENE MAG 0.4",
-          "DUREE 3 MIN"
+          "LE 21/08 A 05H41",
+          "SO>NE MAG -2.4",
+          "DUREE 7 MIN"
         ],
         "short": [
-          "19C AVERSES",
-          "VENT 4 KM/H",
-          "LE 21/08 A 04H05",
-          "S>ENE MAG 0.4"
+          "18C PLUIE",
+          "VENT 11 KM/H",
+          "LE 21/08 A 05H41",
+          "SO>NE MAG -2.4"
         ]
       }
     },
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "19C",
-          "AVERSES",
+          "18C",
+          "PLUIE",
           "",
-          "17C > 24C",
-          "VT 4KMH"
+          "17C > 23C",
+          "VT 11KMH"
         ],
         "short": [
           "ALBI",
-          "19C",
-          "AVERSES",
-          "17C>24C"
+          "18C",
+          "PLUIE",
+          "17C>23C"
         ]
       },
       "iss": {
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "21/08",
-          "04H05",
+          "05H41",
           "",
-          "S>ENE",
-          "MAG 0.4",
-          "3 MIN"
+          "SO>NE",
+          "MAG -2.4",
+          "7 MIN"
         ],
         "short": [
-          "ISS 04H05",
+          "ISS 05H41",
           "21/08",
-          "S>ENE",
-          "3MIN M0.4"
+          "SO>NE",
+          "7MIN M-2.4"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "19C",
-          "AVERSES",
-          "17C>24C",
-          "ISS 04H05",
+          "18C",
+          "PLUIE",
+          "17C>23C",
+          "ISS 05H41",
           "21/08",
-          "S>ENE",
-          "3MIN M0.4"
+          "SO>NE",
+          "7MIN M-2.4"
         ],
         "short": [
-          "19C",
-          "AVERSES",
-          "ISS 04H05",
+          "18C",
+          "PLUIE",
+          "ISS 05H41",
           "21/08"
         ]
       }
