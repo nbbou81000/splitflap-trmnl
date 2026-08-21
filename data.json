@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 16:59",
+  "updated_at": "21/08 17:30",
   "city": "ALBI",
   "weather": {
     "temp": 21,
-    "wind": 15,
+    "wind": 14,
     "tmin": 18,
     "tmax": 22,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "22/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  PEU NUAGEUX",
+          "21C  COUVERT",
           "",
           "MIN 18C  MAX 22C",
           "",
-          "VENT 15 KM/H",
+          "VENT 14 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C PEU NUAGEUX",
+          "21C COUVERT",
           "MIN 18C MAX 22C",
-          "VENT 15 KM/H"
+          "VENT 14 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "21C PEU NUAGEUX",
+          "21C COUVERT",
           "MIN 18C MAX 22C",
-          "VENT 15 KM/H",
+          "VENT 14 KM/H",
           "PROCHAINE ISS",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2",
           "DUREE 5 MIN"
         ],
         "short": [
-          "21C PEU NUAGEUX",
-          "VENT 15 KM/H",
+          "21C COUVERT",
+          "VENT 14 KM/H",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "21C",
-          "NUAGEUX",
+          "COUVERT",
           "",
           "18C > 22C",
-          "VT 15KMH"
+          "VT 14KMH"
         ],
         "short": [
           "ALBI",
           "21C",
-          "NUAGEUX",
+          "COUVERT",
           "18C>22C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "21C",
-          "NUAGEUX",
+          "COUVERT",
           "18C>22C",
           "ISS 04H53",
           "22/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "21C",
-          "NUAGEUX",
+          "COUVERT",
           "ISS 04H53",
           "22/08"
         ]
