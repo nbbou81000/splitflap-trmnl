@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 01:45",
+  "updated_at": "21/08 02:30",
   "city": "ALBI",
   "weather": {
     "temp": 19,
-    "wind": 6,
+    "wind": 4,
     "tmin": 17,
     "tmax": 24,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "21/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "19C  COUVERT",
+          "19C  AVERSES",
           "",
           "MIN 17C  MAX 24C",
           "",
-          "VENT 6 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "19C COUVERT",
+          "19C AVERSES",
           "MIN 17C MAX 24C",
-          "VENT 6 KM/H"
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "19C COUVERT",
+          "19C AVERSES",
           "MIN 17C MAX 24C",
-          "VENT 6 KM/H",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 21/08 A 04H05",
           "S>ENE MAG 0.4",
           "DUREE 3 MIN"
         ],
         "short": [
-          "19C COUVERT",
-          "VENT 6 KM/H",
+          "19C AVERSES",
+          "VENT 4 KM/H",
           "LE 21/08 A 04H05",
           "S>ENE MAG 0.4"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "19C",
-          "COUVERT",
+          "AVERSES",
           "",
           "17C > 24C",
-          "VT 6KMH"
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
           "19C",
-          "COUVERT",
+          "AVERSES",
           "17C>24C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "19C",
-          "COUVERT",
+          "AVERSES",
           "17C>24C",
           "ISS 04H05",
           "21/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "19C",
-          "COUVERT",
+          "AVERSES",
           "ISS 04H05",
           "21/08"
         ]
