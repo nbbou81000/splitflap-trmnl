@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 11:56",
+  "updated_at": "21/08 12:20",
   "city": "ALBI",
   "weather": {
     "temp": 20,
-    "wind": 11,
+    "wind": 13,
     "tmin": 18,
     "tmax": 22,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
     "date": "22/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  COUVERT",
+          "20C  PLUIE",
           "",
           "MIN 18C  MAX 22C",
           "",
-          "VENT 11 KM/H",
+          "VENT 13 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "20C COUVERT",
+          "20C PLUIE",
           "MIN 18C MAX 22C",
-          "VENT 11 KM/H"
+          "VENT 13 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "20C COUVERT",
+          "20C PLUIE",
           "MIN 18C MAX 22C",
-          "VENT 11 KM/H",
+          "VENT 13 KM/H",
           "PROCHAINE ISS",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2",
           "DUREE 5 MIN"
         ],
         "short": [
-          "20C COUVERT",
-          "VENT 11 KM/H",
+          "20C PLUIE",
+          "VENT 13 KM/H",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "20C",
-          "COUVERT",
+          "PLUIE",
           "",
           "18C > 22C",
-          "VT 11KMH"
+          "VT 13KMH"
         ],
         "short": [
           "ALBI",
           "20C",
-          "COUVERT",
+          "PLUIE",
           "18C>22C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "20C",
-          "COUVERT",
+          "PLUIE",
           "18C>22C",
           "ISS 04H53",
           "22/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "20C",
-          "COUVERT",
+          "PLUIE",
           "ISS 04H53",
           "22/08"
         ]
