@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 15:23",
+  "updated_at": "21/08 16:03",
   "city": "ALBI",
   "weather": {
-    "temp": 21,
-    "wind": 18,
+    "temp": 20,
+    "wind": 11,
     "tmin": 18,
     "tmax": 22,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "22/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  COUVERT",
+          "20C  AVERSES",
           "",
           "MIN 18C  MAX 22C",
           "",
-          "VENT 18 KM/H",
+          "VENT 11 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C COUVERT",
+          "20C AVERSES",
           "MIN 18C MAX 22C",
-          "VENT 18 KM/H"
+          "VENT 11 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "21C COUVERT",
+          "20C AVERSES",
           "MIN 18C MAX 22C",
-          "VENT 18 KM/H",
+          "VENT 11 KM/H",
           "PROCHAINE ISS",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2",
           "DUREE 5 MIN"
         ],
         "short": [
-          "21C COUVERT",
-          "VENT 18 KM/H",
+          "20C AVERSES",
+          "VENT 11 KM/H",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "21C",
-          "COUVERT",
+          "20C",
+          "AVERSES",
           "",
           "18C > 22C",
-          "VT 18KMH"
+          "VT 11KMH"
         ],
         "short": [
           "ALBI",
-          "21C",
-          "COUVERT",
+          "20C",
+          "AVERSES",
           "18C>22C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "21C",
-          "COUVERT",
+          "20C",
+          "AVERSES",
           "18C>22C",
           "ISS 04H53",
           "22/08",
@@ -122,8 +122,8 @@
           "5MIN M-2"
         ],
         "short": [
-          "21C",
-          "COUVERT",
+          "20C",
+          "AVERSES",
           "ISS 04H53",
           "22/08"
         ]
