@@ -1,9 +1,9 @@
 {
-  "updated_at": "21/08 17:30",
+  "updated_at": "21/08 18:17",
   "city": "ALBI",
   "weather": {
     "temp": 21,
-    "wind": 14,
+    "wind": 11,
     "tmin": 18,
     "tmax": 22,
     "label": "COUVERT",
@@ -26,14 +26,14 @@
           "",
           "MIN 18C  MAX 22C",
           "",
-          "VENT 14 KM/H",
+          "VENT 11 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "21C COUVERT",
           "MIN 18C MAX 22C",
-          "VENT 14 KM/H"
+          "VENT 11 KM/H"
         ]
       },
       "iss": {
@@ -59,7 +59,7 @@
           "METEO ALBI",
           "21C COUVERT",
           "MIN 18C MAX 22C",
-          "VENT 14 KM/H",
+          "VENT 11 KM/H",
           "PROCHAINE ISS",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2",
@@ -67,7 +67,7 @@
         ],
         "short": [
           "21C COUVERT",
-          "VENT 14 KM/H",
+          "VENT 11 KM/H",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2"
         ]
@@ -83,7 +83,7 @@
           "COUVERT",
           "",
           "18C > 22C",
-          "VT 14KMH"
+          "VT 11KMH"
         ],
         "short": [
           "ALBI",
