@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 04:15",
+  "updated_at": "21/08 05:26",
   "city": "ALBI",
   "weather": {
-    "temp": 18,
-    "wind": 11,
+    "temp": 17,
+    "wind": 5,
     "tmin": 17,
     "tmax": 23,
-    "label": "PLUIE",
-    "label_short": "PLUIE"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "21/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  PLUIE",
+          "17C  AVERSES",
           "",
           "MIN 17C  MAX 23C",
           "",
-          "VENT 11 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C PLUIE",
+          "17C AVERSES",
           "MIN 17C MAX 23C",
-          "VENT 11 KM/H"
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "18C PLUIE",
+          "17C AVERSES",
           "MIN 17C MAX 23C",
-          "VENT 11 KM/H",
+          "VENT 5 KM/H",
           "PROCHAINE ISS",
           "LE 21/08 A 05H41",
           "SO>NE MAG -2.4",
           "DUREE 7 MIN"
         ],
         "short": [
-          "18C PLUIE",
-          "VENT 11 KM/H",
+          "17C AVERSES",
+          "VENT 5 KM/H",
           "LE 21/08 A 05H41",
           "SO>NE MAG -2.4"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "18C",
-          "PLUIE",
+          "17C",
+          "AVERSES",
           "",
           "17C > 23C",
-          "VT 11KMH"
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "18C",
-          "PLUIE",
+          "17C",
+          "AVERSES",
           "17C>23C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "18C",
-          "PLUIE",
+          "17C",
+          "AVERSES",
           "17C>23C",
           "ISS 05H41",
           "21/08",
@@ -122,8 +122,8 @@
           "7MIN M-2.4"
         ],
         "short": [
-          "18C",
-          "PLUIE",
+          "17C",
+          "AVERSES",
           "ISS 05H41",
           "21/08"
         ]
