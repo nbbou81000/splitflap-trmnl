@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/08 23:11",
+  "updated_at": "21/08 23:44",
   "city": "ALBI",
   "weather": {
-    "temp": 19,
-    "wind": 1,
+    "temp": 18,
+    "wind": 3,
     "tmin": 18,
     "tmax": 22,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "22/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "19C  PEU NUAGEUX",
+          "18C  COUVERT",
           "",
           "MIN 18C  MAX 22C",
           "",
-          "VENT 1 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "19C PEU NUAGEUX",
+          "18C COUVERT",
           "MIN 18C MAX 22C",
-          "VENT 1 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "19C PEU NUAGEUX",
+          "18C COUVERT",
           "MIN 18C MAX 22C",
-          "VENT 1 KM/H",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2",
           "DUREE 5 MIN"
         ],
         "short": [
-          "19C PEU NUAGEUX",
-          "VENT 1 KM/H",
+          "18C COUVERT",
+          "VENT 3 KM/H",
           "LE 22/08 A 04H53",
           "SO>ENE MAG -2"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "19C",
-          "NUAGEUX",
+          "18C",
+          "COUVERT",
           "",
           "18C > 22C",
-          "VT 1KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "19C",
-          "NUAGEUX",
+          "18C",
+          "COUVERT",
           "18C>22C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "19C",
-          "NUAGEUX",
+          "18C",
+          "COUVERT",
           "18C>22C",
           "ISS 04H53",
           "22/08",
@@ -122,8 +122,8 @@
           "5MIN M-2"
         ],
         "short": [
-          "19C",
-          "NUAGEUX",
+          "18C",
+          "COUVERT",
           "ISS 04H53",
           "22/08"
         ]
