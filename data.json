@@ -1,5 +1,5 @@
 {
-  "updated_at": "22/08 06:19",
+  "updated_at": "22/08 06:55",
   "city": "ALBI",
   "weather": {
     "temp": 13,
@@ -10,11 +10,11 @@
     "label_short": "BROUILLARD"
   },
   "iss": {
-    "date": "22/08",
-    "time": "06H30",
-    "dir": "O>NE",
-    "mag": -1.1,
-    "duration_min": 9
+    "date": "23/08",
+    "time": "04H05",
+    "dir": "SO>ENE",
+    "mag": -0.3,
+    "duration_min": 3
   },
   "lines": {
     "wide": {
@@ -40,18 +40,18 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 22/08 A 06H30",
+          "LE 23/08 A 04H05",
           "",
-          "O>NE  MAG -1.1",
+          "SO>ENE  MAG -0.3",
           "",
-          "DUREE 9 MIN",
+          "DUREE 3 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 22/08 A 06H30",
-          "O>NE MAG -1.1",
-          "DUREE 9 MIN"
+          "LE 23/08 A 04H05",
+          "SO>ENE MAG -0.3",
+          "DUREE 3 MIN"
         ]
       },
       "both": {
@@ -61,15 +61,15 @@
           "MIN 13C MAX 27C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 22/08 A 06H30",
-          "O>NE MAG -1.1",
-          "DUREE 9 MIN"
+          "LE 23/08 A 04H05",
+          "SO>ENE MAG -0.3",
+          "DUREE 3 MIN"
         ],
         "short": [
           "13C BROUILLARD",
           "VENT 3 KM/H",
-          "LE 22/08 A 06H30",
-          "O>NE MAG -1.1"
+          "LE 23/08 A 04H05",
+          "SO>ENE MAG -0.3"
         ]
       }
     },
@@ -96,18 +96,18 @@
         "full": [
           "ISS",
           "",
-          "22/08",
-          "06H30",
+          "23/08",
+          "04H05",
           "",
-          "O>NE",
-          "MAG -1.1",
-          "9 MIN"
+          "SO>ENE",
+          "MAG -0.3",
+          "3 MIN"
         ],
         "short": [
-          "ISS 06H30",
-          "22/08",
-          "O>NE",
-          "9MIN M-1.1"
+          "ISS 04H05",
+          "23/08",
+          "SO>ENE",
+          "3MIN M-0.3"
         ]
       },
       "both": {
@@ -116,16 +116,16 @@
           "13C",
           "BROUILLARD",
           "13C>27C",
-          "ISS 06H30",
-          "22/08",
-          "O>NE",
-          "9MIN M-1.1"
+          "ISS 04H05",
+          "23/08",
+          "SO>ENE",
+          "3MIN M-0.3"
         ],
         "short": [
           "13C",
           "BROUILLARD",
-          "ISS 06H30",
-          "22/08"
+          "ISS 04H05",
+          "23/08"
         ]
       }
     }
