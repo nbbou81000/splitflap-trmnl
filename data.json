@@ -1,13 +1,13 @@
 {
-  "updated_at": "23/08 01:08",
+  "updated_at": "23/08 01:40",
   "city": "ALBI",
   "weather": {
     "temp": 15,
-    "wind": 5,
+    "wind": 4,
     "tmin": 15,
     "tmax": 34,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "23/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  PEU NUAGEUX",
+          "15C  COUVERT",
           "",
           "MIN 15C  MAX 34C",
           "",
-          "VENT 5 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C PEU NUAGEUX",
+          "15C COUVERT",
           "MIN 15C MAX 34C",
-          "VENT 5 KM/H"
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C PEU NUAGEUX",
+          "15C COUVERT",
           "MIN 15C MAX 34C",
-          "VENT 5 KM/H",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 23/08 A 04H05",
           "SO>ENE MAG -0.3",
           "DUREE 3 MIN"
         ],
         "short": [
-          "15C PEU NUAGEUX",
-          "VENT 5 KM/H",
+          "15C COUVERT",
+          "VENT 4 KM/H",
           "LE 23/08 A 04H05",
           "SO>ENE MAG -0.3"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "15C",
-          "NUAGEUX",
+          "COUVERT",
           "",
           "15C > 34C",
-          "VT 5KMH"
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
           "15C",
-          "NUAGEUX",
+          "COUVERT",
           "15C>34C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "15C",
-          "NUAGEUX",
+          "COUVERT",
           "15C>34C",
           "ISS 04H05",
           "23/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "15C",
-          "NUAGEUX",
+          "COUVERT",
           "ISS 04H05",
           "23/08"
         ]
