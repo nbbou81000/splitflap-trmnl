@@ -1,8 +1,8 @@
 {
-  "updated_at": "22/08 04:45",
+  "updated_at": "22/08 05:31",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
+    "temp": 14,
     "wind": 3,
     "tmin": 13,
     "tmax": 27,
@@ -11,10 +11,10 @@
   },
   "iss": {
     "date": "22/08",
-    "time": "04H53",
-    "dir": "SO>ENE",
-    "mag": -2,
-    "duration_min": 5
+    "time": "06H30",
+    "dir": "O>NE",
+    "mag": -1.1,
+    "duration_min": 9
   },
   "lines": {
     "wide": {
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  BROUILLARD",
+          "14C  BROUILLARD",
           "",
           "MIN 13C  MAX 27C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "15C BROUILLARD",
+          "14C BROUILLARD",
           "MIN 13C MAX 27C",
           "VENT 3 KM/H"
         ]
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 22/08 A 04H53",
+          "LE 22/08 A 06H30",
           "",
-          "SO>ENE  MAG -2",
+          "O>NE  MAG -1.1",
           "",
-          "DUREE 5 MIN",
+          "DUREE 9 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 22/08 A 04H53",
-          "SO>ENE MAG -2",
-          "DUREE 5 MIN"
+          "LE 22/08 A 06H30",
+          "O>NE MAG -1.1",
+          "DUREE 9 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "15C BROUILLARD",
+          "14C BROUILLARD",
           "MIN 13C MAX 27C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 22/08 A 04H53",
-          "SO>ENE MAG -2",
-          "DUREE 5 MIN"
+          "LE 22/08 A 06H30",
+          "O>NE MAG -1.1",
+          "DUREE 9 MIN"
         ],
         "short": [
-          "15C BROUILLARD",
+          "14C BROUILLARD",
           "VENT 3 KM/H",
-          "LE 22/08 A 04H53",
-          "SO>ENE MAG -2"
+          "LE 22/08 A 06H30",
+          "O>NE MAG -1.1"
         ]
       }
     },
@@ -79,7 +79,7 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
+          "14C",
           "BROUILLARD",
           "",
           "13C > 27C",
@@ -87,7 +87,7 @@
         ],
         "short": [
           "ALBI",
-          "15C",
+          "14C",
           "BROUILLARD",
           "13C>27C"
         ]
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "22/08",
-          "04H53",
+          "06H30",
           "",
-          "SO>ENE",
-          "MAG -2",
-          "5 MIN"
+          "O>NE",
+          "MAG -1.1",
+          "9 MIN"
         ],
         "short": [
-          "ISS 04H53",
+          "ISS 06H30",
           "22/08",
-          "SO>ENE",
-          "5MIN M-2"
+          "O>NE",
+          "9MIN M-1.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "15C",
+          "14C",
           "BROUILLARD",
           "13C>27C",
-          "ISS 04H53",
+          "ISS 06H30",
           "22/08",
-          "SO>ENE",
-          "5MIN M-2"
+          "O>NE",
+          "9MIN M-1.1"
         ],
         "short": [
-          "15C",
+          "14C",
           "BROUILLARD",
-          "ISS 04H53",
+          "ISS 06H30",
           "22/08"
         ]
       }
