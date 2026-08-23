@@ -1,20 +1,20 @@
 {
-  "updated_at": "23/08 05:26",
+  "updated_at": "23/08 06:06",
   "city": "ALBI",
   "weather": {
     "temp": 16,
-    "wind": 4,
+    "wind": 3,
     "tmin": 15,
     "tmax": 34,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "23/08",
-    "time": "05H42",
-    "dir": "O>NE",
-    "mag": -1.5,
-    "duration_min": 7
+    "date": "24/08",
+    "time": "03H17",
+    "dir": "SSO>ENE",
+    "mag": 0.8,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -26,32 +26,32 @@
           "",
           "MIN 15C  MAX 34C",
           "",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "16C PEU NUAGEUX",
           "MIN 15C MAX 34C",
-          "VENT 4 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 23/08 A 05H42",
+          "LE 24/08 A 03H17",
           "",
-          "O>NE  MAG -1.5",
+          "SSO>ENE  MAG 0.8",
           "",
-          "DUREE 7 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 23/08 A 05H42",
-          "O>NE MAG -1.5",
-          "DUREE 7 MIN"
+          "LE 24/08 A 03H17",
+          "SSO>ENE MAG 0.8",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
@@ -59,17 +59,17 @@
           "METEO ALBI",
           "16C PEU NUAGEUX",
           "MIN 15C MAX 34C",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 23/08 A 05H42",
-          "O>NE MAG -1.5",
-          "DUREE 7 MIN"
+          "LE 24/08 A 03H17",
+          "SSO>ENE MAG 0.8",
+          "DUREE 1 MIN"
         ],
         "short": [
           "16C PEU NUAGEUX",
-          "VENT 4 KM/H",
-          "LE 23/08 A 05H42",
-          "O>NE MAG -1.5"
+          "VENT 3 KM/H",
+          "LE 24/08 A 03H17",
+          "SSO>ENE MAG 0.8"
         ]
       }
     },
@@ -83,7 +83,7 @@
           "NUAGEUX",
           "",
           "15C > 34C",
-          "VT 4KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
@@ -96,18 +96,18 @@
         "full": [
           "ISS",
           "",
-          "23/08",
-          "05H42",
+          "24/08",
+          "03H17",
           "",
-          "O>NE",
-          "MAG -1.5",
-          "7 MIN"
+          "SSO>ENE",
+          "MAG 0.8",
+          "1 MIN"
         ],
         "short": [
-          "ISS 05H42",
-          "23/08",
-          "O>NE",
-          "7MIN M-1.5"
+          "ISS 03H17",
+          "24/08",
+          "SSO>ENE",
+          "1MIN M0.8"
         ]
       },
       "both": {
@@ -116,16 +116,16 @@
           "16C",
           "NUAGEUX",
           "15C>34C",
-          "ISS 05H42",
-          "23/08",
-          "O>NE",
-          "7MIN M-1.5"
+          "ISS 03H17",
+          "24/08",
+          "SSO>ENE",
+          "1MIN M0.8"
         ],
         "short": [
           "16C",
           "NUAGEUX",
-          "ISS 05H42",
-          "23/08"
+          "ISS 03H17",
+          "24/08"
         ]
       }
     }
