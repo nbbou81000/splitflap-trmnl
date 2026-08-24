@@ -1,13 +1,13 @@
 {
-  "updated_at": "24/08 16:08",
+  "updated_at": "24/08 17:06",
   "city": "ALBI",
   "weather": {
-    "temp": 26,
-    "wind": 21,
+    "temp": 24,
+    "wind": 19,
     "tmin": 20,
     "tmax": 32,
-    "label": "ORAGE",
-    "label_short": "ORAGE"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "25/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "26C  ORAGE",
+          "24C  AVERSES",
           "",
           "MIN 20C  MAX 32C",
           "",
-          "VENT 21 KM/H",
+          "VENT 19 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "26C ORAGE",
+          "24C AVERSES",
           "MIN 20C MAX 32C",
-          "VENT 21 KM/H"
+          "VENT 19 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "26C ORAGE",
+          "24C AVERSES",
           "MIN 20C MAX 32C",
-          "VENT 21 KM/H",
+          "VENT 19 KM/H",
           "PROCHAINE ISS",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7",
           "DUREE 3 MIN"
         ],
         "short": [
-          "26C ORAGE",
-          "VENT 21 KM/H",
+          "24C AVERSES",
+          "VENT 19 KM/H",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "26C",
-          "ORAGE",
+          "24C",
+          "AVERSES",
           "",
           "20C > 32C",
-          "VT 21KMH"
+          "VT 19KMH"
         ],
         "short": [
           "ALBI",
-          "26C",
-          "ORAGE",
+          "24C",
+          "AVERSES",
           "20C>32C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "26C",
-          "ORAGE",
+          "24C",
+          "AVERSES",
           "20C>32C",
           "ISS 04H06",
           "25/08",
@@ -122,8 +122,8 @@
           "3MIN M-0.7"
         ],
         "short": [
-          "26C",
-          "ORAGE",
+          "24C",
+          "AVERSES",
           "ISS 04H06",
           "25/08"
         ]
