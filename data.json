@@ -1,9 +1,9 @@
 {
-  "updated_at": "24/08 15:27",
+  "updated_at": "24/08 16:08",
   "city": "ALBI",
   "weather": {
-    "temp": 29,
-    "wind": 23,
+    "temp": 26,
+    "wind": 21,
     "tmin": 20,
     "tmax": 32,
     "label": "ORAGE",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "29C  ORAGE",
+          "26C  ORAGE",
           "",
           "MIN 20C  MAX 32C",
           "",
-          "VENT 23 KM/H",
+          "VENT 21 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "29C ORAGE",
+          "26C ORAGE",
           "MIN 20C MAX 32C",
-          "VENT 23 KM/H"
+          "VENT 21 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "29C ORAGE",
+          "26C ORAGE",
           "MIN 20C MAX 32C",
-          "VENT 23 KM/H",
+          "VENT 21 KM/H",
           "PROCHAINE ISS",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7",
           "DUREE 3 MIN"
         ],
         "short": [
-          "29C ORAGE",
-          "VENT 23 KM/H",
+          "26C ORAGE",
+          "VENT 21 KM/H",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7"
         ]
@@ -79,15 +79,15 @@
           "METEO",
           "ALBI",
           "",
-          "29C",
+          "26C",
           "ORAGE",
           "",
           "20C > 32C",
-          "VT 23KMH"
+          "VT 21KMH"
         ],
         "short": [
           "ALBI",
-          "29C",
+          "26C",
           "ORAGE",
           "20C>32C"
         ]
@@ -113,7 +113,7 @@
       "both": {
         "full": [
           "ALBI",
-          "29C",
+          "26C",
           "ORAGE",
           "20C>32C",
           "ISS 04H06",
@@ -122,7 +122,7 @@
           "3MIN M-0.7"
         ],
         "short": [
-          "29C",
+          "26C",
           "ORAGE",
           "ISS 04H06",
           "25/08"
