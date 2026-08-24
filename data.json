@@ -1,13 +1,13 @@
 {
-  "updated_at": "24/08 14:20",
+  "updated_at": "24/08 15:27",
   "city": "ALBI",
   "weather": {
-    "temp": 32,
-    "wind": 21,
-    "tmin": 18,
-    "tmax": 33,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "temp": 29,
+    "wind": 23,
+    "tmin": 20,
+    "tmax": 32,
+    "label": "ORAGE",
+    "label_short": "ORAGE"
   },
   "iss": {
     "date": "25/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "32C  PEU NUAGEUX",
+          "29C  ORAGE",
           "",
-          "MIN 18C  MAX 33C",
+          "MIN 20C  MAX 32C",
           "",
-          "VENT 21 KM/H",
+          "VENT 23 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "32C PEU NUAGEUX",
-          "MIN 18C MAX 33C",
-          "VENT 21 KM/H"
+          "29C ORAGE",
+          "MIN 20C MAX 32C",
+          "VENT 23 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "32C PEU NUAGEUX",
-          "MIN 18C MAX 33C",
-          "VENT 21 KM/H",
+          "29C ORAGE",
+          "MIN 20C MAX 32C",
+          "VENT 23 KM/H",
           "PROCHAINE ISS",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7",
           "DUREE 3 MIN"
         ],
         "short": [
-          "32C PEU NUAGEUX",
-          "VENT 21 KM/H",
+          "29C ORAGE",
+          "VENT 23 KM/H",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "32C",
-          "NUAGEUX",
+          "29C",
+          "ORAGE",
           "",
-          "18C > 33C",
-          "VT 21KMH"
+          "20C > 32C",
+          "VT 23KMH"
         ],
         "short": [
           "ALBI",
-          "32C",
-          "NUAGEUX",
-          "18C>33C"
+          "29C",
+          "ORAGE",
+          "20C>32C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "32C",
-          "NUAGEUX",
-          "18C>33C",
+          "29C",
+          "ORAGE",
+          "20C>32C",
           "ISS 04H06",
           "25/08",
           "SO>NE",
           "3MIN M-0.7"
         ],
         "short": [
-          "32C",
-          "NUAGEUX",
+          "29C",
+          "ORAGE",
           "ISS 04H06",
           "25/08"
         ]
