@@ -1,13 +1,13 @@
 {
-  "updated_at": "24/08 12:58",
+  "updated_at": "24/08 13:24",
   "city": "ALBI",
   "weather": {
     "temp": 31,
-    "wind": 19,
+    "wind": 18,
     "tmin": 18,
     "tmax": 33,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "25/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "31C  COUVERT",
+          "31C  PEU NUAGEUX",
           "",
           "MIN 18C  MAX 33C",
           "",
-          "VENT 19 KM/H",
+          "VENT 18 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "31C COUVERT",
+          "31C PEU NUAGEUX",
           "MIN 18C MAX 33C",
-          "VENT 19 KM/H"
+          "VENT 18 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "31C COUVERT",
+          "31C PEU NUAGEUX",
           "MIN 18C MAX 33C",
-          "VENT 19 KM/H",
+          "VENT 18 KM/H",
           "PROCHAINE ISS",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7",
           "DUREE 3 MIN"
         ],
         "short": [
-          "31C COUVERT",
-          "VENT 19 KM/H",
+          "31C PEU NUAGEUX",
+          "VENT 18 KM/H",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "31C",
-          "COUVERT",
+          "NUAGEUX",
           "",
           "18C > 33C",
-          "VT 19KMH"
+          "VT 18KMH"
         ],
         "short": [
           "ALBI",
           "31C",
-          "COUVERT",
+          "NUAGEUX",
           "18C>33C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "31C",
-          "COUVERT",
+          "NUAGEUX",
           "18C>33C",
           "ISS 04H06",
           "25/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "31C",
-          "COUVERT",
+          "NUAGEUX",
           "ISS 04H06",
           "25/08"
         ]
