@@ -1,20 +1,20 @@
 {
-  "updated_at": "24/08 02:29",
+  "updated_at": "24/08 04:07",
   "city": "ALBI",
   "weather": {
     "temp": 22,
-    "wind": 9,
-    "tmin": 20,
+    "wind": 7,
+    "tmin": 18,
     "tmax": 32,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "24/08",
-    "time": "03H17",
-    "dir": "SSO>ENE",
-    "mag": 0.8,
-    "duration_min": 1
+    "time": "04H54",
+    "dir": "OSO>NE",
+    "mag": -2.1,
+    "duration_min": 5
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  SOLEIL",
+          "22C  AVERSES",
           "",
-          "MIN 20C  MAX 32C",
+          "MIN 18C  MAX 32C",
           "",
-          "VENT 9 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C SOLEIL",
-          "MIN 20C MAX 32C",
-          "VENT 9 KM/H"
+          "22C AVERSES",
+          "MIN 18C MAX 32C",
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 24/08 A 03H17",
+          "LE 24/08 A 04H54",
           "",
-          "SSO>ENE  MAG 0.8",
+          "OSO>NE  MAG -2.1",
           "",
-          "DUREE 1 MIN",
+          "DUREE 5 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 24/08 A 03H17",
-          "SSO>ENE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 24/08 A 04H54",
+          "OSO>NE MAG -2.1",
+          "DUREE 5 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "22C SOLEIL",
-          "MIN 20C MAX 32C",
-          "VENT 9 KM/H",
+          "22C AVERSES",
+          "MIN 18C MAX 32C",
+          "VENT 7 KM/H",
           "PROCHAINE ISS",
-          "LE 24/08 A 03H17",
-          "SSO>ENE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 24/08 A 04H54",
+          "OSO>NE MAG -2.1",
+          "DUREE 5 MIN"
         ],
         "short": [
-          "22C SOLEIL",
-          "VENT 9 KM/H",
-          "LE 24/08 A 03H17",
-          "SSO>ENE MAG 0.8"
+          "22C AVERSES",
+          "VENT 7 KM/H",
+          "LE 24/08 A 04H54",
+          "OSO>NE MAG -2.1"
         ]
       }
     },
@@ -80,16 +80,16 @@
           "ALBI",
           "",
           "22C",
-          "SOLEIL",
+          "AVERSES",
           "",
-          "20C > 32C",
-          "VT 9KMH"
+          "18C > 32C",
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
           "22C",
-          "SOLEIL",
-          "20C>32C"
+          "AVERSES",
+          "18C>32C"
         ]
       },
       "iss": {
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "24/08",
-          "03H17",
+          "04H54",
           "",
-          "SSO>ENE",
-          "MAG 0.8",
-          "1 MIN"
+          "OSO>NE",
+          "MAG -2.1",
+          "5 MIN"
         ],
         "short": [
-          "ISS 03H17",
+          "ISS 04H54",
           "24/08",
-          "SSO>ENE",
-          "1MIN M0.8"
+          "OSO>NE",
+          "5MIN M-2.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
           "22C",
-          "SOLEIL",
-          "20C>32C",
-          "ISS 03H17",
+          "AVERSES",
+          "18C>32C",
+          "ISS 04H54",
           "24/08",
-          "SSO>ENE",
-          "1MIN M0.8"
+          "OSO>NE",
+          "5MIN M-2.1"
         ],
         "short": [
           "22C",
-          "SOLEIL",
-          "ISS 03H17",
+          "AVERSES",
+          "ISS 04H54",
           "24/08"
         ]
       }
