@@ -1,20 +1,20 @@
 {
-  "updated_at": "24/08 04:07",
+  "updated_at": "24/08 05:28",
   "city": "ALBI",
   "weather": {
-    "temp": 22,
-    "wind": 7,
+    "temp": 21,
+    "wind": 6,
     "tmin": 18,
     "tmax": 32,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
     "date": "24/08",
-    "time": "04H54",
-    "dir": "OSO>NE",
-    "mag": -2.1,
-    "duration_min": 5
+    "time": "06H31",
+    "dir": "O>ENE",
+    "mag": -0.6,
+    "duration_min": 9
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "22C  AVERSES",
+          "21C  SOLEIL",
           "",
           "MIN 18C  MAX 32C",
           "",
-          "VENT 7 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "22C AVERSES",
+          "21C SOLEIL",
           "MIN 18C MAX 32C",
-          "VENT 7 KM/H"
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 24/08 A 04H54",
+          "LE 24/08 A 06H31",
           "",
-          "OSO>NE  MAG -2.1",
+          "O>ENE  MAG -0.6",
           "",
-          "DUREE 5 MIN",
+          "DUREE 9 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 24/08 A 04H54",
-          "OSO>NE MAG -2.1",
-          "DUREE 5 MIN"
+          "LE 24/08 A 06H31",
+          "O>ENE MAG -0.6",
+          "DUREE 9 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "22C AVERSES",
+          "21C SOLEIL",
           "MIN 18C MAX 32C",
-          "VENT 7 KM/H",
+          "VENT 6 KM/H",
           "PROCHAINE ISS",
-          "LE 24/08 A 04H54",
-          "OSO>NE MAG -2.1",
-          "DUREE 5 MIN"
+          "LE 24/08 A 06H31",
+          "O>ENE MAG -0.6",
+          "DUREE 9 MIN"
         ],
         "short": [
-          "22C AVERSES",
-          "VENT 7 KM/H",
-          "LE 24/08 A 04H54",
-          "OSO>NE MAG -2.1"
+          "21C SOLEIL",
+          "VENT 6 KM/H",
+          "LE 24/08 A 06H31",
+          "O>ENE MAG -0.6"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "22C",
-          "AVERSES",
+          "21C",
+          "SOLEIL",
           "",
           "18C > 32C",
-          "VT 7KMH"
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
-          "22C",
-          "AVERSES",
+          "21C",
+          "SOLEIL",
           "18C>32C"
         ]
       },
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "24/08",
-          "04H54",
+          "06H31",
           "",
-          "OSO>NE",
-          "MAG -2.1",
-          "5 MIN"
+          "O>ENE",
+          "MAG -0.6",
+          "9 MIN"
         ],
         "short": [
-          "ISS 04H54",
+          "ISS 06H31",
           "24/08",
-          "OSO>NE",
-          "5MIN M-2.1"
+          "O>ENE",
+          "9MIN M-0.6"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "22C",
-          "AVERSES",
+          "21C",
+          "SOLEIL",
           "18C>32C",
-          "ISS 04H54",
+          "ISS 06H31",
           "24/08",
-          "OSO>NE",
-          "5MIN M-2.1"
+          "O>ENE",
+          "9MIN M-0.6"
         ],
         "short": [
-          "22C",
-          "AVERSES",
-          "ISS 04H54",
+          "21C",
+          "SOLEIL",
+          "ISS 06H31",
           "24/08"
         ]
       }
