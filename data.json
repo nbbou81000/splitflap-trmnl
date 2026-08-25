@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/08 00:12",
+  "updated_at": "26/08 00:50",
   "city": "ALBI",
   "weather": {
-    "temp": 20,
-    "wind": 5,
-    "tmin": 19,
+    "temp": 18,
+    "wind": 4,
+    "tmin": 18,
     "tmax": 33,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "26/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  COUVERT",
+          "18C  BROUILLARD",
           "",
-          "MIN 19C  MAX 33C",
+          "MIN 18C  MAX 33C",
           "",
-          "VENT 5 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "20C COUVERT",
-          "MIN 19C MAX 33C",
-          "VENT 5 KM/H"
+          "18C BROUILLARD",
+          "MIN 18C MAX 33C",
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "20C COUVERT",
-          "MIN 19C MAX 33C",
-          "VENT 5 KM/H",
+          "18C BROUILLARD",
+          "MIN 18C MAX 33C",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 26/08 A 03H18",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ],
         "short": [
-          "20C COUVERT",
-          "VENT 5 KM/H",
+          "18C BROUILLARD",
+          "VENT 4 KM/H",
           "LE 26/08 A 03H18",
           "SO>ENE MAG 0.6"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "20C",
-          "COUVERT",
+          "18C",
+          "BROUILLARD",
           "",
-          "19C > 33C",
-          "VT 5KMH"
+          "18C > 33C",
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "20C",
-          "COUVERT",
-          "19C>33C"
+          "18C",
+          "BROUILLARD",
+          "18C>33C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "20C",
-          "COUVERT",
-          "19C>33C",
+          "18C",
+          "BROUILLARD",
+          "18C>33C",
           "ISS 03H18",
           "26/08",
           "SO>ENE",
           "2MIN M0.6"
         ],
         "short": [
-          "20C",
-          "COUVERT",
+          "18C",
+          "BROUILLARD",
           "ISS 03H18",
           "26/08"
         ]
