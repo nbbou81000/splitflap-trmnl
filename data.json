@@ -1,13 +1,13 @@
 {
-  "updated_at": "25/08 02:28",
+  "updated_at": "25/08 03:58",
   "city": "ALBI",
   "weather": {
     "temp": 17,
-    "wind": 4,
+    "wind": 7,
     "tmin": 16,
-    "tmax": 29,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "tmax": 30,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "25/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  BROUILLARD",
+          "17C  PEU NUAGEUX",
           "",
-          "MIN 16C  MAX 29C",
+          "MIN 16C  MAX 30C",
           "",
-          "VENT 4 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C BROUILLARD",
-          "MIN 16C MAX 29C",
-          "VENT 4 KM/H"
+          "17C PEU NUAGEUX",
+          "MIN 16C MAX 30C",
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "17C BROUILLARD",
-          "MIN 16C MAX 29C",
-          "VENT 4 KM/H",
+          "17C PEU NUAGEUX",
+          "MIN 16C MAX 30C",
+          "VENT 7 KM/H",
           "PROCHAINE ISS",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7",
           "DUREE 3 MIN"
         ],
         "short": [
-          "17C BROUILLARD",
-          "VENT 4 KM/H",
+          "17C PEU NUAGEUX",
+          "VENT 7 KM/H",
           "LE 25/08 A 04H06",
           "SO>NE MAG -0.7"
         ]
@@ -80,16 +80,16 @@
           "ALBI",
           "",
           "17C",
-          "BROUILLARD",
+          "NUAGEUX",
           "",
-          "16C > 29C",
-          "VT 4KMH"
+          "16C > 30C",
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
           "17C",
-          "BROUILLARD",
-          "16C>29C"
+          "NUAGEUX",
+          "16C>30C"
         ]
       },
       "iss": {
@@ -114,8 +114,8 @@
         "full": [
           "ALBI",
           "17C",
-          "BROUILLARD",
-          "16C>29C",
+          "NUAGEUX",
+          "16C>30C",
           "ISS 04H06",
           "25/08",
           "SO>NE",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "17C",
-          "BROUILLARD",
+          "NUAGEUX",
           "ISS 04H06",
           "25/08"
         ]
