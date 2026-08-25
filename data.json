@@ -1,13 +1,13 @@
 {
-  "updated_at": "25/08 06:26",
+  "updated_at": "25/08 07:01",
   "city": "ALBI",
   "weather": {
     "temp": 16,
-    "wind": 2,
+    "wind": 3,
     "tmin": 16,
-    "tmax": 30,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "tmax": 29,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "26/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "16C  SOLEIL",
+          "16C  PEU NUAGEUX",
           "",
-          "MIN 16C  MAX 30C",
+          "MIN 16C  MAX 29C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "16C SOLEIL",
-          "MIN 16C MAX 30C",
-          "VENT 2 KM/H"
+          "16C PEU NUAGEUX",
+          "MIN 16C MAX 29C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "16C SOLEIL",
-          "MIN 16C MAX 30C",
-          "VENT 2 KM/H",
+          "16C PEU NUAGEUX",
+          "MIN 16C MAX 29C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 26/08 A 03H18",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ],
         "short": [
-          "16C SOLEIL",
-          "VENT 2 KM/H",
+          "16C PEU NUAGEUX",
+          "VENT 3 KM/H",
           "LE 26/08 A 03H18",
           "SO>ENE MAG 0.6"
         ]
@@ -80,16 +80,16 @@
           "ALBI",
           "",
           "16C",
-          "SOLEIL",
+          "NUAGEUX",
           "",
-          "16C > 30C",
-          "VT 2KMH"
+          "16C > 29C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
           "16C",
-          "SOLEIL",
-          "16C>30C"
+          "NUAGEUX",
+          "16C>29C"
         ]
       },
       "iss": {
@@ -114,8 +114,8 @@
         "full": [
           "ALBI",
           "16C",
-          "SOLEIL",
-          "16C>30C",
+          "NUAGEUX",
+          "16C>29C",
           "ISS 03H18",
           "26/08",
           "SO>ENE",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "16C",
-          "SOLEIL",
+          "NUAGEUX",
           "ISS 03H18",
           "26/08"
         ]
