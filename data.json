@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/08 07:01",
+  "updated_at": "26/08 07:55",
   "city": "ALBI",
   "weather": {
     "temp": 19,
-    "wind": 3,
+    "wind": 2,
     "tmin": 18,
     "tmax": 32,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
     "date": "27/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "19C  COUVERT",
+          "19C  SOLEIL",
           "",
           "MIN 18C  MAX 32C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "19C COUVERT",
+          "19C SOLEIL",
           "MIN 18C MAX 32C",
-          "VENT 3 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "19C COUVERT",
+          "19C SOLEIL",
           "MIN 18C MAX 32C",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 27/08 A 04H06",
           "O>NE MAG -0.6",
           "DUREE 4 MIN"
         ],
         "short": [
-          "19C COUVERT",
-          "VENT 3 KM/H",
+          "19C SOLEIL",
+          "VENT 2 KM/H",
           "LE 27/08 A 04H06",
           "O>NE MAG -0.6"
         ]
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "19C",
-          "COUVERT",
+          "SOLEIL",
           "",
           "18C > 32C",
-          "VT 3KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
           "19C",
-          "COUVERT",
+          "SOLEIL",
           "18C>32C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "19C",
-          "COUVERT",
+          "SOLEIL",
           "18C>32C",
           "ISS 04H06",
           "27/08",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "19C",
-          "COUVERT",
+          "SOLEIL",
           "ISS 04H06",
           "27/08"
         ]
