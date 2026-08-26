@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/08 17:56",
+  "updated_at": "26/08 18:41",
   "city": "ALBI",
   "weather": {
-    "temp": 31,
-    "wind": 32,
+    "temp": 30,
+    "wind": 36,
     "tmin": 18,
     "tmax": 32,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "27/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "31C  PEU NUAGEUX",
+          "30C  COUVERT",
           "",
           "MIN 18C  MAX 32C",
           "",
-          "VENT 32 KM/H",
+          "VENT 36 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "31C PEU NUAGEUX",
+          "30C COUVERT",
           "MIN 18C MAX 32C",
-          "VENT 32 KM/H"
+          "VENT 36 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "31C PEU NUAGEUX",
+          "30C COUVERT",
           "MIN 18C MAX 32C",
-          "VENT 32 KM/H",
+          "VENT 36 KM/H",
           "PROCHAINE ISS",
           "LE 27/08 A 04H06",
           "O>NE MAG -0.6",
           "DUREE 4 MIN"
         ],
         "short": [
-          "31C PEU NUAGEUX",
-          "VENT 32 KM/H",
+          "30C COUVERT",
+          "VENT 36 KM/H",
           "LE 27/08 A 04H06",
           "O>NE MAG -0.6"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "31C",
-          "NUAGEUX",
+          "30C",
+          "COUVERT",
           "",
           "18C > 32C",
-          "VT 32KMH"
+          "VT 36KMH"
         ],
         "short": [
           "ALBI",
-          "31C",
-          "NUAGEUX",
+          "30C",
+          "COUVERT",
           "18C>32C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "31C",
-          "NUAGEUX",
+          "30C",
+          "COUVERT",
           "18C>32C",
           "ISS 04H06",
           "27/08",
@@ -122,8 +122,8 @@
           "4MIN M-0.6"
         ],
         "short": [
-          "31C",
-          "NUAGEUX",
+          "30C",
+          "COUVERT",
           "ISS 04H06",
           "27/08"
         ]
