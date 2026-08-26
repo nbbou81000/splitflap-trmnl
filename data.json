@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/08 04:08",
+  "updated_at": "26/08 05:29",
   "city": "ALBI",
   "weather": {
     "temp": 19,
@@ -11,10 +11,10 @@
   },
   "iss": {
     "date": "26/08",
-    "time": "04H55",
-    "dir": "O>NE",
-    "mag": -1.1,
-    "duration_min": 5
+    "time": "06H32",
+    "dir": "ONO>ENE",
+    "mag": -0.5,
+    "duration_min": 10
   },
   "lines": {
     "wide": {
@@ -40,18 +40,18 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 26/08 A 04H55",
+          "LE 26/08 A 06H32",
           "",
-          "O>NE  MAG -1.1",
+          "ONO>ENE  MAG -0.5",
           "",
-          "DUREE 5 MIN",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 26/08 A 04H55",
-          "O>NE MAG -1.1",
-          "DUREE 5 MIN"
+          "LE 26/08 A 06H32",
+          "ONO>ENE MAG -0.5",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
@@ -61,15 +61,15 @@
           "MIN 18C MAX 32C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
-          "LE 26/08 A 04H55",
-          "O>NE MAG -1.1",
-          "DUREE 5 MIN"
+          "LE 26/08 A 06H32",
+          "ONO>ENE MAG -0.5",
+          "DUREE 10 MIN"
         ],
         "short": [
           "19C PEU NUAGEUX",
           "VENT 4 KM/H",
-          "LE 26/08 A 04H55",
-          "O>NE MAG -1.1"
+          "LE 26/08 A 06H32",
+          "ONO>ENE MAG -0.5"
         ]
       }
     },
@@ -97,17 +97,17 @@
           "ISS",
           "",
           "26/08",
-          "04H55",
+          "06H32",
           "",
-          "O>NE",
-          "MAG -1.1",
-          "5 MIN"
+          "ONO>ENE",
+          "MAG -0.5",
+          "10 MIN"
         ],
         "short": [
-          "ISS 04H55",
+          "ISS 06H32",
           "26/08",
-          "O>NE",
-          "5MIN M-1.1"
+          "ONO>ENE",
+          "10MIN M-0.5"
         ]
       },
       "both": {
@@ -116,15 +116,15 @@
           "19C",
           "NUAGEUX",
           "18C>32C",
-          "ISS 04H55",
+          "ISS 06H32",
           "26/08",
-          "O>NE",
-          "5MIN M-1.1"
+          "ONO>ENE",
+          "10MIN M-0.5"
         ],
         "short": [
           "19C",
           "NUAGEUX",
-          "ISS 04H55",
+          "ISS 06H32",
           "26/08"
         ]
       }
