@@ -1,20 +1,20 @@
 {
-  "updated_at": "26/08 02:30",
+  "updated_at": "26/08 04:08",
   "city": "ALBI",
   "weather": {
-    "temp": 18,
+    "temp": 19,
     "wind": 4,
     "tmin": 18,
-    "tmax": 33,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 32,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "26/08",
-    "time": "03H18",
-    "dir": "SO>ENE",
-    "mag": 0.6,
-    "duration_min": 2
+    "time": "04H55",
+    "dir": "O>NE",
+    "mag": -1.1,
+    "duration_min": 5
   },
   "lines": {
     "wide": {
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  COUVERT",
+          "19C  PEU NUAGEUX",
           "",
-          "MIN 18C  MAX 33C",
+          "MIN 18C  MAX 32C",
           "",
           "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C COUVERT",
-          "MIN 18C MAX 33C",
+          "19C PEU NUAGEUX",
+          "MIN 18C MAX 32C",
           "VENT 4 KM/H"
         ]
       },
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 26/08 A 03H18",
+          "LE 26/08 A 04H55",
           "",
-          "SO>ENE  MAG 0.6",
+          "O>NE  MAG -1.1",
           "",
-          "DUREE 2 MIN",
+          "DUREE 5 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 26/08 A 03H18",
-          "SO>ENE MAG 0.6",
-          "DUREE 2 MIN"
+          "LE 26/08 A 04H55",
+          "O>NE MAG -1.1",
+          "DUREE 5 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "18C COUVERT",
-          "MIN 18C MAX 33C",
+          "19C PEU NUAGEUX",
+          "MIN 18C MAX 32C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
-          "LE 26/08 A 03H18",
-          "SO>ENE MAG 0.6",
-          "DUREE 2 MIN"
+          "LE 26/08 A 04H55",
+          "O>NE MAG -1.1",
+          "DUREE 5 MIN"
         ],
         "short": [
-          "18C COUVERT",
+          "19C PEU NUAGEUX",
           "VENT 4 KM/H",
-          "LE 26/08 A 03H18",
-          "SO>ENE MAG 0.6"
+          "LE 26/08 A 04H55",
+          "O>NE MAG -1.1"
         ]
       }
     },
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "18C",
-          "COUVERT",
+          "19C",
+          "NUAGEUX",
           "",
-          "18C > 33C",
+          "18C > 32C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "18C",
-          "COUVERT",
-          "18C>33C"
+          "19C",
+          "NUAGEUX",
+          "18C>32C"
         ]
       },
       "iss": {
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "26/08",
-          "03H18",
+          "04H55",
           "",
-          "SO>ENE",
-          "MAG 0.6",
-          "2 MIN"
+          "O>NE",
+          "MAG -1.1",
+          "5 MIN"
         ],
         "short": [
-          "ISS 03H18",
+          "ISS 04H55",
           "26/08",
-          "SO>ENE",
-          "2MIN M0.6"
+          "O>NE",
+          "5MIN M-1.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "18C",
-          "COUVERT",
-          "18C>33C",
-          "ISS 03H18",
+          "19C",
+          "NUAGEUX",
+          "18C>32C",
+          "ISS 04H55",
           "26/08",
-          "SO>ENE",
-          "2MIN M0.6"
+          "O>NE",
+          "5MIN M-1.1"
         ],
         "short": [
-          "18C",
-          "COUVERT",
-          "ISS 03H18",
+          "19C",
+          "NUAGEUX",
+          "ISS 04H55",
           "26/08"
         ]
       }
