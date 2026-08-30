@@ -1,13 +1,13 @@
 {
-  "updated_at": "30/08 07:36",
+  "updated_at": "30/08 12:47",
   "city": "ALBI",
   "weather": {
-    "temp": 14,
-    "wind": 2,
+    "temp": 27,
+    "wind": 3,
     "tmin": 14,
-    "tmax": 31,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "tmax": 32,
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
     "date": "31/08",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "14C  BROUILLARD",
+          "27C  SOLEIL",
           "",
-          "MIN 14C  MAX 31C",
+          "MIN 14C  MAX 32C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "14C BROUILLARD",
-          "MIN 14C MAX 31C",
-          "VENT 2 KM/H"
+          "27C SOLEIL",
+          "MIN 14C MAX 32C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "14C BROUILLARD",
-          "MIN 14C MAX 31C",
-          "VENT 2 KM/H",
+          "27C SOLEIL",
+          "MIN 14C MAX 32C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 31/08 A 04H11",
           "ONO>ENE MAG -0.4",
           "DUREE 4 MIN"
         ],
         "short": [
-          "14C BROUILLARD",
-          "VENT 2 KM/H",
+          "27C SOLEIL",
+          "VENT 3 KM/H",
           "LE 31/08 A 04H11",
           "ONO>ENE MAG -0.4"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "14C",
-          "BROUILLARD",
+          "27C",
+          "SOLEIL",
           "",
-          "14C > 31C",
-          "VT 2KMH"
+          "14C > 32C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "14C",
-          "BROUILLARD",
-          "14C>31C"
+          "27C",
+          "SOLEIL",
+          "14C>32C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "14C",
-          "BROUILLARD",
-          "14C>31C",
+          "27C",
+          "SOLEIL",
+          "14C>32C",
           "ISS 04H11",
           "31/08",
           "ONO>ENE",
           "4MIN M-0.4"
         ],
         "short": [
-          "14C",
-          "BROUILLARD",
+          "27C",
+          "SOLEIL",
           "ISS 04H11",
           "31/08"
         ]
