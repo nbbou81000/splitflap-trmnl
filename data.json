@@ -1,20 +1,20 @@
 {
-  "updated_at": "30/08 02:27",
+  "updated_at": "30/08 07:36",
   "city": "ALBI",
   "weather": {
-    "temp": 17,
-    "wind": 3,
+    "temp": 14,
+    "wind": 2,
     "tmin": 14,
     "tmax": 31,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
-    "date": "30/08",
-    "time": "03H21",
-    "dir": "O>NE",
-    "mag": 0.5,
-    "duration_min": 2
+    "date": "31/08",
+    "time": "04H11",
+    "dir": "ONO>ENE",
+    "mag": -0.4,
+    "duration_min": 4
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  SOLEIL",
+          "14C  BROUILLARD",
           "",
           "MIN 14C  MAX 31C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C SOLEIL",
+          "14C BROUILLARD",
           "MIN 14C MAX 31C",
-          "VENT 3 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 30/08 A 03H21",
+          "LE 31/08 A 04H11",
           "",
-          "O>NE  MAG 0.5",
+          "ONO>ENE  MAG -0.4",
           "",
-          "DUREE 2 MIN",
+          "DUREE 4 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 30/08 A 03H21",
-          "O>NE MAG 0.5",
-          "DUREE 2 MIN"
+          "LE 31/08 A 04H11",
+          "ONO>ENE MAG -0.4",
+          "DUREE 4 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "17C SOLEIL",
+          "14C BROUILLARD",
           "MIN 14C MAX 31C",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
-          "LE 30/08 A 03H21",
-          "O>NE MAG 0.5",
-          "DUREE 2 MIN"
+          "LE 31/08 A 04H11",
+          "ONO>ENE MAG -0.4",
+          "DUREE 4 MIN"
         ],
         "short": [
-          "17C SOLEIL",
-          "VENT 3 KM/H",
-          "LE 30/08 A 03H21",
-          "O>NE MAG 0.5"
+          "14C BROUILLARD",
+          "VENT 2 KM/H",
+          "LE 31/08 A 04H11",
+          "ONO>ENE MAG -0.4"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "17C",
-          "SOLEIL",
+          "14C",
+          "BROUILLARD",
           "",
           "14C > 31C",
-          "VT 3KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "17C",
-          "SOLEIL",
+          "14C",
+          "BROUILLARD",
           "14C>31C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "30/08",
-          "03H21",
+          "31/08",
+          "04H11",
           "",
-          "O>NE",
-          "MAG 0.5",
-          "2 MIN"
+          "ONO>ENE",
+          "MAG -0.4",
+          "4 MIN"
         ],
         "short": [
-          "ISS 03H21",
-          "30/08",
-          "O>NE",
-          "2MIN M0.5"
+          "ISS 04H11",
+          "31/08",
+          "ONO>ENE",
+          "4MIN M-0.4"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "17C",
-          "SOLEIL",
+          "14C",
+          "BROUILLARD",
           "14C>31C",
-          "ISS 03H21",
-          "30/08",
-          "O>NE",
-          "2MIN M0.5"
+          "ISS 04H11",
+          "31/08",
+          "ONO>ENE",
+          "4MIN M-0.4"
         ],
         "short": [
-          "17C",
-          "SOLEIL",
-          "ISS 03H21",
-          "30/08"
+          "14C",
+          "BROUILLARD",
+          "ISS 04H11",
+          "31/08"
         ]
       }
     }
