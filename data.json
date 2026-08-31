@@ -1,20 +1,20 @@
 {
-  "updated_at": "31/08 05:13",
+  "updated_at": "31/08 11:56",
   "city": "ALBI",
   "weather": {
-    "temp": 20,
-    "wind": 4,
-    "tmin": 20,
-    "tmax": 27,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "temp": 22,
+    "wind": 10,
+    "tmin": 19,
+    "tmax": 26,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "31/08",
-    "time": "05H48",
-    "dir": "NO>E",
-    "mag": -1,
-    "duration_min": 9
+    "date": "01/09",
+    "time": "03H23",
+    "dir": "O>ENE",
+    "mag": 0.6,
+    "duration_min": 2
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  COUVERT",
+          "22C  PEU NUAGEUX",
           "",
-          "MIN 20C  MAX 27C",
+          "MIN 19C  MAX 26C",
           "",
-          "VENT 4 KM/H",
+          "VENT 10 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "20C COUVERT",
-          "MIN 20C MAX 27C",
-          "VENT 4 KM/H"
+          "22C PEU NUAGEUX",
+          "MIN 19C MAX 26C",
+          "VENT 10 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 31/08 A 05H48",
+          "LE 01/09 A 03H23",
           "",
-          "NO>E  MAG -1",
+          "O>ENE  MAG 0.6",
           "",
-          "DUREE 9 MIN",
+          "DUREE 2 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 31/08 A 05H48",
-          "NO>E MAG -1",
-          "DUREE 9 MIN"
+          "LE 01/09 A 03H23",
+          "O>ENE MAG 0.6",
+          "DUREE 2 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "20C COUVERT",
-          "MIN 20C MAX 27C",
-          "VENT 4 KM/H",
+          "22C PEU NUAGEUX",
+          "MIN 19C MAX 26C",
+          "VENT 10 KM/H",
           "PROCHAINE ISS",
-          "LE 31/08 A 05H48",
-          "NO>E MAG -1",
-          "DUREE 9 MIN"
+          "LE 01/09 A 03H23",
+          "O>ENE MAG 0.6",
+          "DUREE 2 MIN"
         ],
         "short": [
-          "20C COUVERT",
-          "VENT 4 KM/H",
-          "LE 31/08 A 05H48",
-          "NO>E MAG -1"
+          "22C PEU NUAGEUX",
+          "VENT 10 KM/H",
+          "LE 01/09 A 03H23",
+          "O>ENE MAG 0.6"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "20C",
-          "COUVERT",
+          "22C",
+          "NUAGEUX",
           "",
-          "20C > 27C",
-          "VT 4KMH"
+          "19C > 26C",
+          "VT 10KMH"
         ],
         "short": [
           "ALBI",
-          "20C",
-          "COUVERT",
-          "20C>27C"
+          "22C",
+          "NUAGEUX",
+          "19C>26C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "31/08",
-          "05H48",
+          "01/09",
+          "03H23",
           "",
-          "NO>E",
-          "MAG -1",
-          "9 MIN"
+          "O>ENE",
+          "MAG 0.6",
+          "2 MIN"
         ],
         "short": [
-          "ISS 05H48",
-          "31/08",
-          "NO>E",
-          "9MIN M-1"
+          "ISS 03H23",
+          "01/09",
+          "O>ENE",
+          "2MIN M0.6"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "20C",
-          "COUVERT",
-          "20C>27C",
-          "ISS 05H48",
-          "31/08",
-          "NO>E",
-          "9MIN M-1"
+          "22C",
+          "NUAGEUX",
+          "19C>26C",
+          "ISS 03H23",
+          "01/09",
+          "O>ENE",
+          "2MIN M0.6"
         ],
         "short": [
-          "20C",
-          "COUVERT",
-          "ISS 05H48",
-          "31/08"
+          "22C",
+          "NUAGEUX",
+          "ISS 03H23",
+          "01/09"
         ]
       }
     }
