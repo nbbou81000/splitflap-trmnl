@@ -1,20 +1,20 @@
 {
-  "updated_at": "02/09 03:10",
+  "updated_at": "02/09 07:58",
   "city": "ALBI",
   "weather": {
-    "temp": 19,
-    "wind": 2,
-    "tmin": 15,
-    "tmax": 30,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "temp": 14,
+    "wind": 3,
+    "tmin": 14,
+    "tmax": 29,
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
-    "date": "02/09",
-    "time": "04H13",
-    "dir": "ONO>E",
-    "mag": -0.4,
-    "duration_min": 4
+    "date": "03/09",
+    "time": "03H26",
+    "dir": "ONO>ENE",
+    "mag": 0.8,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "19C  PEU NUAGEUX",
+          "14C  BROUILLARD",
           "",
-          "MIN 15C  MAX 30C",
+          "MIN 14C  MAX 29C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "19C PEU NUAGEUX",
-          "MIN 15C MAX 30C",
-          "VENT 2 KM/H"
+          "14C BROUILLARD",
+          "MIN 14C MAX 29C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 02/09 A 04H13",
+          "LE 03/09 A 03H26",
           "",
-          "ONO>E  MAG -0.4",
+          "ONO>ENE  MAG 0.8",
           "",
-          "DUREE 4 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 02/09 A 04H13",
-          "ONO>E MAG -0.4",
-          "DUREE 4 MIN"
+          "LE 03/09 A 03H26",
+          "ONO>ENE MAG 0.8",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "19C PEU NUAGEUX",
-          "MIN 15C MAX 30C",
-          "VENT 2 KM/H",
+          "14C BROUILLARD",
+          "MIN 14C MAX 29C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 02/09 A 04H13",
-          "ONO>E MAG -0.4",
-          "DUREE 4 MIN"
+          "LE 03/09 A 03H26",
+          "ONO>ENE MAG 0.8",
+          "DUREE 1 MIN"
         ],
         "short": [
-          "19C PEU NUAGEUX",
-          "VENT 2 KM/H",
-          "LE 02/09 A 04H13",
-          "ONO>E MAG -0.4"
+          "14C BROUILLARD",
+          "VENT 3 KM/H",
+          "LE 03/09 A 03H26",
+          "ONO>ENE MAG 0.8"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "19C",
-          "NUAGEUX",
+          "14C",
+          "BROUILLARD",
           "",
-          "15C > 30C",
-          "VT 2KMH"
+          "14C > 29C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "19C",
-          "NUAGEUX",
-          "15C>30C"
+          "14C",
+          "BROUILLARD",
+          "14C>29C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "02/09",
-          "04H13",
+          "03/09",
+          "03H26",
           "",
-          "ONO>E",
-          "MAG -0.4",
-          "4 MIN"
+          "ONO>ENE",
+          "MAG 0.8",
+          "1 MIN"
         ],
         "short": [
-          "ISS 04H13",
-          "02/09",
-          "ONO>E",
-          "4MIN M-0.4"
+          "ISS 03H26",
+          "03/09",
+          "ONO>ENE",
+          "1MIN M0.8"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "19C",
-          "NUAGEUX",
-          "15C>30C",
-          "ISS 04H13",
-          "02/09",
-          "ONO>E",
-          "4MIN M-0.4"
+          "14C",
+          "BROUILLARD",
+          "14C>29C",
+          "ISS 03H26",
+          "03/09",
+          "ONO>ENE",
+          "1MIN M0.8"
         ],
         "short": [
-          "19C",
-          "NUAGEUX",
-          "ISS 04H13",
-          "02/09"
+          "14C",
+          "BROUILLARD",
+          "ISS 03H26",
+          "03/09"
         ]
       }
     }
