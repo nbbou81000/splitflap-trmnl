@@ -1,13 +1,13 @@
 {
-  "updated_at": "06/09 01:01",
+  "updated_at": "06/09 03:06",
   "city": "ALBI",
   "weather": {
     "temp": 15,
     "wind": 5,
     "tmin": 15,
     "tmax": 40,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "06/09",
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  SOLEIL",
+          "15C  PEU NUAGEUX",
           "",
           "MIN 15C  MAX 40C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "15C SOLEIL",
+          "15C PEU NUAGEUX",
           "MIN 15C MAX 40C",
           "VENT 5 KM/H"
         ]
@@ -57,7 +57,7 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C SOLEIL",
+          "15C PEU NUAGEUX",
           "MIN 15C MAX 40C",
           "VENT 5 KM/H",
           "PROCHAINE ISS",
@@ -66,7 +66,7 @@
           "DUREE 4 MIN"
         ],
         "short": [
-          "15C SOLEIL",
+          "15C PEU NUAGEUX",
           "VENT 5 KM/H",
           "LE 06/09 A 05H54",
           "ONO>SSE MAG -0.5"
@@ -80,7 +80,7 @@
           "ALBI",
           "",
           "15C",
-          "SOLEIL",
+          "NUAGEUX",
           "",
           "15C > 40C",
           "VT 5KMH"
@@ -88,7 +88,7 @@
         "short": [
           "ALBI",
           "15C",
-          "SOLEIL",
+          "NUAGEUX",
           "15C>40C"
         ]
       },
@@ -114,7 +114,7 @@
         "full": [
           "ALBI",
           "15C",
-          "SOLEIL",
+          "NUAGEUX",
           "15C>40C",
           "ISS 05H54",
           "06/09",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "15C",
-          "SOLEIL",
+          "NUAGEUX",
           "ISS 05H54",
           "06/09"
         ]
