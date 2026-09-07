@@ -1,13 +1,13 @@
 {
-  "updated_at": "07/09 00:57",
+  "updated_at": "07/09 02:36",
   "city": "ALBI",
   "weather": {
-    "temp": 26,
-    "wind": 1,
+    "temp": 24,
+    "wind": 2,
     "tmin": 18,
     "tmax": 33,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
     "date": "07/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "26C  AVERSES",
+          "24C  SOLEIL",
           "",
           "MIN 18C  MAX 33C",
           "",
-          "VENT 1 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "26C AVERSES",
+          "24C SOLEIL",
           "MIN 18C MAX 33C",
-          "VENT 1 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "26C AVERSES",
+          "24C SOLEIL",
           "MIN 18C MAX 33C",
-          "VENT 1 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 07/09 A 21H51",
           "SO>ENE MAG -0.6",
           "DUREE 4 MIN"
         ],
         "short": [
-          "26C AVERSES",
-          "VENT 1 KM/H",
+          "24C SOLEIL",
+          "VENT 2 KM/H",
           "LE 07/09 A 21H51",
           "SO>ENE MAG -0.6"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "26C",
-          "AVERSES",
+          "24C",
+          "SOLEIL",
           "",
           "18C > 33C",
-          "VT 1KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "26C",
-          "AVERSES",
+          "24C",
+          "SOLEIL",
           "18C>33C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "26C",
-          "AVERSES",
+          "24C",
+          "SOLEIL",
           "18C>33C",
           "ISS 21H51",
           "07/09",
@@ -122,8 +122,8 @@
           "4MIN M-0.6"
         ],
         "short": [
-          "26C",
-          "AVERSES",
+          "24C",
+          "SOLEIL",
           "ISS 21H51",
           "07/09"
         ]
