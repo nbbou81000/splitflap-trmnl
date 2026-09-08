@@ -1,13 +1,13 @@
 {
-  "updated_at": "08/09 02:45",
+  "updated_at": "08/09 07:23",
   "city": "ALBI",
   "weather": {
-    "temp": 20,
-    "wind": 1,
+    "temp": 17,
+    "wind": 2,
     "tmin": 17,
     "tmax": 32,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "08/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "20C  SOLEIL",
+          "17C  BROUILLARD",
           "",
           "MIN 17C  MAX 32C",
           "",
-          "VENT 1 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "20C SOLEIL",
+          "17C BROUILLARD",
           "MIN 17C MAX 32C",
-          "VENT 1 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "20C SOLEIL",
+          "17C BROUILLARD",
           "MIN 17C MAX 32C",
-          "VENT 1 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 08/09 A 21H04",
           "SSO>ENE MAG -0.5",
           "DUREE 7 MIN"
         ],
         "short": [
-          "20C SOLEIL",
-          "VENT 1 KM/H",
+          "17C BROUILLARD",
+          "VENT 2 KM/H",
           "LE 08/09 A 21H04",
           "SSO>ENE MAG -0.5"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "20C",
-          "SOLEIL",
+          "17C",
+          "BROUILLARD",
           "",
           "17C > 32C",
-          "VT 1KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "20C",
-          "SOLEIL",
+          "17C",
+          "BROUILLARD",
           "17C>32C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "20C",
-          "SOLEIL",
+          "17C",
+          "BROUILLARD",
           "17C>32C",
           "ISS 21H04",
           "08/09",
@@ -122,8 +122,8 @@
           "7MIN M-0.5"
         ],
         "short": [
-          "20C",
-          "SOLEIL",
+          "17C",
+          "BROUILLARD",
           "ISS 21H04",
           "08/09"
         ]
