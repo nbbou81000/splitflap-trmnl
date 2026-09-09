@@ -1,13 +1,13 @@
 {
-  "updated_at": "09/09 16:00",
+  "updated_at": "09/09 19:52",
   "city": "ALBI",
   "weather": {
-    "temp": 21,
-    "wind": 20,
+    "temp": 19,
+    "wind": 14,
     "tmin": 15,
     "tmax": 22,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
     "date": "09/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  PEU NUAGEUX",
+          "19C  SOLEIL",
           "",
           "MIN 15C  MAX 22C",
           "",
-          "VENT 20 KM/H",
+          "VENT 14 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C PEU NUAGEUX",
+          "19C SOLEIL",
           "MIN 15C MAX 22C",
-          "VENT 20 KM/H"
+          "VENT 14 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "21C PEU NUAGEUX",
+          "19C SOLEIL",
           "MIN 15C MAX 22C",
-          "VENT 20 KM/H",
+          "VENT 14 KM/H",
           "PROCHAINE ISS",
           "LE 09/09 A 20H17",
           "S>ENE MAG 0.1",
           "DUREE 9 MIN"
         ],
         "short": [
-          "21C PEU NUAGEUX",
-          "VENT 20 KM/H",
+          "19C SOLEIL",
+          "VENT 14 KM/H",
           "LE 09/09 A 20H17",
           "S>ENE MAG 0.1"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "21C",
-          "NUAGEUX",
+          "19C",
+          "SOLEIL",
           "",
           "15C > 22C",
-          "VT 20KMH"
+          "VT 14KMH"
         ],
         "short": [
           "ALBI",
-          "21C",
-          "NUAGEUX",
+          "19C",
+          "SOLEIL",
           "15C>22C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "21C",
-          "NUAGEUX",
+          "19C",
+          "SOLEIL",
           "15C>22C",
           "ISS 20H17",
           "09/09",
@@ -122,8 +122,8 @@
           "9MIN M0.1"
         ],
         "short": [
-          "21C",
-          "NUAGEUX",
+          "19C",
+          "SOLEIL",
           "ISS 20H17",
           "09/09"
         ]
