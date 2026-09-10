@@ -1,13 +1,13 @@
 {
-  "updated_at": "10/09 07:23",
+  "updated_at": "10/09 11:52",
   "city": "ALBI",
   "weather": {
-    "temp": 9,
-    "wind": 2,
+    "temp": 18,
+    "wind": 12,
     "tmin": 8,
     "tmax": 23,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "10/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "9C  SOLEIL",
+          "18C  COUVERT",
           "",
           "MIN 8C  MAX 23C",
           "",
-          "VENT 2 KM/H",
+          "VENT 12 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "9C SOLEIL",
+          "18C COUVERT",
           "MIN 8C MAX 23C",
-          "VENT 2 KM/H"
+          "VENT 12 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "9C SOLEIL",
+          "18C COUVERT",
           "MIN 8C MAX 23C",
-          "VENT 2 KM/H",
+          "VENT 12 KM/H",
           "PROCHAINE ISS",
           "LE 10/09 A 21H05",
           "SO>ENE MAG -2",
           "DUREE 9 MIN"
         ],
         "short": [
-          "9C SOLEIL",
-          "VENT 2 KM/H",
+          "18C COUVERT",
+          "VENT 12 KM/H",
           "LE 10/09 A 21H05",
           "SO>ENE MAG -2"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "9C",
-          "SOLEIL",
+          "18C",
+          "COUVERT",
           "",
           "8C > 23C",
-          "VT 2KMH"
+          "VT 12KMH"
         ],
         "short": [
           "ALBI",
-          "9C",
-          "SOLEIL",
+          "18C",
+          "COUVERT",
           "8C>23C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "9C",
-          "SOLEIL",
+          "18C",
+          "COUVERT",
           "8C>23C",
           "ISS 21H05",
           "10/09",
@@ -122,8 +122,8 @@
           "9MIN M-2"
         ],
         "short": [
-          "9C",
-          "SOLEIL",
+          "18C",
+          "COUVERT",
           "ISS 21H05",
           "10/09"
         ]
