@@ -1,20 +1,20 @@
 {
-  "updated_at": "12/09 20:30",
+  "updated_at": "12/09 23:03",
   "city": "ALBI",
   "weather": {
-    "temp": 24,
-    "wind": 2,
+    "temp": 16,
+    "wind": 4,
     "tmin": 8,
     "tmax": 27,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "12/09",
-    "time": "21H07",
-    "dir": "OSO>NE",
-    "mag": -2,
-    "duration_min": 9
+    "date": "13/09",
+    "time": "20H19",
+    "dir": "SO>NE",
+    "mag": -2.4,
+    "duration_min": 11
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "24C  PEU NUAGEUX",
+          "16C  PEU NUAGEUX",
           "",
           "MIN 8C  MAX 27C",
           "",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "24C PEU NUAGEUX",
+          "16C PEU NUAGEUX",
           "MIN 8C MAX 27C",
-          "VENT 2 KM/H"
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 12/09 A 21H07",
+          "LE 13/09 A 20H19",
           "",
-          "OSO>NE  MAG -2",
+          "SO>NE  MAG -2.4",
           "",
-          "DUREE 9 MIN",
+          "DUREE 11 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 12/09 A 21H07",
-          "OSO>NE MAG -2",
-          "DUREE 9 MIN"
+          "LE 13/09 A 20H19",
+          "SO>NE MAG -2.4",
+          "DUREE 11 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "24C PEU NUAGEUX",
+          "16C PEU NUAGEUX",
           "MIN 8C MAX 27C",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
-          "LE 12/09 A 21H07",
-          "OSO>NE MAG -2",
-          "DUREE 9 MIN"
+          "LE 13/09 A 20H19",
+          "SO>NE MAG -2.4",
+          "DUREE 11 MIN"
         ],
         "short": [
-          "24C PEU NUAGEUX",
-          "VENT 2 KM/H",
-          "LE 12/09 A 21H07",
-          "OSO>NE MAG -2"
+          "16C PEU NUAGEUX",
+          "VENT 4 KM/H",
+          "LE 13/09 A 20H19",
+          "SO>NE MAG -2.4"
         ]
       }
     },
@@ -79,15 +79,15 @@
           "METEO",
           "ALBI",
           "",
-          "24C",
+          "16C",
           "NUAGEUX",
           "",
           "8C > 27C",
-          "VT 2KMH"
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "24C",
+          "16C",
           "NUAGEUX",
           "8C>27C"
         ]
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "12/09",
-          "21H07",
+          "13/09",
+          "20H19",
           "",
-          "OSO>NE",
-          "MAG -2",
-          "9 MIN"
+          "SO>NE",
+          "MAG -2.4",
+          "11 MIN"
         ],
         "short": [
-          "ISS 21H07",
-          "12/09",
-          "OSO>NE",
-          "9MIN M-2"
+          "ISS 20H19",
+          "13/09",
+          "SO>NE",
+          "11MIN M-2.4"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "24C",
+          "16C",
           "NUAGEUX",
           "8C>27C",
-          "ISS 21H07",
-          "12/09",
-          "OSO>NE",
-          "9MIN M-2"
+          "ISS 20H19",
+          "13/09",
+          "SO>NE",
+          "11MIN M-2.4"
         ],
         "short": [
-          "24C",
+          "16C",
           "NUAGEUX",
-          "ISS 21H07",
-          "12/09"
+          "ISS 20H19",
+          "13/09"
         ]
       }
     }
