@@ -1,20 +1,20 @@
 {
-  "updated_at": "18/09 21:46",
+  "updated_at": "18/09 23:58",
   "city": "ALBI",
   "weather": {
-    "temp": 18,
-    "wind": 2,
+    "temp": 13,
+    "wind": 4,
     "tmin": 9,
     "tmax": 24,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
-    "date": "18/09",
-    "time": "22H50",
-    "dir": "NO>E",
-    "mag": 0,
-    "duration_min": 3
+    "date": "19/09",
+    "time": "20H25",
+    "dir": "ONO>ENE",
+    "mag": -0.5,
+    "duration_min": 9
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  COUVERT",
+          "13C  BROUILLARD",
           "",
           "MIN 9C  MAX 24C",
           "",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C COUVERT",
+          "13C BROUILLARD",
           "MIN 9C MAX 24C",
-          "VENT 2 KM/H"
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 18/09 A 22H50",
+          "LE 19/09 A 20H25",
           "",
-          "NO>E  MAG 0",
+          "ONO>ENE  MAG -0.5",
           "",
-          "DUREE 3 MIN",
+          "DUREE 9 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 18/09 A 22H50",
-          "NO>E MAG 0",
-          "DUREE 3 MIN"
+          "LE 19/09 A 20H25",
+          "ONO>ENE MAG -0.5",
+          "DUREE 9 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "18C COUVERT",
+          "13C BROUILLARD",
           "MIN 9C MAX 24C",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
-          "LE 18/09 A 22H50",
-          "NO>E MAG 0",
-          "DUREE 3 MIN"
+          "LE 19/09 A 20H25",
+          "ONO>ENE MAG -0.5",
+          "DUREE 9 MIN"
         ],
         "short": [
-          "18C COUVERT",
-          "VENT 2 KM/H",
-          "LE 18/09 A 22H50",
-          "NO>E MAG 0"
+          "13C BROUILLARD",
+          "VENT 4 KM/H",
+          "LE 19/09 A 20H25",
+          "ONO>ENE MAG -0.5"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "18C",
-          "COUVERT",
+          "13C",
+          "BROUILLARD",
           "",
           "9C > 24C",
-          "VT 2KMH"
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "18C",
-          "COUVERT",
+          "13C",
+          "BROUILLARD",
           "9C>24C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "18/09",
-          "22H50",
+          "19/09",
+          "20H25",
           "",
-          "NO>E",
-          "MAG 0",
-          "3 MIN"
+          "ONO>ENE",
+          "MAG -0.5",
+          "9 MIN"
         ],
         "short": [
-          "ISS 22H50",
-          "18/09",
-          "NO>E",
-          "3MIN M0"
+          "ISS 20H25",
+          "19/09",
+          "ONO>ENE",
+          "9MIN M-0.5"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "18C",
-          "COUVERT",
+          "13C",
+          "BROUILLARD",
           "9C>24C",
-          "ISS 22H50",
-          "18/09",
-          "NO>E",
-          "3MIN M0"
+          "ISS 20H25",
+          "19/09",
+          "ONO>ENE",
+          "9MIN M-0.5"
         ],
         "short": [
-          "18C",
-          "COUVERT",
-          "ISS 22H50",
-          "18/09"
+          "13C",
+          "BROUILLARD",
+          "ISS 20H25",
+          "19/09"
         ]
       }
     }
