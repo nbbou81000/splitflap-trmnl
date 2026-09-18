@@ -1,10 +1,10 @@
 {
-  "updated_at": "18/09 02:52",
+  "updated_at": "18/09 07:20",
   "city": "ALBI",
   "weather": {
-    "temp": 12,
+    "temp": 10,
     "wind": 2,
-    "tmin": 11,
+    "tmin": 10,
     "tmax": 24,
     "label": "COUVERT",
     "label_short": "COUVERT"
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "12C  COUVERT",
+          "10C  COUVERT",
           "",
-          "MIN 11C  MAX 24C",
+          "MIN 10C  MAX 24C",
           "",
           "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "12C COUVERT",
-          "MIN 11C MAX 24C",
+          "10C COUVERT",
+          "MIN 10C MAX 24C",
           "VENT 2 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "12C COUVERT",
-          "MIN 11C MAX 24C",
+          "10C COUVERT",
+          "MIN 10C MAX 24C",
           "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 18/09 A 21H13",
@@ -66,7 +66,7 @@
           "DUREE 7 MIN"
         ],
         "short": [
-          "12C COUVERT",
+          "10C COUVERT",
           "VENT 2 KM/H",
           "LE 18/09 A 21H13",
           "ONO>ENE MAG -0.5"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "12C",
+          "10C",
           "COUVERT",
           "",
-          "11C > 24C",
+          "10C > 24C",
           "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "12C",
+          "10C",
           "COUVERT",
-          "11C>24C"
+          "10C>24C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "12C",
+          "10C",
           "COUVERT",
-          "11C>24C",
+          "10C>24C",
           "ISS 21H13",
           "18/09",
           "ONO>ENE",
           "7MIN M-0.5"
         ],
         "short": [
-          "12C",
+          "10C",
           "COUVERT",
           "ISS 21H13",
           "18/09"
