@@ -1,13 +1,13 @@
 {
-  "updated_at": "19/09 03:50",
+  "updated_at": "19/09 08:45",
   "city": "ALBI",
   "weather": {
-    "temp": 10,
-    "wind": 4,
+    "temp": 11,
+    "wind": 1,
     "tmin": 9,
     "tmax": 27,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "19/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "10C  BROUILLARD",
+          "11C  PEU NUAGEUX",
           "",
           "MIN 9C  MAX 27C",
           "",
-          "VENT 4 KM/H",
+          "VENT 1 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "10C BROUILLARD",
+          "11C PEU NUAGEUX",
           "MIN 9C MAX 27C",
-          "VENT 4 KM/H"
+          "VENT 1 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "10C BROUILLARD",
+          "11C PEU NUAGEUX",
           "MIN 9C MAX 27C",
-          "VENT 4 KM/H",
+          "VENT 1 KM/H",
           "PROCHAINE ISS",
           "LE 19/09 A 20H25",
           "ONO>ENE MAG -0.5",
           "DUREE 9 MIN"
         ],
         "short": [
-          "10C BROUILLARD",
-          "VENT 4 KM/H",
+          "11C PEU NUAGEUX",
+          "VENT 1 KM/H",
           "LE 19/09 A 20H25",
           "ONO>ENE MAG -0.5"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "10C",
-          "BROUILLARD",
+          "11C",
+          "NUAGEUX",
           "",
           "9C > 27C",
-          "VT 4KMH"
+          "VT 1KMH"
         ],
         "short": [
           "ALBI",
-          "10C",
-          "BROUILLARD",
+          "11C",
+          "NUAGEUX",
           "9C>27C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "10C",
-          "BROUILLARD",
+          "11C",
+          "NUAGEUX",
           "9C>27C",
           "ISS 20H25",
           "19/09",
@@ -122,8 +122,8 @@
           "9MIN M-0.5"
         ],
         "short": [
-          "10C",
-          "BROUILLARD",
+          "11C",
+          "NUAGEUX",
           "ISS 20H25",
           "19/09"
         ]
