@@ -1,20 +1,20 @@
 {
-  "updated_at": "21/09 16:22",
+  "updated_at": "21/09 21:36",
   "city": "ALBI",
   "weather": {
-    "temp": 29,
-    "wind": 15,
+    "temp": 23,
+    "wind": 3,
     "tmin": 8,
     "tmax": 29,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "21/09",
-    "time": "20H27",
-    "dir": "ONO>E",
-    "mag": -0.6,
-    "duration_min": 8
+    "time": "22H04",
+    "dir": "NO>ESE",
+    "mag": -1.1,
+    "duration_min": 4
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "29C  PEU NUAGEUX",
+          "23C  COUVERT",
           "",
           "MIN 8C  MAX 29C",
           "",
-          "VENT 15 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "29C PEU NUAGEUX",
+          "23C COUVERT",
           "MIN 8C MAX 29C",
-          "VENT 15 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 21/09 A 20H27",
+          "LE 21/09 A 22H04",
           "",
-          "ONO>E  MAG -0.6",
+          "NO>ESE  MAG -1.1",
           "",
-          "DUREE 8 MIN",
+          "DUREE 4 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 21/09 A 20H27",
-          "ONO>E MAG -0.6",
-          "DUREE 8 MIN"
+          "LE 21/09 A 22H04",
+          "NO>ESE MAG -1.1",
+          "DUREE 4 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "29C PEU NUAGEUX",
+          "23C COUVERT",
           "MIN 8C MAX 29C",
-          "VENT 15 KM/H",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 21/09 A 20H27",
-          "ONO>E MAG -0.6",
-          "DUREE 8 MIN"
+          "LE 21/09 A 22H04",
+          "NO>ESE MAG -1.1",
+          "DUREE 4 MIN"
         ],
         "short": [
-          "29C PEU NUAGEUX",
-          "VENT 15 KM/H",
-          "LE 21/09 A 20H27",
-          "ONO>E MAG -0.6"
+          "23C COUVERT",
+          "VENT 3 KM/H",
+          "LE 21/09 A 22H04",
+          "NO>ESE MAG -1.1"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "29C",
-          "NUAGEUX",
+          "23C",
+          "COUVERT",
           "",
           "8C > 29C",
-          "VT 15KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "29C",
-          "NUAGEUX",
+          "23C",
+          "COUVERT",
           "8C>29C"
         ]
       },
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "21/09",
-          "20H27",
+          "22H04",
           "",
-          "ONO>E",
-          "MAG -0.6",
-          "8 MIN"
+          "NO>ESE",
+          "MAG -1.1",
+          "4 MIN"
         ],
         "short": [
-          "ISS 20H27",
+          "ISS 22H04",
           "21/09",
-          "ONO>E",
-          "8MIN M-0.6"
+          "NO>ESE",
+          "4MIN M-1.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "29C",
-          "NUAGEUX",
+          "23C",
+          "COUVERT",
           "8C>29C",
-          "ISS 20H27",
+          "ISS 22H04",
           "21/09",
-          "ONO>E",
-          "8MIN M-0.6"
+          "NO>ESE",
+          "4MIN M-1.1"
         ],
         "short": [
-          "29C",
-          "NUAGEUX",
-          "ISS 20H27",
+          "23C",
+          "COUVERT",
+          "ISS 22H04",
           "21/09"
         ]
       }
