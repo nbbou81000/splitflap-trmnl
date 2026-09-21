@@ -1,13 +1,13 @@
 {
-  "updated_at": "21/09 01:37",
+  "updated_at": "21/09 03:53",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 2,
-    "tmin": 8,
+    "temp": 12,
+    "wind": 3,
+    "tmin": 9,
     "tmax": 30,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
     "date": "21/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  COUVERT",
+          "12C  SOLEIL",
           "",
-          "MIN 8C  MAX 30C",
+          "MIN 9C  MAX 30C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C COUVERT",
-          "MIN 8C MAX 30C",
-          "VENT 2 KM/H"
+          "12C SOLEIL",
+          "MIN 9C MAX 30C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C COUVERT",
-          "MIN 8C MAX 30C",
-          "VENT 2 KM/H",
+          "12C SOLEIL",
+          "MIN 9C MAX 30C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 21/09 A 20H27",
           "ONO>E MAG -0.6",
           "DUREE 8 MIN"
         ],
         "short": [
-          "15C COUVERT",
-          "VENT 2 KM/H",
+          "12C SOLEIL",
+          "VENT 3 KM/H",
           "LE 21/09 A 20H27",
           "ONO>E MAG -0.6"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "COUVERT",
+          "12C",
+          "SOLEIL",
           "",
-          "8C > 30C",
-          "VT 2KMH"
+          "9C > 30C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "COUVERT",
-          "8C>30C"
+          "12C",
+          "SOLEIL",
+          "9C>30C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "COUVERT",
-          "8C>30C",
+          "12C",
+          "SOLEIL",
+          "9C>30C",
           "ISS 20H27",
           "21/09",
           "ONO>E",
           "8MIN M-0.6"
         ],
         "short": [
-          "15C",
-          "COUVERT",
+          "12C",
+          "SOLEIL",
           "ISS 20H27",
           "21/09"
         ]
