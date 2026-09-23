@@ -1,20 +1,20 @@
 {
-  "updated_at": "23/09 21:07",
+  "updated_at": "24/09 00:22",
   "city": "ALBI",
   "weather": {
-    "temp": 23,
-    "wind": 3,
+    "temp": 12,
+    "wind": 5,
     "tmin": 9,
-    "tmax": 30,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "tmax": 33,
+    "label": "SOLEIL",
+    "label_short": "SOLEIL"
   },
   "iss": {
-    "date": "23/09",
-    "time": "22H05",
-    "dir": "ONO>SE",
-    "mag": -1.1,
-    "duration_min": 4
+    "date": "24/09",
+    "time": "19H41",
+    "dir": "NO>E",
+    "mag": -0.8,
+    "duration_min": 10
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "23C  PEU NUAGEUX",
+          "12C  SOLEIL",
           "",
-          "MIN 9C  MAX 30C",
+          "MIN 9C  MAX 33C",
           "",
-          "VENT 3 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "23C PEU NUAGEUX",
-          "MIN 9C MAX 30C",
-          "VENT 3 KM/H"
+          "12C SOLEIL",
+          "MIN 9C MAX 33C",
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 23/09 A 22H05",
+          "LE 24/09 A 19H41",
           "",
-          "ONO>SE  MAG -1.1",
+          "NO>E  MAG -0.8",
           "",
-          "DUREE 4 MIN",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 23/09 A 22H05",
-          "ONO>SE MAG -1.1",
-          "DUREE 4 MIN"
+          "LE 24/09 A 19H41",
+          "NO>E MAG -0.8",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "23C PEU NUAGEUX",
-          "MIN 9C MAX 30C",
-          "VENT 3 KM/H",
+          "12C SOLEIL",
+          "MIN 9C MAX 33C",
+          "VENT 5 KM/H",
           "PROCHAINE ISS",
-          "LE 23/09 A 22H05",
-          "ONO>SE MAG -1.1",
-          "DUREE 4 MIN"
+          "LE 24/09 A 19H41",
+          "NO>E MAG -0.8",
+          "DUREE 10 MIN"
         ],
         "short": [
-          "23C PEU NUAGEUX",
-          "VENT 3 KM/H",
-          "LE 23/09 A 22H05",
-          "ONO>SE MAG -1.1"
+          "12C SOLEIL",
+          "VENT 5 KM/H",
+          "LE 24/09 A 19H41",
+          "NO>E MAG -0.8"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "23C",
-          "NUAGEUX",
+          "12C",
+          "SOLEIL",
           "",
-          "9C > 30C",
-          "VT 3KMH"
+          "9C > 33C",
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "23C",
-          "NUAGEUX",
-          "9C>30C"
+          "12C",
+          "SOLEIL",
+          "9C>33C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "23/09",
-          "22H05",
+          "24/09",
+          "19H41",
           "",
-          "ONO>SE",
-          "MAG -1.1",
-          "4 MIN"
+          "NO>E",
+          "MAG -0.8",
+          "10 MIN"
         ],
         "short": [
-          "ISS 22H05",
-          "23/09",
-          "ONO>SE",
-          "4MIN M-1.1"
+          "ISS 19H41",
+          "24/09",
+          "NO>E",
+          "10MIN M-0.8"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "23C",
-          "NUAGEUX",
-          "9C>30C",
-          "ISS 22H05",
-          "23/09",
-          "ONO>SE",
-          "4MIN M-1.1"
+          "12C",
+          "SOLEIL",
+          "9C>33C",
+          "ISS 19H41",
+          "24/09",
+          "NO>E",
+          "10MIN M-0.8"
         ],
         "short": [
-          "23C",
-          "NUAGEUX",
-          "ISS 22H05",
-          "23/09"
+          "12C",
+          "SOLEIL",
+          "ISS 19H41",
+          "24/09"
         ]
       }
     }
