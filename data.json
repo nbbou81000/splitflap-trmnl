@@ -1,75 +1,69 @@
 {
-  "updated_at": "24/09 17:32",
+  "updated_at": "24/09 21:32",
   "city": "ALBI",
   "weather": {
-    "temp": 32,
-    "wind": 11,
+    "temp": 19,
+    "wind": 5,
     "tmin": 8,
     "tmax": 32,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
-  "iss": {
-    "date": "24/09",
-    "time": "19H41",
-    "dir": "NO>E",
-    "mag": -0.8,
-    "duration_min": 10
-  },
+  "iss": null,
   "lines": {
     "wide": {
       "meteo": {
         "full": [
           "METEO ALBI",
           "",
-          "32C  COUVERT",
+          "19C  PEU NUAGEUX",
           "",
           "MIN 8C  MAX 32C",
           "",
-          "VENT 11 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "32C COUVERT",
+          "19C PEU NUAGEUX",
           "MIN 8C MAX 32C",
-          "VENT 11 KM/H"
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
         "full": [
-          "PROCHAINE ISS",
+          "ISS",
           "",
-          "LE 24/09 A 19H41",
+          "PAS DE PASSAGE",
+          "VISIBLE PREVU",
           "",
-          "NO>E  MAG -0.8",
           "",
-          "DUREE 10 MIN",
+          "",
           ""
         ],
         "short": [
-          "PROCHAINE ISS",
-          "LE 24/09 A 19H41",
-          "NO>E MAG -0.8",
-          "DUREE 10 MIN"
+          "ISS",
+          "",
+          "PAS DE PASSAGE",
+          "VISIBLE PREVU"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "32C COUVERT",
+          "19C PEU NUAGEUX",
           "MIN 8C MAX 32C",
-          "VENT 11 KM/H",
-          "PROCHAINE ISS",
-          "LE 24/09 A 19H41",
-          "NO>E MAG -0.8",
-          "DUREE 10 MIN"
+          "VENT 5 KM/H",
+          "ISS",
+          "",
+          "PAS DE PASSAGE",
+          "VISIBLE PREVU"
         ],
         "short": [
-          "32C COUVERT",
-          "VENT 11 KM/H",
-          "LE 24/09 A 19H41",
-          "NO>E MAG -0.8"
+          "19C PEU NUAGEUX",
+          "VENT 5 KM/H",
+          "",
+          "PAS DE PASSAGE"
         ]
       }
     },
@@ -79,16 +73,16 @@
           "METEO",
           "ALBI",
           "",
-          "32C",
-          "COUVERT",
+          "19C",
+          "NUAGEUX",
           "",
           "8C > 32C",
-          "VT 11KMH"
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "32C",
-          "COUVERT",
+          "19C",
+          "NUAGEUX",
           "8C>32C"
         ]
       },
@@ -96,36 +90,36 @@
         "full": [
           "ISS",
           "",
-          "24/09",
-          "19H41",
+          "PAS DE",
+          "PASSAGE",
+          "PREVU",
           "",
-          "NO>E",
-          "MAG -0.8",
-          "10 MIN"
+          "",
+          ""
         ],
         "short": [
-          "ISS 19H41",
-          "24/09",
-          "NO>E",
-          "10MIN M-0.8"
+          "ISS",
+          "PAS DE",
+          "PASSAGE",
+          "PREVU"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "32C",
-          "COUVERT",
+          "19C",
+          "NUAGEUX",
           "8C>32C",
-          "ISS 19H41",
-          "24/09",
-          "NO>E",
-          "10MIN M-0.8"
+          "ISS",
+          "PAS DE",
+          "PASSAGE",
+          "PREVU"
         ],
         "short": [
-          "32C",
-          "COUVERT",
-          "ISS 19H41",
-          "24/09"
+          "19C",
+          "NUAGEUX",
+          "ISS",
+          "PAS DE"
         ]
       }
     }
