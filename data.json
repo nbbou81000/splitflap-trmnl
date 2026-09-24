@@ -1,11 +1,11 @@
 {
-  "updated_at": "24/09 00:22",
+  "updated_at": "24/09 02:37",
   "city": "ALBI",
   "weather": {
-    "temp": 12,
-    "wind": 5,
-    "tmin": 9,
-    "tmax": 33,
+    "temp": 10,
+    "wind": 4,
+    "tmin": 8,
+    "tmax": 32,
     "label": "SOLEIL",
     "label_short": "SOLEIL"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "12C  SOLEIL",
+          "10C  SOLEIL",
           "",
-          "MIN 9C  MAX 33C",
+          "MIN 8C  MAX 32C",
           "",
-          "VENT 5 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "12C SOLEIL",
-          "MIN 9C MAX 33C",
-          "VENT 5 KM/H"
+          "10C SOLEIL",
+          "MIN 8C MAX 32C",
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "12C SOLEIL",
-          "MIN 9C MAX 33C",
-          "VENT 5 KM/H",
+          "10C SOLEIL",
+          "MIN 8C MAX 32C",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 24/09 A 19H41",
           "NO>E MAG -0.8",
           "DUREE 10 MIN"
         ],
         "short": [
-          "12C SOLEIL",
-          "VENT 5 KM/H",
+          "10C SOLEIL",
+          "VENT 4 KM/H",
           "LE 24/09 A 19H41",
           "NO>E MAG -0.8"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "12C",
+          "10C",
           "SOLEIL",
           "",
-          "9C > 33C",
-          "VT 5KMH"
+          "8C > 32C",
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "12C",
+          "10C",
           "SOLEIL",
-          "9C>33C"
+          "8C>32C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "12C",
+          "10C",
           "SOLEIL",
-          "9C>33C",
+          "8C>32C",
           "ISS 19H41",
           "24/09",
           "NO>E",
           "10MIN M-0.8"
         ],
         "short": [
-          "12C",
+          "10C",
           "SOLEIL",
           "ISS 19H41",
           "24/09"
