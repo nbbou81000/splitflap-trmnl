@@ -1,9 +1,9 @@
 {
-  "updated_at": "25/09 17:36",
+  "updated_at": "25/09 21:36",
   "city": "ALBI",
   "weather": {
-    "temp": 31,
-    "wind": 15,
+    "temp": 22,
+    "wind": 2,
     "tmin": 8,
     "tmax": 32,
     "label": "SOLEIL",
@@ -11,10 +11,10 @@
   },
   "iss": {
     "date": "25/09",
-    "time": "20H30",
-    "dir": "NO>ESE",
-    "mag": -2,
-    "duration_min": 8
+    "time": "22H07",
+    "dir": "ONO>SSE",
+    "mag": -0.3,
+    "duration_min": 4
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "31C  SOLEIL",
+          "22C  SOLEIL",
           "",
           "MIN 8C  MAX 32C",
           "",
-          "VENT 15 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "31C SOLEIL",
+          "22C SOLEIL",
           "MIN 8C MAX 32C",
-          "VENT 15 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 25/09 A 20H30",
+          "LE 25/09 A 22H07",
           "",
-          "NO>ESE  MAG -2",
+          "ONO>SSE  MAG -0.3",
           "",
-          "DUREE 8 MIN",
+          "DUREE 4 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 25/09 A 20H30",
-          "NO>ESE MAG -2",
-          "DUREE 8 MIN"
+          "LE 25/09 A 22H07",
+          "ONO>SSE MAG -0.3",
+          "DUREE 4 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "31C SOLEIL",
+          "22C SOLEIL",
           "MIN 8C MAX 32C",
-          "VENT 15 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
-          "LE 25/09 A 20H30",
-          "NO>ESE MAG -2",
-          "DUREE 8 MIN"
+          "LE 25/09 A 22H07",
+          "ONO>SSE MAG -0.3",
+          "DUREE 4 MIN"
         ],
         "short": [
-          "31C SOLEIL",
-          "VENT 15 KM/H",
-          "LE 25/09 A 20H30",
-          "NO>ESE MAG -2"
+          "22C SOLEIL",
+          "VENT 2 KM/H",
+          "LE 25/09 A 22H07",
+          "ONO>SSE MAG -0.3"
         ]
       }
     },
@@ -79,15 +79,15 @@
           "METEO",
           "ALBI",
           "",
-          "31C",
+          "22C",
           "SOLEIL",
           "",
           "8C > 32C",
-          "VT 15KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "31C",
+          "22C",
           "SOLEIL",
           "8C>32C"
         ]
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "25/09",
-          "20H30",
+          "22H07",
           "",
-          "NO>ESE",
-          "MAG -2",
-          "8 MIN"
+          "ONO>SSE",
+          "MAG -0.3",
+          "4 MIN"
         ],
         "short": [
-          "ISS 20H30",
+          "ISS 22H07",
           "25/09",
-          "NO>ESE",
-          "8MIN M-2"
+          "ONO>SSE",
+          "4MIN M-0.3"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "31C",
+          "22C",
           "SOLEIL",
           "8C>32C",
-          "ISS 20H30",
+          "ISS 22H07",
           "25/09",
-          "NO>ESE",
-          "8MIN M-2"
+          "ONO>SSE",
+          "4MIN M-0.3"
         ],
         "short": [
-          "31C",
+          "22C",
           "SOLEIL",
-          "ISS 20H30",
+          "ISS 22H07",
           "25/09"
         ]
       }
