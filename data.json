@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/09 23:18",
+  "updated_at": "27/09 01:41",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 5,
+    "temp": 17,
+    "wind": 6,
     "tmin": 15,
-    "tmax": 28,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "tmax": 30,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "27/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  SOLEIL",
+          "17C  PEU NUAGEUX",
           "",
-          "MIN 15C  MAX 28C",
+          "MIN 15C  MAX 30C",
           "",
-          "VENT 5 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C SOLEIL",
-          "MIN 15C MAX 28C",
-          "VENT 5 KM/H"
+          "17C PEU NUAGEUX",
+          "MIN 15C MAX 30C",
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C SOLEIL",
-          "MIN 15C MAX 28C",
-          "VENT 5 KM/H",
+          "17C PEU NUAGEUX",
+          "MIN 15C MAX 30C",
+          "VENT 6 KM/H",
           "PROCHAINE ISS",
           "LE 27/09 A 20H32",
           "ONO>SE MAG -2.1",
           "DUREE 8 MIN"
         ],
         "short": [
-          "15C SOLEIL",
-          "VENT 5 KM/H",
+          "17C PEU NUAGEUX",
+          "VENT 6 KM/H",
           "LE 27/09 A 20H32",
           "ONO>SE MAG -2.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "SOLEIL",
+          "17C",
+          "NUAGEUX",
           "",
-          "15C > 28C",
-          "VT 5KMH"
+          "15C > 30C",
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "SOLEIL",
-          "15C>28C"
+          "17C",
+          "NUAGEUX",
+          "15C>30C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "SOLEIL",
-          "15C>28C",
+          "17C",
+          "NUAGEUX",
+          "15C>30C",
           "ISS 20H32",
           "27/09",
           "ONO>SE",
           "8MIN M-2.1"
         ],
         "short": [
-          "15C",
-          "SOLEIL",
+          "17C",
+          "NUAGEUX",
           "ISS 20H32",
           "27/09"
         ]
