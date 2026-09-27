@@ -1,17 +1,17 @@
 {
-  "updated_at": "27/09 04:03",
+  "updated_at": "27/09 10:22",
   "city": "ALBI",
   "weather": {
-    "temp": 18,
-    "wind": 6,
+    "temp": 23,
+    "wind": 13,
     "tmin": 15,
     "tmax": 30,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "27/09",
-    "time": "20H32",
+    "time": "20H33",
     "dir": "ONO>SE",
     "mag": -2.1,
     "duration_min": 8
@@ -22,25 +22,25 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  PEU NUAGEUX",
+          "23C  COUVERT",
           "",
           "MIN 15C  MAX 30C",
           "",
-          "VENT 6 KM/H",
+          "VENT 13 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C PEU NUAGEUX",
+          "23C COUVERT",
           "MIN 15C MAX 30C",
-          "VENT 6 KM/H"
+          "VENT 13 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 27/09 A 20H32",
+          "LE 27/09 A 20H33",
           "",
           "ONO>SE  MAG -2.1",
           "",
@@ -49,7 +49,7 @@
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 27/09 A 20H32",
+          "LE 27/09 A 20H33",
           "ONO>SE MAG -2.1",
           "DUREE 8 MIN"
         ]
@@ -57,18 +57,18 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "18C PEU NUAGEUX",
+          "23C COUVERT",
           "MIN 15C MAX 30C",
-          "VENT 6 KM/H",
+          "VENT 13 KM/H",
           "PROCHAINE ISS",
-          "LE 27/09 A 20H32",
+          "LE 27/09 A 20H33",
           "ONO>SE MAG -2.1",
           "DUREE 8 MIN"
         ],
         "short": [
-          "18C PEU NUAGEUX",
-          "VENT 6 KM/H",
-          "LE 27/09 A 20H32",
+          "23C COUVERT",
+          "VENT 13 KM/H",
+          "LE 27/09 A 20H33",
           "ONO>SE MAG -2.1"
         ]
       }
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "18C",
-          "NUAGEUX",
+          "23C",
+          "COUVERT",
           "",
           "15C > 30C",
-          "VT 6KMH"
+          "VT 13KMH"
         ],
         "short": [
           "ALBI",
-          "18C",
-          "NUAGEUX",
+          "23C",
+          "COUVERT",
           "15C>30C"
         ]
       },
@@ -97,14 +97,14 @@
           "ISS",
           "",
           "27/09",
-          "20H32",
+          "20H33",
           "",
           "ONO>SE",
           "MAG -2.1",
           "8 MIN"
         ],
         "short": [
-          "ISS 20H32",
+          "ISS 20H33",
           "27/09",
           "ONO>SE",
           "8MIN M-2.1"
@@ -113,18 +113,18 @@
       "both": {
         "full": [
           "ALBI",
-          "18C",
-          "NUAGEUX",
+          "23C",
+          "COUVERT",
           "15C>30C",
-          "ISS 20H32",
+          "ISS 20H33",
           "27/09",
           "ONO>SE",
           "8MIN M-2.1"
         ],
         "short": [
-          "18C",
-          "NUAGEUX",
-          "ISS 20H32",
+          "23C",
+          "COUVERT",
+          "ISS 20H33",
           "27/09"
         ]
       }
