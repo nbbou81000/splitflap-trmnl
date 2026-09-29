@@ -1,13 +1,13 @@
 {
-  "updated_at": "29/09 13:39",
+  "updated_at": "29/09 19:05",
   "city": "ALBI",
   "weather": {
-    "temp": 27,
-    "wind": 30,
+    "temp": 25,
+    "wind": 19,
     "tmin": 20,
-    "tmax": 28,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "tmax": 27,
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "29/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "27C  PEU NUAGEUX",
+          "25C  COUVERT",
           "",
-          "MIN 20C  MAX 28C",
+          "MIN 20C  MAX 27C",
           "",
-          "VENT 30 KM/H",
+          "VENT 19 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "27C PEU NUAGEUX",
-          "MIN 20C MAX 28C",
-          "VENT 30 KM/H"
+          "25C COUVERT",
+          "MIN 20C MAX 27C",
+          "VENT 19 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "27C PEU NUAGEUX",
-          "MIN 20C MAX 28C",
-          "VENT 30 KM/H",
+          "25C COUVERT",
+          "MIN 20C MAX 27C",
+          "VENT 19 KM/H",
           "PROCHAINE ISS",
           "LE 29/09 A 20H35",
           "ONO>SSE MAG -0.6",
           "DUREE 9 MIN"
         ],
         "short": [
-          "27C PEU NUAGEUX",
-          "VENT 30 KM/H",
+          "25C COUVERT",
+          "VENT 19 KM/H",
           "LE 29/09 A 20H35",
           "ONO>SSE MAG -0.6"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "27C",
-          "NUAGEUX",
+          "25C",
+          "COUVERT",
           "",
-          "20C > 28C",
-          "VT 30KMH"
+          "20C > 27C",
+          "VT 19KMH"
         ],
         "short": [
           "ALBI",
-          "27C",
-          "NUAGEUX",
-          "20C>28C"
+          "25C",
+          "COUVERT",
+          "20C>27C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "27C",
-          "NUAGEUX",
-          "20C>28C",
+          "25C",
+          "COUVERT",
+          "20C>27C",
           "ISS 20H35",
           "29/09",
           "ONO>SSE",
           "9MIN M-0.6"
         ],
         "short": [
-          "27C",
-          "NUAGEUX",
+          "25C",
+          "COUVERT",
           "ISS 20H35",
           "29/09"
         ]
