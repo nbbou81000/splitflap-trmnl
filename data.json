@@ -1,13 +1,13 @@
 {
-  "updated_at": "29/09 02:00",
+  "updated_at": "29/09 07:53",
   "city": "ALBI",
   "weather": {
-    "temp": 21,
-    "wind": 12,
+    "temp": 20,
+    "wind": 7,
     "tmin": 20,
     "tmax": 28,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
     "date": "29/09",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  COUVERT",
+          "20C  PLUIE",
           "",
           "MIN 20C  MAX 28C",
           "",
-          "VENT 12 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C COUVERT",
+          "20C PLUIE",
           "MIN 20C MAX 28C",
-          "VENT 12 KM/H"
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "21C COUVERT",
+          "20C PLUIE",
           "MIN 20C MAX 28C",
-          "VENT 12 KM/H",
+          "VENT 7 KM/H",
           "PROCHAINE ISS",
           "LE 29/09 A 20H35",
           "ONO>SSE MAG -0.6",
           "DUREE 9 MIN"
         ],
         "short": [
-          "21C COUVERT",
-          "VENT 12 KM/H",
+          "20C PLUIE",
+          "VENT 7 KM/H",
           "LE 29/09 A 20H35",
           "ONO>SSE MAG -0.6"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "21C",
-          "COUVERT",
+          "20C",
+          "PLUIE",
           "",
           "20C > 28C",
-          "VT 12KMH"
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
-          "21C",
-          "COUVERT",
+          "20C",
+          "PLUIE",
           "20C>28C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "21C",
-          "COUVERT",
+          "20C",
+          "PLUIE",
           "20C>28C",
           "ISS 20H35",
           "29/09",
@@ -122,8 +122,8 @@
           "9MIN M-0.6"
         ],
         "short": [
-          "21C",
-          "COUVERT",
+          "20C",
+          "PLUIE",
           "ISS 20H35",
           "29/09"
         ]
