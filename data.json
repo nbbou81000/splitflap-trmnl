@@ -1,20 +1,20 @@
 {
-  "updated_at": "29/09 19:05",
+  "updated_at": "29/09 23:27",
   "city": "ALBI",
   "weather": {
-    "temp": 25,
-    "wind": 19,
+    "temp": 21,
+    "wind": 9,
     "tmin": 20,
     "tmax": 27,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "29/09",
-    "time": "20H35",
-    "dir": "ONO>SSE",
-    "mag": -0.6,
-    "duration_min": 9
+    "date": "30/09",
+    "time": "19H48",
+    "dir": "ONO>SE",
+    "mag": -1.3,
+    "duration_min": 10
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "25C  COUVERT",
+          "21C  PEU NUAGEUX",
           "",
           "MIN 20C  MAX 27C",
           "",
-          "VENT 19 KM/H",
+          "VENT 9 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "25C COUVERT",
+          "21C PEU NUAGEUX",
           "MIN 20C MAX 27C",
-          "VENT 19 KM/H"
+          "VENT 9 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 29/09 A 20H35",
+          "LE 30/09 A 19H48",
           "",
-          "ONO>SSE  MAG -0.6",
+          "ONO>SE  MAG -1.3",
           "",
-          "DUREE 9 MIN",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 29/09 A 20H35",
-          "ONO>SSE MAG -0.6",
-          "DUREE 9 MIN"
+          "LE 30/09 A 19H48",
+          "ONO>SE MAG -1.3",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "25C COUVERT",
+          "21C PEU NUAGEUX",
           "MIN 20C MAX 27C",
-          "VENT 19 KM/H",
+          "VENT 9 KM/H",
           "PROCHAINE ISS",
-          "LE 29/09 A 20H35",
-          "ONO>SSE MAG -0.6",
-          "DUREE 9 MIN"
+          "LE 30/09 A 19H48",
+          "ONO>SE MAG -1.3",
+          "DUREE 10 MIN"
         ],
         "short": [
-          "25C COUVERT",
-          "VENT 19 KM/H",
-          "LE 29/09 A 20H35",
-          "ONO>SSE MAG -0.6"
+          "21C PEU NUAGEUX",
+          "VENT 9 KM/H",
+          "LE 30/09 A 19H48",
+          "ONO>SE MAG -1.3"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "25C",
-          "COUVERT",
+          "21C",
+          "NUAGEUX",
           "",
           "20C > 27C",
-          "VT 19KMH"
+          "VT 9KMH"
         ],
         "short": [
           "ALBI",
-          "25C",
-          "COUVERT",
+          "21C",
+          "NUAGEUX",
           "20C>27C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "29/09",
-          "20H35",
+          "30/09",
+          "19H48",
           "",
-          "ONO>SSE",
-          "MAG -0.6",
-          "9 MIN"
+          "ONO>SE",
+          "MAG -1.3",
+          "10 MIN"
         ],
         "short": [
-          "ISS 20H35",
-          "29/09",
-          "ONO>SSE",
-          "9MIN M-0.6"
+          "ISS 19H48",
+          "30/09",
+          "ONO>SE",
+          "10MIN M-1.3"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "25C",
-          "COUVERT",
+          "21C",
+          "NUAGEUX",
           "20C>27C",
-          "ISS 20H35",
-          "29/09",
-          "ONO>SSE",
-          "9MIN M-0.6"
+          "ISS 19H48",
+          "30/09",
+          "ONO>SE",
+          "10MIN M-1.3"
         ],
         "short": [
-          "25C",
-          "COUVERT",
-          "ISS 20H35",
-          "29/09"
+          "21C",
+          "NUAGEUX",
+          "ISS 19H48",
+          "30/09"
         ]
       }
     }
