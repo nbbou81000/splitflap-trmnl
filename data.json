@@ -1,20 +1,20 @@
 {
-  "updated_at": "30/09 14:48",
+  "updated_at": "30/09 20:10",
   "city": "ALBI",
   "weather": {
-    "temp": 30,
-    "wind": 19,
+    "temp": 24,
+    "wind": 15,
     "tmin": 18,
-    "tmax": 30,
+    "tmax": 29,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
   "iss": {
-    "date": "30/09",
-    "time": "19H48",
-    "dir": "ONO>SE",
-    "mag": -1.3,
-    "duration_min": 10
+    "date": "02/10",
+    "time": "19H51",
+    "dir": "ONO>S",
+    "mag": 0.1,
+    "duration_min": 9
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "30C  COUVERT",
+          "24C  COUVERT",
           "",
-          "MIN 18C  MAX 30C",
+          "MIN 18C  MAX 29C",
           "",
-          "VENT 19 KM/H",
+          "VENT 15 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "30C COUVERT",
-          "MIN 18C MAX 30C",
-          "VENT 19 KM/H"
+          "24C COUVERT",
+          "MIN 18C MAX 29C",
+          "VENT 15 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 30/09 A 19H48",
+          "LE 02/10 A 19H51",
           "",
-          "ONO>SE  MAG -1.3",
+          "ONO>S  MAG 0.1",
           "",
-          "DUREE 10 MIN",
+          "DUREE 9 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 30/09 A 19H48",
-          "ONO>SE MAG -1.3",
-          "DUREE 10 MIN"
+          "LE 02/10 A 19H51",
+          "ONO>S MAG 0.1",
+          "DUREE 9 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "30C COUVERT",
-          "MIN 18C MAX 30C",
-          "VENT 19 KM/H",
+          "24C COUVERT",
+          "MIN 18C MAX 29C",
+          "VENT 15 KM/H",
           "PROCHAINE ISS",
-          "LE 30/09 A 19H48",
-          "ONO>SE MAG -1.3",
-          "DUREE 10 MIN"
+          "LE 02/10 A 19H51",
+          "ONO>S MAG 0.1",
+          "DUREE 9 MIN"
         ],
         "short": [
-          "30C COUVERT",
-          "VENT 19 KM/H",
-          "LE 30/09 A 19H48",
-          "ONO>SE MAG -1.3"
+          "24C COUVERT",
+          "VENT 15 KM/H",
+          "LE 02/10 A 19H51",
+          "ONO>S MAG 0.1"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "30C",
+          "24C",
           "COUVERT",
           "",
-          "18C > 30C",
-          "VT 19KMH"
+          "18C > 29C",
+          "VT 15KMH"
         ],
         "short": [
           "ALBI",
-          "30C",
+          "24C",
           "COUVERT",
-          "18C>30C"
+          "18C>29C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "30/09",
-          "19H48",
+          "02/10",
+          "19H51",
           "",
-          "ONO>SE",
-          "MAG -1.3",
-          "10 MIN"
+          "ONO>S",
+          "MAG 0.1",
+          "9 MIN"
         ],
         "short": [
-          "ISS 19H48",
-          "30/09",
-          "ONO>SE",
-          "10MIN M-1.3"
+          "ISS 19H51",
+          "02/10",
+          "ONO>S",
+          "9MIN M0.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "30C",
+          "24C",
           "COUVERT",
-          "18C>30C",
-          "ISS 19H48",
-          "30/09",
-          "ONO>SE",
-          "10MIN M-1.3"
+          "18C>29C",
+          "ISS 19H51",
+          "02/10",
+          "ONO>S",
+          "9MIN M0.1"
         ],
         "short": [
-          "30C",
+          "24C",
           "COUVERT",
-          "ISS 19H48",
-          "30/09"
+          "ISS 19H51",
+          "02/10"
         ]
       }
     }
