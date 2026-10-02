@@ -1,75 +1,69 @@
 {
-  "updated_at": "02/10 17:53",
+  "updated_at": "02/10 22:11",
   "city": "ALBI",
   "weather": {
-    "temp": 27,
-    "wind": 3,
+    "temp": 21,
+    "wind": 5,
     "tmin": 13,
     "tmax": 27,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
-  "iss": {
-    "date": "02/10",
-    "time": "19H51",
-    "dir": "ONO>S",
-    "mag": 0.1,
-    "duration_min": 9
-  },
+  "iss": null,
   "lines": {
     "wide": {
       "meteo": {
         "full": [
           "METEO ALBI",
           "",
-          "27C  COUVERT",
+          "21C  COUVERT",
           "",
           "MIN 13C  MAX 27C",
           "",
-          "VENT 3 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "27C COUVERT",
+          "21C COUVERT",
           "MIN 13C MAX 27C",
-          "VENT 3 KM/H"
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
         "full": [
-          "PROCHAINE ISS",
+          "ISS",
           "",
-          "LE 02/10 A 19H51",
+          "PAS DE PASSAGE",
+          "VISIBLE PREVU",
           "",
-          "ONO>S  MAG 0.1",
           "",
-          "DUREE 9 MIN",
+          "",
           ""
         ],
         "short": [
-          "PROCHAINE ISS",
-          "LE 02/10 A 19H51",
-          "ONO>S MAG 0.1",
-          "DUREE 9 MIN"
+          "ISS",
+          "",
+          "PAS DE PASSAGE",
+          "VISIBLE PREVU"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "27C COUVERT",
+          "21C COUVERT",
           "MIN 13C MAX 27C",
-          "VENT 3 KM/H",
-          "PROCHAINE ISS",
-          "LE 02/10 A 19H51",
-          "ONO>S MAG 0.1",
-          "DUREE 9 MIN"
+          "VENT 5 KM/H",
+          "ISS",
+          "",
+          "PAS DE PASSAGE",
+          "VISIBLE PREVU"
         ],
         "short": [
-          "27C COUVERT",
-          "VENT 3 KM/H",
-          "LE 02/10 A 19H51",
-          "ONO>S MAG 0.1"
+          "21C COUVERT",
+          "VENT 5 KM/H",
+          "",
+          "PAS DE PASSAGE"
         ]
       }
     },
@@ -79,15 +73,15 @@
           "METEO",
           "ALBI",
           "",
-          "27C",
+          "21C",
           "COUVERT",
           "",
           "13C > 27C",
-          "VT 3KMH"
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
-          "27C",
+          "21C",
           "COUVERT",
           "13C>27C"
         ]
@@ -96,36 +90,36 @@
         "full": [
           "ISS",
           "",
-          "02/10",
-          "19H51",
+          "PAS DE",
+          "PASSAGE",
+          "PREVU",
           "",
-          "ONO>S",
-          "MAG 0.1",
-          "9 MIN"
+          "",
+          ""
         ],
         "short": [
-          "ISS 19H51",
-          "02/10",
-          "ONO>S",
-          "9MIN M0.1"
+          "ISS",
+          "PAS DE",
+          "PASSAGE",
+          "PREVU"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "27C",
+          "21C",
           "COUVERT",
           "13C>27C",
-          "ISS 19H51",
-          "02/10",
-          "ONO>S",
-          "9MIN M0.1"
+          "ISS",
+          "PAS DE",
+          "PASSAGE",
+          "PREVU"
         ],
         "short": [
-          "27C",
+          "21C",
           "COUVERT",
-          "ISS 19H51",
-          "02/10"
+          "ISS",
+          "PAS DE"
         ]
       }
     }
