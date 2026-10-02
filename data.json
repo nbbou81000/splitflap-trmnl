@@ -1,11 +1,11 @@
 {
-  "updated_at": "02/10 22:11",
+  "updated_at": "03/10 01:52",
   "city": "ALBI",
   "weather": {
-    "temp": 21,
-    "wind": 5,
-    "tmin": 13,
-    "tmax": 27,
+    "temp": 19,
+    "wind": 4,
+    "tmin": 18,
+    "tmax": 26,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  COUVERT",
+          "19C  COUVERT",
           "",
-          "MIN 13C  MAX 27C",
+          "MIN 18C  MAX 26C",
           "",
-          "VENT 5 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C COUVERT",
-          "MIN 13C MAX 27C",
-          "VENT 5 KM/H"
+          "19C COUVERT",
+          "MIN 18C MAX 26C",
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "21C COUVERT",
-          "MIN 13C MAX 27C",
-          "VENT 5 KM/H",
+          "19C COUVERT",
+          "MIN 18C MAX 26C",
+          "VENT 4 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "21C COUVERT",
-          "VENT 5 KM/H",
+          "19C COUVERT",
+          "VENT 4 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "21C",
+          "19C",
           "COUVERT",
           "",
-          "13C > 27C",
-          "VT 5KMH"
+          "18C > 26C",
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "21C",
+          "19C",
           "COUVERT",
-          "13C>27C"
+          "18C>26C"
         ]
       },
       "iss": {
@@ -107,16 +107,16 @@
       "both": {
         "full": [
           "ALBI",
-          "21C",
+          "19C",
           "COUVERT",
-          "13C>27C",
+          "18C>26C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "21C",
+          "19C",
           "COUVERT",
           "ISS",
           "PAS DE"
