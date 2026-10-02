@@ -1,13 +1,13 @@
 {
-  "updated_at": "02/10 04:43",
+  "updated_at": "02/10 11:04",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 3,
-    "tmin": 14,
+    "temp": 19,
+    "wind": 2,
+    "tmin": 13,
     "tmax": 27,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "02/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  BROUILLARD",
+          "19C  COUVERT",
           "",
-          "MIN 14C  MAX 27C",
+          "MIN 13C  MAX 27C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C BROUILLARD",
-          "MIN 14C MAX 27C",
-          "VENT 3 KM/H"
+          "19C COUVERT",
+          "MIN 13C MAX 27C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C BROUILLARD",
-          "MIN 14C MAX 27C",
-          "VENT 3 KM/H",
+          "19C COUVERT",
+          "MIN 13C MAX 27C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 02/10 A 19H51",
           "ONO>S MAG 0.1",
           "DUREE 9 MIN"
         ],
         "short": [
-          "15C BROUILLARD",
-          "VENT 3 KM/H",
+          "19C COUVERT",
+          "VENT 2 KM/H",
           "LE 02/10 A 19H51",
           "ONO>S MAG 0.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "BROUILLARD",
+          "19C",
+          "COUVERT",
           "",
-          "14C > 27C",
-          "VT 3KMH"
+          "13C > 27C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "BROUILLARD",
-          "14C>27C"
+          "19C",
+          "COUVERT",
+          "13C>27C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "BROUILLARD",
-          "14C>27C",
+          "19C",
+          "COUVERT",
+          "13C>27C",
           "ISS 19H51",
           "02/10",
           "ONO>S",
           "9MIN M0.1"
         ],
         "short": [
-          "15C",
-          "BROUILLARD",
+          "19C",
+          "COUVERT",
           "ISS 19H51",
           "02/10"
         ]
