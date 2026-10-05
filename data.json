@@ -1,13 +1,13 @@
 {
-  "updated_at": "04/10 23:40",
+  "updated_at": "05/10 02:15",
   "city": "ALBI",
   "weather": {
     "temp": 18,
-    "wind": 3,
-    "tmin": 18,
-    "tmax": 23,
-    "label": "PLUIE",
-    "label_short": "PLUIE"
+    "wind": 6,
+    "tmin": 16,
+    "tmax": 25,
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": null,
   "lines": {
@@ -16,18 +16,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "18C  PLUIE",
+          "18C  COUVERT",
           "",
-          "MIN 18C  MAX 23C",
+          "MIN 16C  MAX 25C",
           "",
-          "VENT 3 KM/H",
+          "VENT 6 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "18C PLUIE",
-          "MIN 18C MAX 23C",
-          "VENT 3 KM/H"
+          "18C COUVERT",
+          "MIN 16C MAX 25C",
+          "VENT 6 KM/H"
         ]
       },
       "iss": {
@@ -51,17 +51,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "18C PLUIE",
-          "MIN 18C MAX 23C",
-          "VENT 3 KM/H",
+          "18C COUVERT",
+          "MIN 16C MAX 25C",
+          "VENT 6 KM/H",
           "ISS",
           "",
           "PAS DE PASSAGE",
           "VISIBLE PREVU"
         ],
         "short": [
-          "18C PLUIE",
-          "VENT 3 KM/H",
+          "18C COUVERT",
+          "VENT 6 KM/H",
           "",
           "PAS DE PASSAGE"
         ]
@@ -74,16 +74,16 @@
           "ALBI",
           "",
           "18C",
-          "PLUIE",
+          "COUVERT",
           "",
-          "18C > 23C",
-          "VT 3KMH"
+          "16C > 25C",
+          "VT 6KMH"
         ],
         "short": [
           "ALBI",
           "18C",
-          "PLUIE",
-          "18C>23C"
+          "COUVERT",
+          "16C>25C"
         ]
       },
       "iss": {
@@ -108,8 +108,8 @@
         "full": [
           "ALBI",
           "18C",
-          "PLUIE",
-          "18C>23C",
+          "COUVERT",
+          "16C>25C",
           "ISS",
           "PAS DE",
           "PASSAGE",
@@ -117,7 +117,7 @@
         ],
         "short": [
           "18C",
-          "PLUIE",
+          "COUVERT",
           "ISS",
           "PAS DE"
         ]
