@@ -1,13 +1,13 @@
 {
-  "updated_at": "05/10 23:15",
+  "updated_at": "06/10 03:47",
   "city": "ALBI",
   "weather": {
-    "temp": 17,
+    "temp": 19,
     "wind": 4,
     "tmin": 17,
-    "tmax": 26,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "tmax": 27,
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": null,
   "lines": {
@@ -16,17 +16,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  SOLEIL",
+          "19C  AVERSES",
           "",
-          "MIN 17C  MAX 26C",
+          "MIN 17C  MAX 27C",
           "",
           "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C SOLEIL",
-          "MIN 17C MAX 26C",
+          "19C AVERSES",
+          "MIN 17C MAX 27C",
           "VENT 4 KM/H"
         ]
       },
@@ -51,8 +51,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "17C SOLEIL",
-          "MIN 17C MAX 26C",
+          "19C AVERSES",
+          "MIN 17C MAX 27C",
           "VENT 4 KM/H",
           "ISS",
           "",
@@ -60,7 +60,7 @@
           "VISIBLE PREVU"
         ],
         "short": [
-          "17C SOLEIL",
+          "19C AVERSES",
           "VENT 4 KM/H",
           "",
           "PAS DE PASSAGE"
@@ -73,17 +73,17 @@
           "METEO",
           "ALBI",
           "",
-          "17C",
-          "SOLEIL",
+          "19C",
+          "AVERSES",
           "",
-          "17C > 26C",
+          "17C > 27C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "17C",
-          "SOLEIL",
-          "17C>26C"
+          "19C",
+          "AVERSES",
+          "17C>27C"
         ]
       },
       "iss": {
@@ -107,17 +107,17 @@
       "both": {
         "full": [
           "ALBI",
-          "17C",
-          "SOLEIL",
-          "17C>26C",
+          "19C",
+          "AVERSES",
+          "17C>27C",
           "ISS",
           "PAS DE",
           "PASSAGE",
           "PREVU"
         ],
         "short": [
-          "17C",
-          "SOLEIL",
+          "19C",
+          "AVERSES",
           "ISS",
           "PAS DE"
         ]
