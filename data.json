@@ -1,13 +1,13 @@
 {
-  "updated_at": "08/10 16:59",
+  "updated_at": "08/10 22:29",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 19,
-    "tmin": 12,
+    "temp": 12,
+    "wind": 13,
+    "tmin": 11,
     "tmax": 17,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "11/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  AVERSES",
+          "12C  PEU NUAGEUX",
           "",
-          "MIN 12C  MAX 17C",
+          "MIN 11C  MAX 17C",
           "",
-          "VENT 19 KM/H",
+          "VENT 13 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C AVERSES",
-          "MIN 12C MAX 17C",
-          "VENT 19 KM/H"
+          "12C PEU NUAGEUX",
+          "MIN 11C MAX 17C",
+          "VENT 13 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C AVERSES",
-          "MIN 12C MAX 17C",
-          "VENT 19 KM/H",
+          "12C PEU NUAGEUX",
+          "MIN 11C MAX 17C",
+          "VENT 13 KM/H",
           "PROCHAINE ISS",
           "LE 11/10 A 07H54",
           "S>ENE MAG 0",
           "DUREE 9 MIN"
         ],
         "short": [
-          "15C AVERSES",
-          "VENT 19 KM/H",
+          "12C PEU NUAGEUX",
+          "VENT 13 KM/H",
           "LE 11/10 A 07H54",
           "S>ENE MAG 0"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "AVERSES",
+          "12C",
+          "NUAGEUX",
           "",
-          "12C > 17C",
-          "VT 19KMH"
+          "11C > 17C",
+          "VT 13KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "AVERSES",
-          "12C>17C"
+          "12C",
+          "NUAGEUX",
+          "11C>17C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "AVERSES",
-          "12C>17C",
+          "12C",
+          "NUAGEUX",
+          "11C>17C",
           "ISS 07H54",
           "11/10",
           "S>ENE",
           "9MIN M0"
         ],
         "short": [
-          "15C",
-          "AVERSES",
+          "12C",
+          "NUAGEUX",
           "ISS 07H54",
           "11/10"
         ]
