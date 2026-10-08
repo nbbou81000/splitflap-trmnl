@@ -1,13 +1,13 @@
 {
-  "updated_at": "07/10 23:39",
+  "updated_at": "08/10 03:22",
   "city": "ALBI",
   "weather": {
-    "temp": 17,
-    "wind": 11,
-    "tmin": 17,
-    "tmax": 20,
-    "label": "PLUIE",
-    "label_short": "PLUIE"
+    "temp": 16,
+    "wind": 17,
+    "tmin": 12,
+    "tmax": 17,
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "11/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  PLUIE",
+          "16C  AVERSES",
           "",
-          "MIN 17C  MAX 20C",
+          "MIN 12C  MAX 17C",
           "",
-          "VENT 11 KM/H",
+          "VENT 17 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C PLUIE",
-          "MIN 17C MAX 20C",
-          "VENT 11 KM/H"
+          "16C AVERSES",
+          "MIN 12C MAX 17C",
+          "VENT 17 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "17C PLUIE",
-          "MIN 17C MAX 20C",
-          "VENT 11 KM/H",
+          "16C AVERSES",
+          "MIN 12C MAX 17C",
+          "VENT 17 KM/H",
           "PROCHAINE ISS",
           "LE 11/10 A 07H54",
           "S>ENE MAG 0",
           "DUREE 9 MIN"
         ],
         "short": [
-          "17C PLUIE",
-          "VENT 11 KM/H",
+          "16C AVERSES",
+          "VENT 17 KM/H",
           "LE 11/10 A 07H54",
           "S>ENE MAG 0"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "17C",
-          "PLUIE",
+          "16C",
+          "AVERSES",
           "",
-          "17C > 20C",
-          "VT 11KMH"
+          "12C > 17C",
+          "VT 17KMH"
         ],
         "short": [
           "ALBI",
-          "17C",
-          "PLUIE",
-          "17C>20C"
+          "16C",
+          "AVERSES",
+          "12C>17C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "17C",
-          "PLUIE",
-          "17C>20C",
+          "16C",
+          "AVERSES",
+          "12C>17C",
           "ISS 07H54",
           "11/10",
           "S>ENE",
           "9MIN M0"
         ],
         "short": [
-          "17C",
-          "PLUIE",
+          "16C",
+          "AVERSES",
           "ISS 07H54",
           "11/10"
         ]
