@@ -1,13 +1,13 @@
 {
-  "updated_at": "09/10 08:51",
+  "updated_at": "09/10 15:54",
   "city": "ALBI",
   "weather": {
-    "temp": 8,
-    "wind": 1,
+    "temp": 17,
+    "wind": 17,
     "tmin": 8,
-    "tmax": 16,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "tmax": 17,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "11/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "8C  SOLEIL",
+          "17C  PEU NUAGEUX",
           "",
-          "MIN 8C  MAX 16C",
+          "MIN 8C  MAX 17C",
           "",
-          "VENT 1 KM/H",
+          "VENT 17 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "8C SOLEIL",
-          "MIN 8C MAX 16C",
-          "VENT 1 KM/H"
+          "17C PEU NUAGEUX",
+          "MIN 8C MAX 17C",
+          "VENT 17 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "8C SOLEIL",
-          "MIN 8C MAX 16C",
-          "VENT 1 KM/H",
+          "17C PEU NUAGEUX",
+          "MIN 8C MAX 17C",
+          "VENT 17 KM/H",
           "PROCHAINE ISS",
           "LE 11/10 A 07H54",
           "S>ENE MAG 0",
           "DUREE 9 MIN"
         ],
         "short": [
-          "8C SOLEIL",
-          "VENT 1 KM/H",
+          "17C PEU NUAGEUX",
+          "VENT 17 KM/H",
           "LE 11/10 A 07H54",
           "S>ENE MAG 0"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "8C",
-          "SOLEIL",
+          "17C",
+          "NUAGEUX",
           "",
-          "8C > 16C",
-          "VT 1KMH"
+          "8C > 17C",
+          "VT 17KMH"
         ],
         "short": [
           "ALBI",
-          "8C",
-          "SOLEIL",
-          "8C>16C"
+          "17C",
+          "NUAGEUX",
+          "8C>17C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "8C",
-          "SOLEIL",
-          "8C>16C",
+          "17C",
+          "NUAGEUX",
+          "8C>17C",
           "ISS 07H54",
           "11/10",
           "S>ENE",
           "9MIN M0"
         ],
         "short": [
-          "8C",
-          "SOLEIL",
+          "17C",
+          "NUAGEUX",
           "ISS 07H54",
           "11/10"
         ]
