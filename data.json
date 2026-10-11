@@ -1,20 +1,20 @@
 {
-  "updated_at": "11/10 03:04",
+  "updated_at": "11/10 09:22",
   "city": "ALBI",
   "weather": {
-    "temp": 14,
-    "wind": 5,
-    "tmin": 11,
+    "temp": 10,
+    "wind": 2,
+    "tmin": 10,
     "tmax": 18,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
-    "date": "11/10",
-    "time": "07H54",
-    "dir": "S>ENE",
-    "mag": 0,
-    "duration_min": 9
+    "date": "13/10",
+    "time": "07H56",
+    "dir": "SO>ENE",
+    "mag": -1.4,
+    "duration_min": 11
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "14C  COUVERT",
+          "10C  BROUILLARD",
           "",
-          "MIN 11C  MAX 18C",
+          "MIN 10C  MAX 18C",
           "",
-          "VENT 5 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "14C COUVERT",
-          "MIN 11C MAX 18C",
-          "VENT 5 KM/H"
+          "10C BROUILLARD",
+          "MIN 10C MAX 18C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 11/10 A 07H54",
+          "LE 13/10 A 07H56",
           "",
-          "S>ENE  MAG 0",
+          "SO>ENE  MAG -1.4",
           "",
-          "DUREE 9 MIN",
+          "DUREE 11 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 11/10 A 07H54",
-          "S>ENE MAG 0",
-          "DUREE 9 MIN"
+          "LE 13/10 A 07H56",
+          "SO>ENE MAG -1.4",
+          "DUREE 11 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "14C COUVERT",
-          "MIN 11C MAX 18C",
-          "VENT 5 KM/H",
+          "10C BROUILLARD",
+          "MIN 10C MAX 18C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
-          "LE 11/10 A 07H54",
-          "S>ENE MAG 0",
-          "DUREE 9 MIN"
+          "LE 13/10 A 07H56",
+          "SO>ENE MAG -1.4",
+          "DUREE 11 MIN"
         ],
         "short": [
-          "14C COUVERT",
-          "VENT 5 KM/H",
-          "LE 11/10 A 07H54",
-          "S>ENE MAG 0"
+          "10C BROUILLARD",
+          "VENT 2 KM/H",
+          "LE 13/10 A 07H56",
+          "SO>ENE MAG -1.4"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "14C",
-          "COUVERT",
+          "10C",
+          "BROUILLARD",
           "",
-          "11C > 18C",
-          "VT 5KMH"
+          "10C > 18C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "14C",
-          "COUVERT",
-          "11C>18C"
+          "10C",
+          "BROUILLARD",
+          "10C>18C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "11/10",
-          "07H54",
+          "13/10",
+          "07H56",
           "",
-          "S>ENE",
-          "MAG 0",
-          "9 MIN"
+          "SO>ENE",
+          "MAG -1.4",
+          "11 MIN"
         ],
         "short": [
-          "ISS 07H54",
-          "11/10",
-          "S>ENE",
-          "9MIN M0"
+          "ISS 07H56",
+          "13/10",
+          "SO>ENE",
+          "11MIN M-1.4"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "14C",
-          "COUVERT",
-          "11C>18C",
-          "ISS 07H54",
-          "11/10",
-          "S>ENE",
-          "9MIN M0"
+          "10C",
+          "BROUILLARD",
+          "10C>18C",
+          "ISS 07H56",
+          "13/10",
+          "SO>ENE",
+          "11MIN M-1.4"
         ],
         "short": [
-          "14C",
-          "COUVERT",
-          "ISS 07H54",
-          "11/10"
+          "10C",
+          "BROUILLARD",
+          "ISS 07H56",
+          "13/10"
         ]
       }
     }
