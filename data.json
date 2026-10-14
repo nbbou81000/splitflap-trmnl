@@ -1,20 +1,20 @@
 {
-  "updated_at": "14/10 07:05",
+  "updated_at": "14/10 12:21",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 3,
+    "temp": 20,
+    "wind": 1,
     "tmin": 15,
     "tmax": 25,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "14/10",
-    "time": "07H09",
-    "dir": "SSO>ENE",
-    "mag": -0.7,
-    "duration_min": 10
+    "date": "15/10",
+    "time": "06H22",
+    "dir": "S>ENE",
+    "mag": 0,
+    "duration_min": 8
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  BROUILLARD",
+          "20C  PEU NUAGEUX",
           "",
           "MIN 15C  MAX 25C",
           "",
-          "VENT 3 KM/H",
+          "VENT 1 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C BROUILLARD",
+          "20C PEU NUAGEUX",
           "MIN 15C MAX 25C",
-          "VENT 3 KM/H"
+          "VENT 1 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 14/10 A 07H09",
+          "LE 15/10 A 06H22",
           "",
-          "SSO>ENE  MAG -0.7",
+          "S>ENE  MAG 0",
           "",
-          "DUREE 10 MIN",
+          "DUREE 8 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 14/10 A 07H09",
-          "SSO>ENE MAG -0.7",
-          "DUREE 10 MIN"
+          "LE 15/10 A 06H22",
+          "S>ENE MAG 0",
+          "DUREE 8 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "15C BROUILLARD",
+          "20C PEU NUAGEUX",
           "MIN 15C MAX 25C",
-          "VENT 3 KM/H",
+          "VENT 1 KM/H",
           "PROCHAINE ISS",
-          "LE 14/10 A 07H09",
-          "SSO>ENE MAG -0.7",
-          "DUREE 10 MIN"
+          "LE 15/10 A 06H22",
+          "S>ENE MAG 0",
+          "DUREE 8 MIN"
         ],
         "short": [
-          "15C BROUILLARD",
-          "VENT 3 KM/H",
-          "LE 14/10 A 07H09",
-          "SSO>ENE MAG -0.7"
+          "20C PEU NUAGEUX",
+          "VENT 1 KM/H",
+          "LE 15/10 A 06H22",
+          "S>ENE MAG 0"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "BROUILLARD",
+          "20C",
+          "NUAGEUX",
           "",
           "15C > 25C",
-          "VT 3KMH"
+          "VT 1KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "BROUILLARD",
+          "20C",
+          "NUAGEUX",
           "15C>25C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "14/10",
-          "07H09",
+          "15/10",
+          "06H22",
           "",
-          "SSO>ENE",
-          "MAG -0.7",
-          "10 MIN"
+          "S>ENE",
+          "MAG 0",
+          "8 MIN"
         ],
         "short": [
-          "ISS 07H09",
-          "14/10",
-          "SSO>ENE",
-          "10MIN M-0.7"
+          "ISS 06H22",
+          "15/10",
+          "S>ENE",
+          "8MIN M0"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "BROUILLARD",
+          "20C",
+          "NUAGEUX",
           "15C>25C",
-          "ISS 07H09",
-          "14/10",
-          "SSO>ENE",
-          "10MIN M-0.7"
+          "ISS 06H22",
+          "15/10",
+          "S>ENE",
+          "8MIN M0"
         ],
         "short": [
-          "15C",
-          "BROUILLARD",
-          "ISS 07H09",
-          "14/10"
+          "20C",
+          "NUAGEUX",
+          "ISS 06H22",
+          "15/10"
         ]
       }
     }
