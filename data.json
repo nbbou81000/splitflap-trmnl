@@ -1,20 +1,20 @@
 {
-  "updated_at": "15/10 00:44",
+  "updated_at": "15/10 07:58",
   "city": "ALBI",
   "weather": {
     "temp": 17,
-    "wind": 4,
-    "tmin": 14,
+    "wind": 5,
+    "tmin": 15,
     "tmax": 27,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
   "iss": {
     "date": "15/10",
-    "time": "06H22",
-    "dir": "S>ENE",
-    "mag": 0,
-    "duration_min": 8
+    "time": "07H59",
+    "dir": "OSO>NE",
+    "mag": -2.3,
+    "duration_min": 10
   },
   "lines": {
     "wide": {
@@ -24,52 +24,52 @@
           "",
           "17C  COUVERT",
           "",
-          "MIN 14C  MAX 27C",
+          "MIN 15C  MAX 27C",
           "",
-          "VENT 4 KM/H",
+          "VENT 5 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
           "17C COUVERT",
-          "MIN 14C MAX 27C",
-          "VENT 4 KM/H"
+          "MIN 15C MAX 27C",
+          "VENT 5 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 15/10 A 06H22",
+          "LE 15/10 A 07H59",
           "",
-          "S>ENE  MAG 0",
+          "OSO>NE  MAG -2.3",
           "",
-          "DUREE 8 MIN",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 15/10 A 06H22",
-          "S>ENE MAG 0",
-          "DUREE 8 MIN"
+          "LE 15/10 A 07H59",
+          "OSO>NE MAG -2.3",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
           "17C COUVERT",
-          "MIN 14C MAX 27C",
-          "VENT 4 KM/H",
+          "MIN 15C MAX 27C",
+          "VENT 5 KM/H",
           "PROCHAINE ISS",
-          "LE 15/10 A 06H22",
-          "S>ENE MAG 0",
-          "DUREE 8 MIN"
+          "LE 15/10 A 07H59",
+          "OSO>NE MAG -2.3",
+          "DUREE 10 MIN"
         ],
         "short": [
           "17C COUVERT",
-          "VENT 4 KM/H",
-          "LE 15/10 A 06H22",
-          "S>ENE MAG 0"
+          "VENT 5 KM/H",
+          "LE 15/10 A 07H59",
+          "OSO>NE MAG -2.3"
         ]
       }
     },
@@ -82,14 +82,14 @@
           "17C",
           "COUVERT",
           "",
-          "14C > 27C",
-          "VT 4KMH"
+          "15C > 27C",
+          "VT 5KMH"
         ],
         "short": [
           "ALBI",
           "17C",
           "COUVERT",
-          "14C>27C"
+          "15C>27C"
         ]
       },
       "iss": {
@@ -97,17 +97,17 @@
           "ISS",
           "",
           "15/10",
-          "06H22",
+          "07H59",
           "",
-          "S>ENE",
-          "MAG 0",
-          "8 MIN"
+          "OSO>NE",
+          "MAG -2.3",
+          "10 MIN"
         ],
         "short": [
-          "ISS 06H22",
+          "ISS 07H59",
           "15/10",
-          "S>ENE",
-          "8MIN M0"
+          "OSO>NE",
+          "10MIN M-2.3"
         ]
       },
       "both": {
@@ -115,16 +115,16 @@
           "ALBI",
           "17C",
           "COUVERT",
-          "14C>27C",
-          "ISS 06H22",
+          "15C>27C",
+          "ISS 07H59",
           "15/10",
-          "S>ENE",
-          "8MIN M0"
+          "OSO>NE",
+          "10MIN M-2.3"
         ],
         "short": [
           "17C",
           "COUVERT",
-          "ISS 06H22",
+          "ISS 07H59",
           "15/10"
         ]
       }
