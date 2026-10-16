@@ -1,13 +1,13 @@
 {
-  "updated_at": "16/10 11:57",
+  "updated_at": "16/10 16:26",
   "city": "ALBI",
   "weather": {
-    "temp": 19,
-    "wind": 2,
+    "temp": 22,
+    "wind": 13,
     "tmin": 13,
-    "tmax": 24,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "tmax": 23,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "17/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "19C  SOLEIL",
+          "22C  PEU NUAGEUX",
           "",
-          "MIN 13C  MAX 24C",
+          "MIN 13C  MAX 23C",
           "",
-          "VENT 2 KM/H",
+          "VENT 13 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "19C SOLEIL",
-          "MIN 13C MAX 24C",
-          "VENT 2 KM/H"
+          "22C PEU NUAGEUX",
+          "MIN 13C MAX 23C",
+          "VENT 13 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "19C SOLEIL",
-          "MIN 13C MAX 24C",
-          "VENT 2 KM/H",
+          "22C PEU NUAGEUX",
+          "MIN 13C MAX 23C",
+          "VENT 13 KM/H",
           "PROCHAINE ISS",
           "LE 17/10 A 06H23",
           "SO>ENE MAG -1.4",
           "DUREE 7 MIN"
         ],
         "short": [
-          "19C SOLEIL",
-          "VENT 2 KM/H",
+          "22C PEU NUAGEUX",
+          "VENT 13 KM/H",
           "LE 17/10 A 06H23",
           "SO>ENE MAG -1.4"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "19C",
-          "SOLEIL",
+          "22C",
+          "NUAGEUX",
           "",
-          "13C > 24C",
-          "VT 2KMH"
+          "13C > 23C",
+          "VT 13KMH"
         ],
         "short": [
           "ALBI",
-          "19C",
-          "SOLEIL",
-          "13C>24C"
+          "22C",
+          "NUAGEUX",
+          "13C>23C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "19C",
-          "SOLEIL",
-          "13C>24C",
+          "22C",
+          "NUAGEUX",
+          "13C>23C",
           "ISS 06H23",
           "17/10",
           "SO>ENE",
           "7MIN M-1.4"
         ],
         "short": [
-          "19C",
-          "SOLEIL",
+          "22C",
+          "NUAGEUX",
           "ISS 06H23",
           "17/10"
         ]
