@@ -1,8 +1,8 @@
 {
-  "updated_at": "17/10 01:42",
+  "updated_at": "17/10 08:17",
   "city": "ALBI",
   "weather": {
-    "temp": 16,
+    "temp": 15,
     "wind": 4,
     "tmin": 14,
     "tmax": 20,
@@ -10,11 +10,11 @@
     "label_short": "COUVERT"
   },
   "iss": {
-    "date": "17/10",
-    "time": "06H23",
-    "dir": "SO>ENE",
-    "mag": -1.4,
-    "duration_min": 7
+    "date": "18/10",
+    "time": "05H36",
+    "dir": "SSO>ENE",
+    "mag": -0.5,
+    "duration_min": 4
   },
   "lines": {
     "wide": {
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "16C  COUVERT",
+          "15C  COUVERT",
           "",
           "MIN 14C  MAX 20C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "16C COUVERT",
+          "15C COUVERT",
           "MIN 14C MAX 20C",
           "VENT 4 KM/H"
         ]
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 17/10 A 06H23",
+          "LE 18/10 A 05H36",
           "",
-          "SO>ENE  MAG -1.4",
+          "SSO>ENE  MAG -0.5",
           "",
-          "DUREE 7 MIN",
+          "DUREE 4 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 17/10 A 06H23",
-          "SO>ENE MAG -1.4",
-          "DUREE 7 MIN"
+          "LE 18/10 A 05H36",
+          "SSO>ENE MAG -0.5",
+          "DUREE 4 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "16C COUVERT",
+          "15C COUVERT",
           "MIN 14C MAX 20C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
-          "LE 17/10 A 06H23",
-          "SO>ENE MAG -1.4",
-          "DUREE 7 MIN"
+          "LE 18/10 A 05H36",
+          "SSO>ENE MAG -0.5",
+          "DUREE 4 MIN"
         ],
         "short": [
-          "16C COUVERT",
+          "15C COUVERT",
           "VENT 4 KM/H",
-          "LE 17/10 A 06H23",
-          "SO>ENE MAG -1.4"
+          "LE 18/10 A 05H36",
+          "SSO>ENE MAG -0.5"
         ]
       }
     },
@@ -79,7 +79,7 @@
           "METEO",
           "ALBI",
           "",
-          "16C",
+          "15C",
           "COUVERT",
           "",
           "14C > 20C",
@@ -87,7 +87,7 @@
         ],
         "short": [
           "ALBI",
-          "16C",
+          "15C",
           "COUVERT",
           "14C>20C"
         ]
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "17/10",
-          "06H23",
+          "18/10",
+          "05H36",
           "",
-          "SO>ENE",
-          "MAG -1.4",
-          "7 MIN"
+          "SSO>ENE",
+          "MAG -0.5",
+          "4 MIN"
         ],
         "short": [
-          "ISS 06H23",
-          "17/10",
-          "SO>ENE",
-          "7MIN M-1.4"
+          "ISS 05H36",
+          "18/10",
+          "SSO>ENE",
+          "4MIN M-0.5"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "16C",
+          "15C",
           "COUVERT",
           "14C>20C",
-          "ISS 06H23",
-          "17/10",
-          "SO>ENE",
-          "7MIN M-1.4"
+          "ISS 05H36",
+          "18/10",
+          "SSO>ENE",
+          "4MIN M-0.5"
         ],
         "short": [
-          "16C",
+          "15C",
           "COUVERT",
-          "ISS 06H23",
-          "17/10"
+          "ISS 05H36",
+          "18/10"
         ]
       }
     }
