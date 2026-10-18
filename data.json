@@ -1,13 +1,13 @@
 {
-  "updated_at": "18/10 21:44",
+  "updated_at": "18/10 23:57",
   "city": "ALBI",
   "weather": {
-    "temp": 12,
+    "temp": 10,
     "wind": 4,
     "tmin": 9,
     "tmax": 15,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "19/10",
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "12C  COUVERT",
+          "10C  PEU NUAGEUX",
           "",
           "MIN 9C  MAX 15C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "12C COUVERT",
+          "10C PEU NUAGEUX",
           "MIN 9C MAX 15C",
           "VENT 4 KM/H"
         ]
@@ -57,7 +57,7 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "12C COUVERT",
+          "10C PEU NUAGEUX",
           "MIN 9C MAX 15C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
@@ -66,7 +66,7 @@
           "DUREE 2 MIN"
         ],
         "short": [
-          "12C COUVERT",
+          "10C PEU NUAGEUX",
           "VENT 4 KM/H",
           "LE 19/10 A 04H49",
           "S>ENE MAG 0.8"
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "12C",
-          "COUVERT",
+          "10C",
+          "NUAGEUX",
           "",
           "9C > 15C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "12C",
-          "COUVERT",
+          "10C",
+          "NUAGEUX",
           "9C>15C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "12C",
-          "COUVERT",
+          "10C",
+          "NUAGEUX",
           "9C>15C",
           "ISS 04H49",
           "19/10",
@@ -122,8 +122,8 @@
           "2MIN M0.8"
         ],
         "short": [
-          "12C",
-          "COUVERT",
+          "10C",
+          "NUAGEUX",
           "ISS 04H49",
           "19/10"
         ]
