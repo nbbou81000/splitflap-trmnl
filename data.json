@@ -1,11 +1,11 @@
 {
-  "updated_at": "18/10 08:41",
+  "updated_at": "18/10 13:48",
   "city": "ALBI",
   "weather": {
-    "temp": 10,
-    "wind": 7,
-    "tmin": 10,
-    "tmax": 15,
+    "temp": 14,
+    "wind": 15,
+    "tmin": 9,
+    "tmax": 16,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "10C  COUVERT",
+          "14C  COUVERT",
           "",
-          "MIN 10C  MAX 15C",
+          "MIN 9C  MAX 16C",
           "",
-          "VENT 7 KM/H",
+          "VENT 15 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "10C COUVERT",
-          "MIN 10C MAX 15C",
-          "VENT 7 KM/H"
+          "14C COUVERT",
+          "MIN 9C MAX 16C",
+          "VENT 15 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "10C COUVERT",
-          "MIN 10C MAX 15C",
-          "VENT 7 KM/H",
+          "14C COUVERT",
+          "MIN 9C MAX 16C",
+          "VENT 15 KM/H",
           "PROCHAINE ISS",
           "LE 19/10 A 04H49",
           "S>ENE MAG 0.8",
           "DUREE 2 MIN"
         ],
         "short": [
-          "10C COUVERT",
-          "VENT 7 KM/H",
+          "14C COUVERT",
+          "VENT 15 KM/H",
           "LE 19/10 A 04H49",
           "S>ENE MAG 0.8"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "10C",
+          "14C",
           "COUVERT",
           "",
-          "10C > 15C",
-          "VT 7KMH"
+          "9C > 16C",
+          "VT 15KMH"
         ],
         "short": [
           "ALBI",
-          "10C",
+          "14C",
           "COUVERT",
-          "10C>15C"
+          "9C>16C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "10C",
+          "14C",
           "COUVERT",
-          "10C>15C",
+          "9C>16C",
           "ISS 04H49",
           "19/10",
           "S>ENE",
           "2MIN M0.8"
         ],
         "short": [
-          "10C",
+          "14C",
           "COUVERT",
           "ISS 04H49",
           "19/10"
