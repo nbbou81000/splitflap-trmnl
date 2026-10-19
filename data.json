@@ -1,13 +1,13 @@
 {
-  "updated_at": "19/10 09:21",
+  "updated_at": "19/10 16:47",
   "city": "ALBI",
   "weather": {
-    "temp": 10,
-    "wind": 3,
+    "temp": 12,
+    "wind": 7,
     "tmin": 7,
-    "tmax": 12,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 13,
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
     "date": "20/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "10C  COUVERT",
+          "12C  PLUIE",
           "",
-          "MIN 7C  MAX 12C",
+          "MIN 7C  MAX 13C",
           "",
-          "VENT 3 KM/H",
+          "VENT 7 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "10C COUVERT",
-          "MIN 7C MAX 12C",
-          "VENT 3 KM/H"
+          "12C PLUIE",
+          "MIN 7C MAX 13C",
+          "VENT 7 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "10C COUVERT",
-          "MIN 7C MAX 12C",
-          "VENT 3 KM/H",
+          "12C PLUIE",
+          "MIN 7C MAX 13C",
+          "VENT 7 KM/H",
           "PROCHAINE ISS",
           "LE 20/10 A 05H38",
           "SO>ENE MAG -0.7",
           "DUREE 4 MIN"
         ],
         "short": [
-          "10C COUVERT",
-          "VENT 3 KM/H",
+          "12C PLUIE",
+          "VENT 7 KM/H",
           "LE 20/10 A 05H38",
           "SO>ENE MAG -0.7"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "10C",
-          "COUVERT",
+          "12C",
+          "PLUIE",
           "",
-          "7C > 12C",
-          "VT 3KMH"
+          "7C > 13C",
+          "VT 7KMH"
         ],
         "short": [
           "ALBI",
-          "10C",
-          "COUVERT",
-          "7C>12C"
+          "12C",
+          "PLUIE",
+          "7C>13C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "10C",
-          "COUVERT",
-          "7C>12C",
+          "12C",
+          "PLUIE",
+          "7C>13C",
           "ISS 05H38",
           "20/10",
           "SO>ENE",
           "4MIN M-0.7"
         ],
         "short": [
-          "10C",
-          "COUVERT",
+          "12C",
+          "PLUIE",
           "ISS 05H38",
           "20/10"
         ]
