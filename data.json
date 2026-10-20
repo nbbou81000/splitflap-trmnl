@@ -1,13 +1,13 @@
 {
-  "updated_at": "20/10 20:02",
+  "updated_at": "20/10 23:44",
   "city": "ALBI",
   "weather": {
-    "temp": 10,
-    "wind": 7,
+    "temp": 9,
+    "wind": 2,
     "tmin": 9,
     "tmax": 12,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "21/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "10C  COUVERT",
+          "9C  PEU NUAGEUX",
           "",
           "MIN 9C  MAX 12C",
           "",
-          "VENT 7 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "10C COUVERT",
+          "9C PEU NUAGEUX",
           "MIN 9C MAX 12C",
-          "VENT 7 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "10C COUVERT",
+          "9C PEU NUAGEUX",
           "MIN 9C MAX 12C",
-          "VENT 7 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 21/10 A 04H51",
           "SO>ENE MAG 0.7",
           "DUREE 1 MIN"
         ],
         "short": [
-          "10C COUVERT",
-          "VENT 7 KM/H",
+          "9C PEU NUAGEUX",
+          "VENT 2 KM/H",
           "LE 21/10 A 04H51",
           "SO>ENE MAG 0.7"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "10C",
-          "COUVERT",
+          "9C",
+          "NUAGEUX",
           "",
           "9C > 12C",
-          "VT 7KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "10C",
-          "COUVERT",
+          "9C",
+          "NUAGEUX",
           "9C>12C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "10C",
-          "COUVERT",
+          "9C",
+          "NUAGEUX",
           "9C>12C",
           "ISS 04H51",
           "21/10",
@@ -122,8 +122,8 @@
           "1MIN M0.7"
         ],
         "short": [
-          "10C",
-          "COUVERT",
+          "9C",
+          "NUAGEUX",
           "ISS 04H51",
           "21/10"
         ]
