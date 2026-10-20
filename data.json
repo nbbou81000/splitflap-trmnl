@@ -1,5 +1,5 @@
 {
-  "updated_at": "20/10 04:17",
+  "updated_at": "20/10 09:46",
   "city": "ALBI",
   "weather": {
     "temp": 10,
@@ -10,11 +10,11 @@
     "label_short": "COUVERT"
   },
   "iss": {
-    "date": "20/10",
-    "time": "05H38",
+    "date": "21/10",
+    "time": "04H51",
     "dir": "SO>ENE",
-    "mag": -0.7,
-    "duration_min": 4
+    "mag": 0.7,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -40,18 +40,18 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 20/10 A 05H38",
+          "LE 21/10 A 04H51",
           "",
-          "SO>ENE  MAG -0.7",
+          "SO>ENE  MAG 0.7",
           "",
-          "DUREE 4 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 20/10 A 05H38",
-          "SO>ENE MAG -0.7",
-          "DUREE 4 MIN"
+          "LE 21/10 A 04H51",
+          "SO>ENE MAG 0.7",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
@@ -61,15 +61,15 @@
           "MIN 10C MAX 12C",
           "VENT 7 KM/H",
           "PROCHAINE ISS",
-          "LE 20/10 A 05H38",
-          "SO>ENE MAG -0.7",
-          "DUREE 4 MIN"
+          "LE 21/10 A 04H51",
+          "SO>ENE MAG 0.7",
+          "DUREE 1 MIN"
         ],
         "short": [
           "10C COUVERT",
           "VENT 7 KM/H",
-          "LE 20/10 A 05H38",
-          "SO>ENE MAG -0.7"
+          "LE 21/10 A 04H51",
+          "SO>ENE MAG 0.7"
         ]
       }
     },
@@ -96,18 +96,18 @@
         "full": [
           "ISS",
           "",
-          "20/10",
-          "05H38",
+          "21/10",
+          "04H51",
           "",
           "SO>ENE",
-          "MAG -0.7",
-          "4 MIN"
+          "MAG 0.7",
+          "1 MIN"
         ],
         "short": [
-          "ISS 05H38",
-          "20/10",
+          "ISS 04H51",
+          "21/10",
           "SO>ENE",
-          "4MIN M-0.7"
+          "1MIN M0.7"
         ]
       },
       "both": {
@@ -116,16 +116,16 @@
           "10C",
           "COUVERT",
           "10C>12C",
-          "ISS 05H38",
-          "20/10",
+          "ISS 04H51",
+          "21/10",
           "SO>ENE",
-          "4MIN M-0.7"
+          "1MIN M0.7"
         ],
         "short": [
           "10C",
           "COUVERT",
-          "ISS 05H38",
-          "20/10"
+          "ISS 04H51",
+          "21/10"
         ]
       }
     }
