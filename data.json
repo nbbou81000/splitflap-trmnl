@@ -1,11 +1,11 @@
 {
-  "updated_at": "21/10 12:20",
+  "updated_at": "21/10 17:24",
   "city": "ALBI",
   "weather": {
-    "temp": 11,
-    "wind": 9,
+    "temp": 14,
+    "wind": 12,
     "tmin": 6,
-    "tmax": 15,
+    "tmax": 14,
     "label": "PEU NUAGEUX",
     "label_short": "NUAGEUX"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "11C  PEU NUAGEUX",
+          "14C  PEU NUAGEUX",
           "",
-          "MIN 6C  MAX 15C",
+          "MIN 6C  MAX 14C",
           "",
-          "VENT 9 KM/H",
+          "VENT 12 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "11C PEU NUAGEUX",
-          "MIN 6C MAX 15C",
-          "VENT 9 KM/H"
+          "14C PEU NUAGEUX",
+          "MIN 6C MAX 14C",
+          "VENT 12 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "11C PEU NUAGEUX",
-          "MIN 6C MAX 15C",
-          "VENT 9 KM/H",
+          "14C PEU NUAGEUX",
+          "MIN 6C MAX 14C",
+          "VENT 12 KM/H",
           "PROCHAINE ISS",
           "LE 22/10 A 05H40",
           "OSO>NE MAG -0.5",
           "DUREE 3 MIN"
         ],
         "short": [
-          "11C PEU NUAGEUX",
-          "VENT 9 KM/H",
+          "14C PEU NUAGEUX",
+          "VENT 12 KM/H",
           "LE 22/10 A 05H40",
           "OSO>NE MAG -0.5"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "11C",
+          "14C",
           "NUAGEUX",
           "",
-          "6C > 15C",
-          "VT 9KMH"
+          "6C > 14C",
+          "VT 12KMH"
         ],
         "short": [
           "ALBI",
-          "11C",
+          "14C",
           "NUAGEUX",
-          "6C>15C"
+          "6C>14C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "11C",
+          "14C",
           "NUAGEUX",
-          "6C>15C",
+          "6C>14C",
           "ISS 05H40",
           "22/10",
           "OSO>NE",
           "3MIN M-0.5"
         ],
         "short": [
-          "11C",
+          "14C",
           "NUAGEUX",
           "ISS 05H40",
           "22/10"
