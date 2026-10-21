@@ -1,20 +1,20 @@
 {
-  "updated_at": "21/10 07:02",
+  "updated_at": "21/10 12:20",
   "city": "ALBI",
   "weather": {
-    "temp": 6,
-    "wind": 2,
+    "temp": 11,
+    "wind": 9,
     "tmin": 6,
-    "tmax": 16,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "tmax": 15,
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "21/10",
-    "time": "08H05",
-    "dir": "ONO>ENE",
+    "date": "22/10",
+    "time": "05H40",
+    "dir": "OSO>NE",
     "mag": -0.5,
-    "duration_min": 10
+    "duration_min": 3
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "6C  BROUILLARD",
+          "11C  PEU NUAGEUX",
           "",
-          "MIN 6C  MAX 16C",
+          "MIN 6C  MAX 15C",
           "",
-          "VENT 2 KM/H",
+          "VENT 9 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "6C BROUILLARD",
-          "MIN 6C MAX 16C",
-          "VENT 2 KM/H"
+          "11C PEU NUAGEUX",
+          "MIN 6C MAX 15C",
+          "VENT 9 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 21/10 A 08H05",
+          "LE 22/10 A 05H40",
           "",
-          "ONO>ENE  MAG -0.5",
+          "OSO>NE  MAG -0.5",
           "",
-          "DUREE 10 MIN",
+          "DUREE 3 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 21/10 A 08H05",
-          "ONO>ENE MAG -0.5",
-          "DUREE 10 MIN"
+          "LE 22/10 A 05H40",
+          "OSO>NE MAG -0.5",
+          "DUREE 3 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "6C BROUILLARD",
-          "MIN 6C MAX 16C",
-          "VENT 2 KM/H",
+          "11C PEU NUAGEUX",
+          "MIN 6C MAX 15C",
+          "VENT 9 KM/H",
           "PROCHAINE ISS",
-          "LE 21/10 A 08H05",
-          "ONO>ENE MAG -0.5",
-          "DUREE 10 MIN"
+          "LE 22/10 A 05H40",
+          "OSO>NE MAG -0.5",
+          "DUREE 3 MIN"
         ],
         "short": [
-          "6C BROUILLARD",
-          "VENT 2 KM/H",
-          "LE 21/10 A 08H05",
-          "ONO>ENE MAG -0.5"
+          "11C PEU NUAGEUX",
+          "VENT 9 KM/H",
+          "LE 22/10 A 05H40",
+          "OSO>NE MAG -0.5"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "6C",
-          "BROUILLARD",
+          "11C",
+          "NUAGEUX",
           "",
-          "6C > 16C",
-          "VT 2KMH"
+          "6C > 15C",
+          "VT 9KMH"
         ],
         "short": [
           "ALBI",
-          "6C",
-          "BROUILLARD",
-          "6C>16C"
+          "11C",
+          "NUAGEUX",
+          "6C>15C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "21/10",
-          "08H05",
+          "22/10",
+          "05H40",
           "",
-          "ONO>ENE",
+          "OSO>NE",
           "MAG -0.5",
-          "10 MIN"
+          "3 MIN"
         ],
         "short": [
-          "ISS 08H05",
-          "21/10",
-          "ONO>ENE",
-          "10MIN M-0.5"
+          "ISS 05H40",
+          "22/10",
+          "OSO>NE",
+          "3MIN M-0.5"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "6C",
-          "BROUILLARD",
-          "6C>16C",
-          "ISS 08H05",
-          "21/10",
-          "ONO>ENE",
-          "10MIN M-0.5"
+          "11C",
+          "NUAGEUX",
+          "6C>15C",
+          "ISS 05H40",
+          "22/10",
+          "OSO>NE",
+          "3MIN M-0.5"
         ],
         "short": [
-          "6C",
-          "BROUILLARD",
-          "ISS 08H05",
-          "21/10"
+          "11C",
+          "NUAGEUX",
+          "ISS 05H40",
+          "22/10"
         ]
       }
     }
