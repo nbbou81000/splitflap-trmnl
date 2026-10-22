@@ -1,13 +1,13 @@
 {
-  "updated_at": "22/10 14:08",
+  "updated_at": "22/10 19:22",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 1,
+    "temp": 14,
+    "wind": 3,
     "tmin": 9,
     "tmax": 16,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "23/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  COUVERT",
+          "14C  PEU NUAGEUX",
           "",
           "MIN 9C  MAX 16C",
           "",
-          "VENT 1 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C COUVERT",
+          "14C PEU NUAGEUX",
           "MIN 9C MAX 16C",
-          "VENT 1 KM/H"
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C COUVERT",
+          "14C PEU NUAGEUX",
           "MIN 9C MAX 16C",
-          "VENT 1 KM/H",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 23/10 A 04H52",
           "OSO>NE MAG 0.8",
           "DUREE 1 MIN"
         ],
         "short": [
-          "15C COUVERT",
-          "VENT 1 KM/H",
+          "14C PEU NUAGEUX",
+          "VENT 3 KM/H",
           "LE 23/10 A 04H52",
           "OSO>NE MAG 0.8"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "COUVERT",
+          "14C",
+          "NUAGEUX",
           "",
           "9C > 16C",
-          "VT 1KMH"
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "COUVERT",
+          "14C",
+          "NUAGEUX",
           "9C>16C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "COUVERT",
+          "14C",
+          "NUAGEUX",
           "9C>16C",
           "ISS 04H52",
           "23/10",
@@ -122,8 +122,8 @@
           "1MIN M0.8"
         ],
         "short": [
-          "15C",
-          "COUVERT",
+          "14C",
+          "NUAGEUX",
           "ISS 04H52",
           "23/10"
         ]
