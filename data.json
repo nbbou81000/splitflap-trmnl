@@ -1,20 +1,20 @@
 {
-  "updated_at": "22/10 03:01",
+  "updated_at": "22/10 08:11",
   "city": "ALBI",
   "weather": {
-    "temp": 10,
+    "temp": 9,
     "wind": 3,
     "tmin": 9,
-    "tmax": 15,
+    "tmax": 14,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
   "iss": {
-    "date": "22/10",
-    "time": "05H40",
+    "date": "23/10",
+    "time": "04H52",
     "dir": "OSO>NE",
-    "mag": -0.5,
-    "duration_min": 3
+    "mag": 0.8,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "10C  COUVERT",
+          "9C  COUVERT",
           "",
-          "MIN 9C  MAX 15C",
+          "MIN 9C  MAX 14C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "10C COUVERT",
-          "MIN 9C MAX 15C",
+          "9C COUVERT",
+          "MIN 9C MAX 14C",
           "VENT 3 KM/H"
         ]
       },
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 22/10 A 05H40",
+          "LE 23/10 A 04H52",
           "",
-          "OSO>NE  MAG -0.5",
+          "OSO>NE  MAG 0.8",
           "",
-          "DUREE 3 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 22/10 A 05H40",
-          "OSO>NE MAG -0.5",
-          "DUREE 3 MIN"
+          "LE 23/10 A 04H52",
+          "OSO>NE MAG 0.8",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "10C COUVERT",
-          "MIN 9C MAX 15C",
+          "9C COUVERT",
+          "MIN 9C MAX 14C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 22/10 A 05H40",
-          "OSO>NE MAG -0.5",
-          "DUREE 3 MIN"
+          "LE 23/10 A 04H52",
+          "OSO>NE MAG 0.8",
+          "DUREE 1 MIN"
         ],
         "short": [
-          "10C COUVERT",
+          "9C COUVERT",
           "VENT 3 KM/H",
-          "LE 22/10 A 05H40",
-          "OSO>NE MAG -0.5"
+          "LE 23/10 A 04H52",
+          "OSO>NE MAG 0.8"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "10C",
+          "9C",
           "COUVERT",
           "",
-          "9C > 15C",
+          "9C > 14C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "10C",
+          "9C",
           "COUVERT",
-          "9C>15C"
+          "9C>14C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "22/10",
-          "05H40",
+          "23/10",
+          "04H52",
           "",
           "OSO>NE",
-          "MAG -0.5",
-          "3 MIN"
+          "MAG 0.8",
+          "1 MIN"
         ],
         "short": [
-          "ISS 05H40",
-          "22/10",
+          "ISS 04H52",
+          "23/10",
           "OSO>NE",
-          "3MIN M-0.5"
+          "1MIN M0.8"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "10C",
+          "9C",
           "COUVERT",
-          "9C>15C",
-          "ISS 05H40",
-          "22/10",
+          "9C>14C",
+          "ISS 04H52",
+          "23/10",
           "OSO>NE",
-          "3MIN M-0.5"
+          "1MIN M0.8"
         ],
         "short": [
-          "10C",
+          "9C",
           "COUVERT",
-          "ISS 05H40",
-          "22/10"
+          "ISS 04H52",
+          "23/10"
         ]
       }
     }
