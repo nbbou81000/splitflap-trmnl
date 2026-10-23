@@ -1,20 +1,20 @@
 {
-  "updated_at": "23/10 04:09",
+  "updated_at": "23/10 09:44",
   "city": "ALBI",
   "weather": {
     "temp": 12,
-    "wind": 2,
+    "wind": 10,
     "tmin": 11,
     "tmax": 16,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
-    "date": "23/10",
-    "time": "04H52",
-    "dir": "OSO>NE",
-    "mag": 0.8,
-    "duration_min": 1
+    "date": "24/10",
+    "time": "05H42",
+    "dir": "O>NE",
+    "mag": -0.2,
+    "duration_min": 3
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "12C  COUVERT",
+          "12C  PLUIE",
           "",
           "MIN 11C  MAX 16C",
           "",
-          "VENT 2 KM/H",
+          "VENT 10 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "12C COUVERT",
+          "12C PLUIE",
           "MIN 11C MAX 16C",
-          "VENT 2 KM/H"
+          "VENT 10 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 23/10 A 04H52",
+          "LE 24/10 A 05H42",
           "",
-          "OSO>NE  MAG 0.8",
+          "O>NE  MAG -0.2",
           "",
-          "DUREE 1 MIN",
+          "DUREE 3 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 23/10 A 04H52",
-          "OSO>NE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 24/10 A 05H42",
+          "O>NE MAG -0.2",
+          "DUREE 3 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "12C COUVERT",
+          "12C PLUIE",
           "MIN 11C MAX 16C",
-          "VENT 2 KM/H",
+          "VENT 10 KM/H",
           "PROCHAINE ISS",
-          "LE 23/10 A 04H52",
-          "OSO>NE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 24/10 A 05H42",
+          "O>NE MAG -0.2",
+          "DUREE 3 MIN"
         ],
         "short": [
-          "12C COUVERT",
-          "VENT 2 KM/H",
-          "LE 23/10 A 04H52",
-          "OSO>NE MAG 0.8"
+          "12C PLUIE",
+          "VENT 10 KM/H",
+          "LE 24/10 A 05H42",
+          "O>NE MAG -0.2"
         ]
       }
     },
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "12C",
-          "COUVERT",
+          "PLUIE",
           "",
           "11C > 16C",
-          "VT 2KMH"
+          "VT 10KMH"
         ],
         "short": [
           "ALBI",
           "12C",
-          "COUVERT",
+          "PLUIE",
           "11C>16C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "23/10",
-          "04H52",
+          "24/10",
+          "05H42",
           "",
-          "OSO>NE",
-          "MAG 0.8",
-          "1 MIN"
+          "O>NE",
+          "MAG -0.2",
+          "3 MIN"
         ],
         "short": [
-          "ISS 04H52",
-          "23/10",
-          "OSO>NE",
-          "1MIN M0.8"
+          "ISS 05H42",
+          "24/10",
+          "O>NE",
+          "3MIN M-0.2"
         ]
       },
       "both": {
         "full": [
           "ALBI",
           "12C",
-          "COUVERT",
+          "PLUIE",
           "11C>16C",
-          "ISS 04H52",
-          "23/10",
-          "OSO>NE",
-          "1MIN M0.8"
+          "ISS 05H42",
+          "24/10",
+          "O>NE",
+          "3MIN M-0.2"
         ],
         "short": [
           "12C",
-          "COUVERT",
-          "ISS 04H52",
-          "23/10"
+          "PLUIE",
+          "ISS 05H42",
+          "24/10"
         ]
       }
     }
