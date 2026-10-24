@@ -1,11 +1,11 @@
 {
-  "updated_at": "24/10 23:16",
+  "updated_at": "25/10 01:26",
   "city": "ALBI",
   "weather": {
-    "temp": 13,
+    "temp": 12,
     "wind": 3,
-    "tmin": 10,
-    "tmax": 15,
+    "tmin": 11,
+    "tmax": 17,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "13C  COUVERT",
+          "12C  COUVERT",
           "",
-          "MIN 10C  MAX 15C",
+          "MIN 11C  MAX 17C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "13C COUVERT",
-          "MIN 10C MAX 15C",
+          "12C COUVERT",
+          "MIN 11C MAX 17C",
           "VENT 3 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "13C COUVERT",
-          "MIN 10C MAX 15C",
+          "12C COUVERT",
+          "MIN 11C MAX 17C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 25/10 A 03H54",
@@ -66,7 +66,7 @@
           "DUREE 1 MIN"
         ],
         "short": [
-          "13C COUVERT",
+          "12C COUVERT",
           "VENT 3 KM/H",
           "LE 25/10 A 03H54",
           "O>NE MAG 0.8"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "13C",
+          "12C",
           "COUVERT",
           "",
-          "10C > 15C",
+          "11C > 17C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "13C",
+          "12C",
           "COUVERT",
-          "10C>15C"
+          "11C>17C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "13C",
+          "12C",
           "COUVERT",
-          "10C>15C",
+          "11C>17C",
           "ISS 03H54",
           "25/10",
           "O>NE",
           "1MIN M0.8"
         ],
         "short": [
-          "13C",
+          "12C",
           "COUVERT",
           "ISS 03H54",
           "25/10"
