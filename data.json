@@ -1,20 +1,20 @@
 {
-  "updated_at": "25/10 02:21",
+  "updated_at": "25/10 07:19",
   "city": "ALBI",
   "weather": {
     "temp": 12,
     "wind": 3,
     "tmin": 11,
     "tmax": 17,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
-    "date": "25/10",
-    "time": "03H54",
-    "dir": "O>NE",
-    "mag": 0.8,
-    "duration_min": 1
+    "date": "26/10",
+    "time": "04H44",
+    "dir": "O>ENE",
+    "mag": -0.1,
+    "duration_min": 3
   },
   "lines": {
     "wide": {
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "12C  COUVERT",
+          "12C  PLUIE",
           "",
           "MIN 11C  MAX 17C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "12C COUVERT",
+          "12C PLUIE",
           "MIN 11C MAX 17C",
           "VENT 3 KM/H"
         ]
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 25/10 A 03H54",
+          "LE 26/10 A 04H44",
           "",
-          "O>NE  MAG 0.8",
+          "O>ENE  MAG -0.1",
           "",
-          "DUREE 1 MIN",
+          "DUREE 3 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 25/10 A 03H54",
-          "O>NE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 26/10 A 04H44",
+          "O>ENE MAG -0.1",
+          "DUREE 3 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "12C COUVERT",
+          "12C PLUIE",
           "MIN 11C MAX 17C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 25/10 A 03H54",
-          "O>NE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 26/10 A 04H44",
+          "O>ENE MAG -0.1",
+          "DUREE 3 MIN"
         ],
         "short": [
-          "12C COUVERT",
+          "12C PLUIE",
           "VENT 3 KM/H",
-          "LE 25/10 A 03H54",
-          "O>NE MAG 0.8"
+          "LE 26/10 A 04H44",
+          "O>ENE MAG -0.1"
         ]
       }
     },
@@ -80,7 +80,7 @@
           "ALBI",
           "",
           "12C",
-          "COUVERT",
+          "PLUIE",
           "",
           "11C > 17C",
           "VT 3KMH"
@@ -88,7 +88,7 @@
         "short": [
           "ALBI",
           "12C",
-          "COUVERT",
+          "PLUIE",
           "11C>17C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "25/10",
-          "03H54",
+          "26/10",
+          "04H44",
           "",
-          "O>NE",
-          "MAG 0.8",
-          "1 MIN"
+          "O>ENE",
+          "MAG -0.1",
+          "3 MIN"
         ],
         "short": [
-          "ISS 03H54",
-          "25/10",
-          "O>NE",
-          "1MIN M0.8"
+          "ISS 04H44",
+          "26/10",
+          "O>ENE",
+          "3MIN M-0.1"
         ]
       },
       "both": {
         "full": [
           "ALBI",
           "12C",
-          "COUVERT",
+          "PLUIE",
           "11C>17C",
-          "ISS 03H54",
-          "25/10",
-          "O>NE",
-          "1MIN M0.8"
+          "ISS 04H44",
+          "26/10",
+          "O>ENE",
+          "3MIN M-0.1"
         ],
         "short": [
           "12C",
-          "COUVERT",
-          "ISS 03H54",
-          "25/10"
+          "PLUIE",
+          "ISS 04H44",
+          "26/10"
         ]
       }
     }
