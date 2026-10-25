@@ -1,13 +1,13 @@
 {
-  "updated_at": "25/10 12:49",
+  "updated_at": "25/10 16:06",
   "city": "ALBI",
   "weather": {
-    "temp": 17,
-    "wind": 12,
+    "temp": 16,
+    "wind": 14,
     "tmin": 11,
-    "tmax": 18,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 17,
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "26/10",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "17C  COUVERT",
+          "16C  AVERSES",
           "",
-          "MIN 11C  MAX 18C",
+          "MIN 11C  MAX 17C",
           "",
-          "VENT 12 KM/H",
+          "VENT 14 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "17C COUVERT",
-          "MIN 11C MAX 18C",
-          "VENT 12 KM/H"
+          "16C AVERSES",
+          "MIN 11C MAX 17C",
+          "VENT 14 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "17C COUVERT",
-          "MIN 11C MAX 18C",
-          "VENT 12 KM/H",
+          "16C AVERSES",
+          "MIN 11C MAX 17C",
+          "VENT 14 KM/H",
           "PROCHAINE ISS",
           "LE 26/10 A 04H44",
           "O>ENE MAG -0.1",
           "DUREE 3 MIN"
         ],
         "short": [
-          "17C COUVERT",
-          "VENT 12 KM/H",
+          "16C AVERSES",
+          "VENT 14 KM/H",
           "LE 26/10 A 04H44",
           "O>ENE MAG -0.1"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "17C",
-          "COUVERT",
+          "16C",
+          "AVERSES",
           "",
-          "11C > 18C",
-          "VT 12KMH"
+          "11C > 17C",
+          "VT 14KMH"
         ],
         "short": [
           "ALBI",
-          "17C",
-          "COUVERT",
-          "11C>18C"
+          "16C",
+          "AVERSES",
+          "11C>17C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "17C",
-          "COUVERT",
-          "11C>18C",
+          "16C",
+          "AVERSES",
+          "11C>17C",
           "ISS 04H44",
           "26/10",
           "O>ENE",
           "3MIN M-0.1"
         ],
         "short": [
-          "17C",
-          "COUVERT",
+          "16C",
+          "AVERSES",
           "ISS 04H44",
           "26/10"
         ]
