@@ -1,11 +1,11 @@
 {
-  "updated_at": "26/10 20:26",
+  "updated_at": "27/10 00:12",
   "city": "ALBI",
   "weather": {
-    "temp": 13,
+    "temp": 11,
     "wind": 4,
-    "tmin": 9,
-    "tmax": 18,
+    "tmin": 11,
+    "tmax": 21,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "13C  BROUILLARD",
+          "11C  BROUILLARD",
           "",
-          "MIN 9C  MAX 18C",
+          "MIN 11C  MAX 21C",
           "",
           "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "13C BROUILLARD",
-          "MIN 9C MAX 18C",
+          "11C BROUILLARD",
+          "MIN 11C MAX 21C",
           "VENT 4 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "13C BROUILLARD",
-          "MIN 9C MAX 18C",
+          "11C BROUILLARD",
+          "MIN 11C MAX 21C",
           "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 27/10 A 03H57",
@@ -66,7 +66,7 @@
           "DUREE 1 MIN"
         ],
         "short": [
-          "13C BROUILLARD",
+          "11C BROUILLARD",
           "VENT 4 KM/H",
           "LE 27/10 A 03H57",
           "O>ENE MAG 0.9"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "13C",
+          "11C",
           "BROUILLARD",
           "",
-          "9C > 18C",
+          "11C > 21C",
           "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "13C",
+          "11C",
           "BROUILLARD",
-          "9C>18C"
+          "11C>21C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "13C",
+          "11C",
           "BROUILLARD",
-          "9C>18C",
+          "11C>21C",
           "ISS 03H57",
           "27/10",
           "O>ENE",
           "1MIN M0.9"
         ],
         "short": [
-          "13C",
+          "11C",
           "BROUILLARD",
           "ISS 03H57",
           "27/10"
