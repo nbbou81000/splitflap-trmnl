@@ -1,10 +1,10 @@
 {
-  "updated_at": "26/10 00:22",
+  "updated_at": "26/10 02:23",
   "city": "ALBI",
   "weather": {
-    "temp": 10,
+    "temp": 9,
     "wind": 2,
-    "tmin": 7,
+    "tmin": 8,
     "tmax": 18,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "10C  BROUILLARD",
+          "9C  BROUILLARD",
           "",
-          "MIN 7C  MAX 18C",
+          "MIN 8C  MAX 18C",
           "",
           "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "10C BROUILLARD",
-          "MIN 7C MAX 18C",
+          "9C BROUILLARD",
+          "MIN 8C MAX 18C",
           "VENT 2 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "10C BROUILLARD",
-          "MIN 7C MAX 18C",
+          "9C BROUILLARD",
+          "MIN 8C MAX 18C",
           "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 26/10 A 04H44",
@@ -66,7 +66,7 @@
           "DUREE 3 MIN"
         ],
         "short": [
-          "10C BROUILLARD",
+          "9C BROUILLARD",
           "VENT 2 KM/H",
           "LE 26/10 A 04H44",
           "O>ENE MAG -0.1"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "10C",
+          "9C",
           "BROUILLARD",
           "",
-          "7C > 18C",
+          "8C > 18C",
           "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "10C",
+          "9C",
           "BROUILLARD",
-          "7C>18C"
+          "8C>18C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "10C",
+          "9C",
           "BROUILLARD",
-          "7C>18C",
+          "8C>18C",
           "ISS 04H44",
           "26/10",
           "O>ENE",
           "3MIN M-0.1"
         ],
         "short": [
-          "10C",
+          "9C",
           "BROUILLARD",
           "ISS 04H44",
           "26/10"
