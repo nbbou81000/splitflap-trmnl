@@ -1,20 +1,20 @@
 {
-  "updated_at": "26/10 02:23",
+  "updated_at": "26/10 07:29",
   "city": "ALBI",
   "weather": {
     "temp": 9,
-    "wind": 2,
+    "wind": 4,
     "tmin": 8,
     "tmax": 18,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
-    "date": "26/10",
-    "time": "04H44",
+    "date": "27/10",
+    "time": "03H57",
     "dir": "O>ENE",
-    "mag": -0.1,
-    "duration_min": 3
+    "mag": 0.9,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "9C  BROUILLARD",
+          "9C  COUVERT",
           "",
           "MIN 8C  MAX 18C",
           "",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "9C BROUILLARD",
+          "9C COUVERT",
           "MIN 8C MAX 18C",
-          "VENT 2 KM/H"
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 26/10 A 04H44",
+          "LE 27/10 A 03H57",
           "",
-          "O>ENE  MAG -0.1",
+          "O>ENE  MAG 0.9",
           "",
-          "DUREE 3 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 26/10 A 04H44",
-          "O>ENE MAG -0.1",
-          "DUREE 3 MIN"
+          "LE 27/10 A 03H57",
+          "O>ENE MAG 0.9",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "9C BROUILLARD",
+          "9C COUVERT",
           "MIN 8C MAX 18C",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
-          "LE 26/10 A 04H44",
-          "O>ENE MAG -0.1",
-          "DUREE 3 MIN"
+          "LE 27/10 A 03H57",
+          "O>ENE MAG 0.9",
+          "DUREE 1 MIN"
         ],
         "short": [
-          "9C BROUILLARD",
-          "VENT 2 KM/H",
-          "LE 26/10 A 04H44",
-          "O>ENE MAG -0.1"
+          "9C COUVERT",
+          "VENT 4 KM/H",
+          "LE 27/10 A 03H57",
+          "O>ENE MAG 0.9"
         ]
       }
     },
@@ -80,15 +80,15 @@
           "ALBI",
           "",
           "9C",
-          "BROUILLARD",
+          "COUVERT",
           "",
           "8C > 18C",
-          "VT 2KMH"
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
           "9C",
-          "BROUILLARD",
+          "COUVERT",
           "8C>18C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "26/10",
-          "04H44",
+          "27/10",
+          "03H57",
           "",
           "O>ENE",
-          "MAG -0.1",
-          "3 MIN"
+          "MAG 0.9",
+          "1 MIN"
         ],
         "short": [
-          "ISS 04H44",
-          "26/10",
+          "ISS 03H57",
+          "27/10",
           "O>ENE",
-          "3MIN M-0.1"
+          "1MIN M0.9"
         ]
       },
       "both": {
         "full": [
           "ALBI",
           "9C",
-          "BROUILLARD",
+          "COUVERT",
           "8C>18C",
-          "ISS 04H44",
-          "26/10",
+          "ISS 03H57",
+          "27/10",
           "O>ENE",
-          "3MIN M-0.1"
+          "1MIN M0.9"
         ],
         "short": [
           "9C",
-          "BROUILLARD",
-          "ISS 04H44",
-          "26/10"
+          "COUVERT",
+          "ISS 03H57",
+          "27/10"
         ]
       }
     }
