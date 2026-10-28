@@ -1,20 +1,20 @@
 {
-  "updated_at": "28/10 03:25",
+  "updated_at": "28/10 09:45",
   "city": "ALBI",
   "weather": {
-    "temp": 14,
-    "wind": 5,
-    "tmin": 10,
-    "tmax": 16,
+    "temp": 13,
+    "wind": 8,
+    "tmin": 8,
+    "tmax": 17,
     "label": "COUVERT",
     "label_short": "COUVERT"
   },
   "iss": {
-    "date": "28/10",
-    "time": "04H46",
+    "date": "29/10",
+    "time": "03H59",
     "dir": "ONO>ENE",
-    "mag": -0.2,
-    "duration_min": 4
+    "mag": 0.8,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "14C  COUVERT",
+          "13C  COUVERT",
           "",
-          "MIN 10C  MAX 16C",
+          "MIN 8C  MAX 17C",
           "",
-          "VENT 5 KM/H",
+          "VENT 8 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "14C COUVERT",
-          "MIN 10C MAX 16C",
-          "VENT 5 KM/H"
+          "13C COUVERT",
+          "MIN 8C MAX 17C",
+          "VENT 8 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 28/10 A 04H46",
+          "LE 29/10 A 03H59",
           "",
-          "ONO>ENE  MAG -0.2",
+          "ONO>ENE  MAG 0.8",
           "",
-          "DUREE 4 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 28/10 A 04H46",
-          "ONO>ENE MAG -0.2",
-          "DUREE 4 MIN"
+          "LE 29/10 A 03H59",
+          "ONO>ENE MAG 0.8",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "14C COUVERT",
-          "MIN 10C MAX 16C",
-          "VENT 5 KM/H",
+          "13C COUVERT",
+          "MIN 8C MAX 17C",
+          "VENT 8 KM/H",
           "PROCHAINE ISS",
-          "LE 28/10 A 04H46",
-          "ONO>ENE MAG -0.2",
-          "DUREE 4 MIN"
+          "LE 29/10 A 03H59",
+          "ONO>ENE MAG 0.8",
+          "DUREE 1 MIN"
         ],
         "short": [
-          "14C COUVERT",
-          "VENT 5 KM/H",
-          "LE 28/10 A 04H46",
-          "ONO>ENE MAG -0.2"
+          "13C COUVERT",
+          "VENT 8 KM/H",
+          "LE 29/10 A 03H59",
+          "ONO>ENE MAG 0.8"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "14C",
+          "13C",
           "COUVERT",
           "",
-          "10C > 16C",
-          "VT 5KMH"
+          "8C > 17C",
+          "VT 8KMH"
         ],
         "short": [
           "ALBI",
-          "14C",
+          "13C",
           "COUVERT",
-          "10C>16C"
+          "8C>17C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "28/10",
-          "04H46",
+          "29/10",
+          "03H59",
           "",
           "ONO>ENE",
-          "MAG -0.2",
-          "4 MIN"
+          "MAG 0.8",
+          "1 MIN"
         ],
         "short": [
-          "ISS 04H46",
-          "28/10",
+          "ISS 03H59",
+          "29/10",
           "ONO>ENE",
-          "4MIN M-0.2"
+          "1MIN M0.8"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "14C",
+          "13C",
           "COUVERT",
-          "10C>16C",
-          "ISS 04H46",
-          "28/10",
+          "8C>17C",
+          "ISS 03H59",
+          "29/10",
           "ONO>ENE",
-          "4MIN M-0.2"
+          "1MIN M0.8"
         ],
         "short": [
-          "14C",
+          "13C",
           "COUVERT",
-          "ISS 04H46",
-          "28/10"
+          "ISS 03H59",
+          "29/10"
         ]
       }
     }
