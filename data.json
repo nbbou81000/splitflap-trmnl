@@ -1,20 +1,20 @@
 {
-  "updated_at": "29/10 01:28",
+  "updated_at": "29/10 07:10",
   "city": "ALBI",
   "weather": {
-    "temp": 6,
+    "temp": 3,
     "wind": 3,
     "tmin": 3,
-    "tmax": 17,
+    "tmax": 18,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "29/10",
-    "time": "03H59",
-    "dir": "ONO>ENE",
-    "mag": 0.8,
-    "duration_min": 1
+    "time": "07H13",
+    "dir": "ONO>SE",
+    "mag": -1.9,
+    "duration_min": 10
   },
   "lines": {
     "wide": {
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "6C  BROUILLARD",
+          "3C  BROUILLARD",
           "",
-          "MIN 3C  MAX 17C",
+          "MIN 3C  MAX 18C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "6C BROUILLARD",
-          "MIN 3C MAX 17C",
+          "3C BROUILLARD",
+          "MIN 3C MAX 18C",
           "VENT 3 KM/H"
         ]
       },
@@ -40,36 +40,36 @@
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 29/10 A 03H59",
+          "LE 29/10 A 07H13",
           "",
-          "ONO>ENE  MAG 0.8",
+          "ONO>SE  MAG -1.9",
           "",
-          "DUREE 1 MIN",
+          "DUREE 10 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 29/10 A 03H59",
-          "ONO>ENE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 29/10 A 07H13",
+          "ONO>SE MAG -1.9",
+          "DUREE 10 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "6C BROUILLARD",
-          "MIN 3C MAX 17C",
+          "3C BROUILLARD",
+          "MIN 3C MAX 18C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
-          "LE 29/10 A 03H59",
-          "ONO>ENE MAG 0.8",
-          "DUREE 1 MIN"
+          "LE 29/10 A 07H13",
+          "ONO>SE MAG -1.9",
+          "DUREE 10 MIN"
         ],
         "short": [
-          "6C BROUILLARD",
+          "3C BROUILLARD",
           "VENT 3 KM/H",
-          "LE 29/10 A 03H59",
-          "ONO>ENE MAG 0.8"
+          "LE 29/10 A 07H13",
+          "ONO>SE MAG -1.9"
         ]
       }
     },
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "6C",
+          "3C",
           "BROUILLARD",
           "",
-          "3C > 17C",
+          "3C > 18C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "6C",
+          "3C",
           "BROUILLARD",
-          "3C>17C"
+          "3C>18C"
         ]
       },
       "iss": {
@@ -97,34 +97,34 @@
           "ISS",
           "",
           "29/10",
-          "03H59",
+          "07H13",
           "",
-          "ONO>ENE",
-          "MAG 0.8",
-          "1 MIN"
+          "ONO>SE",
+          "MAG -1.9",
+          "10 MIN"
         ],
         "short": [
-          "ISS 03H59",
+          "ISS 07H13",
           "29/10",
-          "ONO>ENE",
-          "1MIN M0.8"
+          "ONO>SE",
+          "10MIN M-1.9"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "6C",
+          "3C",
           "BROUILLARD",
-          "3C>17C",
-          "ISS 03H59",
+          "3C>18C",
+          "ISS 07H13",
           "29/10",
-          "ONO>ENE",
-          "1MIN M0.8"
+          "ONO>SE",
+          "10MIN M-1.9"
         ],
         "short": [
-          "6C",
+          "3C",
           "BROUILLARD",
-          "ISS 03H59",
+          "ISS 07H13",
           "29/10"
         ]
       }
