@@ -1,10 +1,10 @@
 {
-  "updated_at": "30/10 00:25",
+  "updated_at": "30/10 03:42",
   "city": "ALBI",
   "weather": {
-    "temp": 7,
-    "wind": 4,
-    "tmin": 4,
+    "temp": 6,
+    "wind": 3,
+    "tmin": 5,
     "tmax": 19,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "7C  BROUILLARD",
+          "6C  BROUILLARD",
           "",
-          "MIN 4C  MAX 19C",
+          "MIN 5C  MAX 19C",
           "",
-          "VENT 4 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "7C BROUILLARD",
-          "MIN 4C MAX 19C",
-          "VENT 4 KM/H"
+          "6C BROUILLARD",
+          "MIN 5C MAX 19C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "7C BROUILLARD",
-          "MIN 4C MAX 19C",
-          "VENT 4 KM/H",
+          "6C BROUILLARD",
+          "MIN 5C MAX 19C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 30/10 A 04H48",
           "NO>E MAG -0.4",
           "DUREE 4 MIN"
         ],
         "short": [
-          "7C BROUILLARD",
-          "VENT 4 KM/H",
+          "6C BROUILLARD",
+          "VENT 3 KM/H",
           "LE 30/10 A 04H48",
           "NO>E MAG -0.4"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "7C",
+          "6C",
           "BROUILLARD",
           "",
-          "4C > 19C",
-          "VT 4KMH"
+          "5C > 19C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "7C",
+          "6C",
           "BROUILLARD",
-          "4C>19C"
+          "5C>19C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "7C",
+          "6C",
           "BROUILLARD",
-          "4C>19C",
+          "5C>19C",
           "ISS 04H48",
           "30/10",
           "NO>E",
           "4MIN M-0.4"
         ],
         "short": [
-          "7C",
+          "6C",
           "BROUILLARD",
           "ISS 04H48",
           "30/10"
