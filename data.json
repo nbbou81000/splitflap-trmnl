@@ -1,11 +1,11 @@
 {
-  "updated_at": "30/10 21:54",
+  "updated_at": "31/10 01:12",
   "city": "ALBI",
   "weather": {
-    "temp": 11,
+    "temp": 9,
     "wind": 3,
-    "tmin": 5,
-    "tmax": 19,
+    "tmin": 6,
+    "tmax": 18,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "11C  BROUILLARD",
+          "9C  BROUILLARD",
           "",
-          "MIN 5C  MAX 19C",
+          "MIN 6C  MAX 18C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "11C BROUILLARD",
-          "MIN 5C MAX 19C",
+          "9C BROUILLARD",
+          "MIN 6C MAX 18C",
           "VENT 3 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "11C BROUILLARD",
-          "MIN 5C MAX 19C",
+          "9C BROUILLARD",
+          "MIN 6C MAX 18C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 31/10 A 04H01",
@@ -66,7 +66,7 @@
           "DUREE 1 MIN"
         ],
         "short": [
-          "11C BROUILLARD",
+          "9C BROUILLARD",
           "VENT 3 KM/H",
           "LE 31/10 A 04H01",
           "ONO>E MAG 0.8"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "11C",
+          "9C",
           "BROUILLARD",
           "",
-          "5C > 19C",
+          "6C > 18C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "11C",
+          "9C",
           "BROUILLARD",
-          "5C>19C"
+          "6C>18C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "11C",
+          "9C",
           "BROUILLARD",
-          "5C>19C",
+          "6C>18C",
           "ISS 04H01",
           "31/10",
           "ONO>E",
           "1MIN M0.8"
         ],
         "short": [
-          "11C",
+          "9C",
           "BROUILLARD",
           "ISS 04H01",
           "31/10"
