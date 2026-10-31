@@ -1,13 +1,13 @@
 {
-  "updated_at": "31/10 21:07",
+  "updated_at": "01/11 00:29",
   "city": "ALBI",
   "weather": {
-    "temp": 11,
-    "wind": 0,
-    "tmin": 6,
-    "tmax": 19,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "temp": 6,
+    "wind": 2,
+    "tmin": 4,
+    "tmax": 13,
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "01/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "11C  PEU NUAGEUX",
+          "6C  BROUILLARD",
           "",
-          "MIN 6C  MAX 19C",
+          "MIN 4C  MAX 13C",
           "",
-          "VENT 0 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "11C PEU NUAGEUX",
-          "MIN 6C MAX 19C",
-          "VENT 0 KM/H"
+          "6C BROUILLARD",
+          "MIN 4C MAX 13C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "11C PEU NUAGEUX",
-          "MIN 6C MAX 19C",
-          "VENT 0 KM/H",
+          "6C BROUILLARD",
+          "MIN 4C MAX 13C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 01/11 A 04H50",
           "NO>E MAG -0.7",
           "DUREE 4 MIN"
         ],
         "short": [
-          "11C PEU NUAGEUX",
-          "VENT 0 KM/H",
+          "6C BROUILLARD",
+          "VENT 2 KM/H",
           "LE 01/11 A 04H50",
           "NO>E MAG -0.7"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "11C",
-          "NUAGEUX",
+          "6C",
+          "BROUILLARD",
           "",
-          "6C > 19C",
-          "VT 0KMH"
+          "4C > 13C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "11C",
-          "NUAGEUX",
-          "6C>19C"
+          "6C",
+          "BROUILLARD",
+          "4C>13C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "11C",
-          "NUAGEUX",
-          "6C>19C",
+          "6C",
+          "BROUILLARD",
+          "4C>13C",
           "ISS 04H50",
           "01/11",
           "NO>E",
           "4MIN M-0.7"
         ],
         "short": [
-          "11C",
-          "NUAGEUX",
+          "6C",
+          "BROUILLARD",
           "ISS 04H50",
           "01/11"
         ]
