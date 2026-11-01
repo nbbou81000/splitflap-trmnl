@@ -1,13 +1,13 @@
 {
-  "updated_at": "01/11 10:26",
+  "updated_at": "01/11 17:10",
   "city": "ALBI",
   "weather": {
-    "temp": 7,
-    "wind": 1,
+    "temp": 13,
+    "wind": 10,
     "tmin": 4,
     "tmax": 13,
-    "label": "BRUINE",
-    "label_short": "BRUINE"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
     "date": "02/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "7C  BRUINE",
+          "13C  PEU NUAGEUX",
           "",
           "MIN 4C  MAX 13C",
           "",
-          "VENT 1 KM/H",
+          "VENT 10 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "7C BRUINE",
+          "13C PEU NUAGEUX",
           "MIN 4C MAX 13C",
-          "VENT 1 KM/H"
+          "VENT 10 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "7C BRUINE",
+          "13C PEU NUAGEUX",
           "MIN 4C MAX 13C",
-          "VENT 1 KM/H",
+          "VENT 10 KM/H",
           "PROCHAINE ISS",
           "LE 02/11 A 04H03",
           "NO>E MAG 0.8",
           "DUREE 1 MIN"
         ],
         "short": [
-          "7C BRUINE",
-          "VENT 1 KM/H",
+          "13C PEU NUAGEUX",
+          "VENT 10 KM/H",
           "LE 02/11 A 04H03",
           "NO>E MAG 0.8"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "7C",
-          "BRUINE",
+          "13C",
+          "NUAGEUX",
           "",
           "4C > 13C",
-          "VT 1KMH"
+          "VT 10KMH"
         ],
         "short": [
           "ALBI",
-          "7C",
-          "BRUINE",
+          "13C",
+          "NUAGEUX",
           "4C>13C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "7C",
-          "BRUINE",
+          "13C",
+          "NUAGEUX",
           "4C>13C",
           "ISS 04H03",
           "02/11",
@@ -122,8 +122,8 @@
           "1MIN M0.8"
         ],
         "short": [
-          "7C",
-          "BRUINE",
+          "13C",
+          "NUAGEUX",
           "ISS 04H03",
           "02/11"
         ]
