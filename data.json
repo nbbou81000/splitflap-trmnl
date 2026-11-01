@@ -1,13 +1,13 @@
 {
-  "updated_at": "01/11 17:10",
+  "updated_at": "01/11 21:38",
   "city": "ALBI",
   "weather": {
-    "temp": 13,
-    "wind": 10,
+    "temp": 7,
+    "wind": 2,
     "tmin": 4,
     "tmax": 13,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "02/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "13C  PEU NUAGEUX",
+          "7C  BROUILLARD",
           "",
           "MIN 4C  MAX 13C",
           "",
-          "VENT 10 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "13C PEU NUAGEUX",
+          "7C BROUILLARD",
           "MIN 4C MAX 13C",
-          "VENT 10 KM/H"
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "13C PEU NUAGEUX",
+          "7C BROUILLARD",
           "MIN 4C MAX 13C",
-          "VENT 10 KM/H",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 02/11 A 04H03",
           "NO>E MAG 0.8",
           "DUREE 1 MIN"
         ],
         "short": [
-          "13C PEU NUAGEUX",
-          "VENT 10 KM/H",
+          "7C BROUILLARD",
+          "VENT 2 KM/H",
           "LE 02/11 A 04H03",
           "NO>E MAG 0.8"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "13C",
-          "NUAGEUX",
+          "7C",
+          "BROUILLARD",
           "",
           "4C > 13C",
-          "VT 10KMH"
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "13C",
-          "NUAGEUX",
+          "7C",
+          "BROUILLARD",
           "4C>13C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "13C",
-          "NUAGEUX",
+          "7C",
+          "BROUILLARD",
           "4C>13C",
           "ISS 04H03",
           "02/11",
@@ -122,8 +122,8 @@
           "1MIN M0.8"
         ],
         "short": [
-          "13C",
-          "NUAGEUX",
+          "7C",
+          "BROUILLARD",
           "ISS 04H03",
           "02/11"
         ]
