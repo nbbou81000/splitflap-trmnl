@@ -1,20 +1,20 @@
 {
-  "updated_at": "01/11 03:25",
+  "updated_at": "01/11 10:26",
   "city": "ALBI",
   "weather": {
-    "temp": 5,
-    "wind": 2,
+    "temp": 7,
+    "wind": 1,
     "tmin": 4,
     "tmax": 13,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "BRUINE",
+    "label_short": "BRUINE"
   },
   "iss": {
-    "date": "01/11",
-    "time": "04H50",
+    "date": "02/11",
+    "time": "04H03",
     "dir": "NO>E",
-    "mag": -0.7,
-    "duration_min": 4
+    "mag": 0.8,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "5C  BROUILLARD",
+          "7C  BRUINE",
           "",
           "MIN 4C  MAX 13C",
           "",
-          "VENT 2 KM/H",
+          "VENT 1 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "5C BROUILLARD",
+          "7C BRUINE",
           "MIN 4C MAX 13C",
-          "VENT 2 KM/H"
+          "VENT 1 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 01/11 A 04H50",
+          "LE 02/11 A 04H03",
           "",
-          "NO>E  MAG -0.7",
+          "NO>E  MAG 0.8",
           "",
-          "DUREE 4 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 01/11 A 04H50",
-          "NO>E MAG -0.7",
-          "DUREE 4 MIN"
+          "LE 02/11 A 04H03",
+          "NO>E MAG 0.8",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "5C BROUILLARD",
+          "7C BRUINE",
           "MIN 4C MAX 13C",
-          "VENT 2 KM/H",
+          "VENT 1 KM/H",
           "PROCHAINE ISS",
-          "LE 01/11 A 04H50",
-          "NO>E MAG -0.7",
-          "DUREE 4 MIN"
+          "LE 02/11 A 04H03",
+          "NO>E MAG 0.8",
+          "DUREE 1 MIN"
         ],
         "short": [
-          "5C BROUILLARD",
-          "VENT 2 KM/H",
-          "LE 01/11 A 04H50",
-          "NO>E MAG -0.7"
+          "7C BRUINE",
+          "VENT 1 KM/H",
+          "LE 02/11 A 04H03",
+          "NO>E MAG 0.8"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "5C",
-          "BROUILLARD",
+          "7C",
+          "BRUINE",
           "",
           "4C > 13C",
-          "VT 2KMH"
+          "VT 1KMH"
         ],
         "short": [
           "ALBI",
-          "5C",
-          "BROUILLARD",
+          "7C",
+          "BRUINE",
           "4C>13C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "01/11",
-          "04H50",
+          "02/11",
+          "04H03",
           "",
           "NO>E",
-          "MAG -0.7",
-          "4 MIN"
+          "MAG 0.8",
+          "1 MIN"
         ],
         "short": [
-          "ISS 04H50",
-          "01/11",
+          "ISS 04H03",
+          "02/11",
           "NO>E",
-          "4MIN M-0.7"
+          "1MIN M0.8"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "5C",
-          "BROUILLARD",
+          "7C",
+          "BRUINE",
           "4C>13C",
-          "ISS 04H50",
-          "01/11",
+          "ISS 04H03",
+          "02/11",
           "NO>E",
-          "4MIN M-0.7"
+          "1MIN M0.8"
         ],
         "short": [
-          "5C",
-          "BROUILLARD",
-          "ISS 04H50",
-          "01/11"
+          "7C",
+          "BRUINE",
+          "ISS 04H03",
+          "02/11"
         ]
       }
     }
