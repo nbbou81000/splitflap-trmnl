@@ -1,11 +1,11 @@
 {
-  "updated_at": "01/11 21:38",
+  "updated_at": "02/11 00:58",
   "city": "ALBI",
   "weather": {
-    "temp": 7,
-    "wind": 2,
-    "tmin": 4,
-    "tmax": 13,
+    "temp": 4,
+    "wind": 3,
+    "tmin": -1,
+    "tmax": 14,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "7C  BROUILLARD",
+          "4C  BROUILLARD",
           "",
-          "MIN 4C  MAX 13C",
+          "MIN -1C  MAX 14C",
           "",
-          "VENT 2 KM/H",
+          "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "7C BROUILLARD",
-          "MIN 4C MAX 13C",
-          "VENT 2 KM/H"
+          "4C BROUILLARD",
+          "MIN -1C MAX 14C",
+          "VENT 3 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "7C BROUILLARD",
-          "MIN 4C MAX 13C",
-          "VENT 2 KM/H",
+          "4C BROUILLARD",
+          "MIN -1C MAX 14C",
+          "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 02/11 A 04H03",
           "NO>E MAG 0.8",
           "DUREE 1 MIN"
         ],
         "short": [
-          "7C BROUILLARD",
-          "VENT 2 KM/H",
+          "4C BROUILLARD",
+          "VENT 3 KM/H",
           "LE 02/11 A 04H03",
           "NO>E MAG 0.8"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "7C",
+          "4C",
           "BROUILLARD",
           "",
-          "4C > 13C",
-          "VT 2KMH"
+          "-1C > 14C",
+          "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "7C",
+          "4C",
           "BROUILLARD",
-          "4C>13C"
+          "-1C>14C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "7C",
+          "4C",
           "BROUILLARD",
-          "4C>13C",
+          "-1C>14C",
           "ISS 04H03",
           "02/11",
           "NO>E",
           "1MIN M0.8"
         ],
         "short": [
-          "7C",
+          "4C",
           "BROUILLARD",
           "ISS 04H03",
           "02/11"
