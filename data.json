@@ -1,11 +1,11 @@
 {
-  "updated_at": "02/11 22:58",
+  "updated_at": "03/11 04:15",
   "city": "ALBI",
   "weather": {
-    "temp": 3,
+    "temp": 1,
     "wind": 3,
     "tmin": -1,
-    "tmax": 13,
+    "tmax": 11,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "3C  BROUILLARD",
+          "1C  BROUILLARD",
           "",
-          "MIN -1C  MAX 13C",
+          "MIN -1C  MAX 11C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "3C BROUILLARD",
-          "MIN -1C MAX 13C",
+          "1C BROUILLARD",
+          "MIN -1C MAX 11C",
           "VENT 3 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "3C BROUILLARD",
-          "MIN -1C MAX 13C",
+          "1C BROUILLARD",
+          "MIN -1C MAX 11C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 03/11 A 04H52",
@@ -66,7 +66,7 @@
           "DUREE 3 MIN"
         ],
         "short": [
-          "3C BROUILLARD",
+          "1C BROUILLARD",
           "VENT 3 KM/H",
           "LE 03/11 A 04H52",
           "NO>SE MAG -0.3"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "3C",
+          "1C",
           "BROUILLARD",
           "",
-          "-1C > 13C",
+          "-1C > 11C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "3C",
+          "1C",
           "BROUILLARD",
-          "-1C>13C"
+          "-1C>11C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "3C",
+          "1C",
           "BROUILLARD",
-          "-1C>13C",
+          "-1C>11C",
           "ISS 04H52",
           "03/11",
           "NO>SE",
           "3MIN M-0.3"
         ],
         "short": [
-          "3C",
+          "1C",
           "BROUILLARD",
           "ISS 04H52",
           "03/11"
