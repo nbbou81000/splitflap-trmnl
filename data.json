@@ -1,13 +1,13 @@
 {
-  "updated_at": "04/11 12:38",
+  "updated_at": "04/11 19:55",
   "city": "ALBI",
   "weather": {
-    "temp": 5,
+    "temp": 8,
     "wind": 2,
     "tmin": 1,
     "tmax": 8,
-    "label": "PLUIE",
-    "label_short": "PLUIE"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "05/11",
@@ -22,7 +22,7 @@
         "full": [
           "METEO ALBI",
           "",
-          "5C  PLUIE",
+          "8C  BROUILLARD",
           "",
           "MIN 1C  MAX 8C",
           "",
@@ -31,7 +31,7 @@
         ],
         "short": [
           "METEO ALBI",
-          "5C PLUIE",
+          "8C BROUILLARD",
           "MIN 1C MAX 8C",
           "VENT 2 KM/H"
         ]
@@ -57,7 +57,7 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "5C PLUIE",
+          "8C BROUILLARD",
           "MIN 1C MAX 8C",
           "VENT 2 KM/H",
           "PROCHAINE ISS",
@@ -66,7 +66,7 @@
           "DUREE 1 MIN"
         ],
         "short": [
-          "5C PLUIE",
+          "8C BROUILLARD",
           "VENT 2 KM/H",
           "LE 05/11 A 04H53",
           "ONO>SE MAG 0.8"
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "5C",
-          "PLUIE",
+          "8C",
+          "BROUILLARD",
           "",
           "1C > 8C",
           "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "5C",
-          "PLUIE",
+          "8C",
+          "BROUILLARD",
           "1C>8C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "5C",
-          "PLUIE",
+          "8C",
+          "BROUILLARD",
           "1C>8C",
           "ISS 04H53",
           "05/11",
@@ -122,8 +122,8 @@
           "1MIN M0.8"
         ],
         "short": [
-          "5C",
-          "PLUIE",
+          "8C",
+          "BROUILLARD",
           "ISS 04H53",
           "05/11"
         ]
