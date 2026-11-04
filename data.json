@@ -1,20 +1,20 @@
 {
-  "updated_at": "04/11 04:30",
+  "updated_at": "04/11 12:38",
   "city": "ALBI",
   "weather": {
-    "temp": 1,
-    "wind": 3,
+    "temp": 5,
+    "wind": 2,
     "tmin": 1,
-    "tmax": 9,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 8,
+    "label": "PLUIE",
+    "label_short": "PLUIE"
   },
   "iss": {
-    "date": "04/11",
-    "time": "05H41",
-    "dir": "ONO>SSE",
-    "mag": -0.1,
-    "duration_min": 3
+    "date": "05/11",
+    "time": "04H53",
+    "dir": "ONO>SE",
+    "mag": 0.8,
+    "duration_min": 1
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "1C  COUVERT",
+          "5C  PLUIE",
           "",
-          "MIN 1C  MAX 9C",
+          "MIN 1C  MAX 8C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "1C COUVERT",
-          "MIN 1C MAX 9C",
-          "VENT 3 KM/H"
+          "5C PLUIE",
+          "MIN 1C MAX 8C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 04/11 A 05H41",
+          "LE 05/11 A 04H53",
           "",
-          "ONO>SSE  MAG -0.1",
+          "ONO>SE  MAG 0.8",
           "",
-          "DUREE 3 MIN",
+          "DUREE 1 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 04/11 A 05H41",
-          "ONO>SSE MAG -0.1",
-          "DUREE 3 MIN"
+          "LE 05/11 A 04H53",
+          "ONO>SE MAG 0.8",
+          "DUREE 1 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "1C COUVERT",
-          "MIN 1C MAX 9C",
-          "VENT 3 KM/H",
+          "5C PLUIE",
+          "MIN 1C MAX 8C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
-          "LE 04/11 A 05H41",
-          "ONO>SSE MAG -0.1",
-          "DUREE 3 MIN"
+          "LE 05/11 A 04H53",
+          "ONO>SE MAG 0.8",
+          "DUREE 1 MIN"
         ],
         "short": [
-          "1C COUVERT",
-          "VENT 3 KM/H",
-          "LE 04/11 A 05H41",
-          "ONO>SSE MAG -0.1"
+          "5C PLUIE",
+          "VENT 2 KM/H",
+          "LE 05/11 A 04H53",
+          "ONO>SE MAG 0.8"
         ]
       }
     },
@@ -79,53 +79,53 @@
           "METEO",
           "ALBI",
           "",
-          "1C",
-          "COUVERT",
+          "5C",
+          "PLUIE",
           "",
-          "1C > 9C",
-          "VT 3KMH"
+          "1C > 8C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "1C",
-          "COUVERT",
-          "1C>9C"
+          "5C",
+          "PLUIE",
+          "1C>8C"
         ]
       },
       "iss": {
         "full": [
           "ISS",
           "",
-          "04/11",
-          "05H41",
+          "05/11",
+          "04H53",
           "",
-          "ONO>SSE",
-          "MAG -0.1",
-          "3 MIN"
+          "ONO>SE",
+          "MAG 0.8",
+          "1 MIN"
         ],
         "short": [
-          "ISS 05H41",
-          "04/11",
-          "ONO>SSE",
-          "3MIN M-0.1"
+          "ISS 04H53",
+          "05/11",
+          "ONO>SE",
+          "1MIN M0.8"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "1C",
-          "COUVERT",
-          "1C>9C",
-          "ISS 05H41",
-          "04/11",
-          "ONO>SSE",
-          "3MIN M-0.1"
+          "5C",
+          "PLUIE",
+          "1C>8C",
+          "ISS 04H53",
+          "05/11",
+          "ONO>SE",
+          "1MIN M0.8"
         ],
         "short": [
-          "1C",
-          "COUVERT",
-          "ISS 05H41",
-          "04/11"
+          "5C",
+          "PLUIE",
+          "ISS 04H53",
+          "05/11"
         ]
       }
     }
