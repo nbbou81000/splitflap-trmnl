@@ -1,11 +1,11 @@
 {
-  "updated_at": "04/11 19:55",
+  "updated_at": "05/11 01:01",
   "city": "ALBI",
   "weather": {
-    "temp": 8,
+    "temp": 7,
     "wind": 2,
-    "tmin": 1,
-    "tmax": 8,
+    "tmin": 7,
+    "tmax": 14,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "8C  BROUILLARD",
+          "7C  BROUILLARD",
           "",
-          "MIN 1C  MAX 8C",
+          "MIN 7C  MAX 14C",
           "",
           "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "8C BROUILLARD",
-          "MIN 1C MAX 8C",
+          "7C BROUILLARD",
+          "MIN 7C MAX 14C",
           "VENT 2 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "8C BROUILLARD",
-          "MIN 1C MAX 8C",
+          "7C BROUILLARD",
+          "MIN 7C MAX 14C",
           "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 05/11 A 04H53",
@@ -66,7 +66,7 @@
           "DUREE 1 MIN"
         ],
         "short": [
-          "8C BROUILLARD",
+          "7C BROUILLARD",
           "VENT 2 KM/H",
           "LE 05/11 A 04H53",
           "ONO>SE MAG 0.8"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "8C",
+          "7C",
           "BROUILLARD",
           "",
-          "1C > 8C",
+          "7C > 14C",
           "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "8C",
+          "7C",
           "BROUILLARD",
-          "1C>8C"
+          "7C>14C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "8C",
+          "7C",
           "BROUILLARD",
-          "1C>8C",
+          "7C>14C",
           "ISS 04H53",
           "05/11",
           "ONO>SE",
           "1MIN M0.8"
         ],
         "short": [
-          "8C",
+          "7C",
           "BROUILLARD",
           "ISS 04H53",
           "05/11"
