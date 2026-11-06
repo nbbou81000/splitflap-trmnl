@@ -1,11 +1,11 @@
 {
-  "updated_at": "05/11 22:36",
+  "updated_at": "06/11 02:50",
   "city": "ALBI",
   "weather": {
-    "temp": 7,
+    "temp": 6,
     "wind": 3,
-    "tmin": 5,
-    "tmax": 14,
+    "tmin": 4,
+    "tmax": 16,
     "label": "BROUILLARD",
     "label_short": "BROUILLARD"
   },
@@ -22,17 +22,17 @@
         "full": [
           "METEO ALBI",
           "",
-          "7C  BROUILLARD",
+          "6C  BROUILLARD",
           "",
-          "MIN 5C  MAX 14C",
+          "MIN 4C  MAX 16C",
           "",
           "VENT 3 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "7C BROUILLARD",
-          "MIN 5C MAX 14C",
+          "6C BROUILLARD",
+          "MIN 4C MAX 16C",
           "VENT 3 KM/H"
         ]
       },
@@ -57,8 +57,8 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "7C BROUILLARD",
-          "MIN 5C MAX 14C",
+          "6C BROUILLARD",
+          "MIN 4C MAX 16C",
           "VENT 3 KM/H",
           "PROCHAINE ISS",
           "LE 09/11 A 20H04",
@@ -66,7 +66,7 @@
           "DUREE 2 MIN"
         ],
         "short": [
-          "7C BROUILLARD",
+          "6C BROUILLARD",
           "VENT 3 KM/H",
           "LE 09/11 A 20H04",
           "SO>ENE MAG 0.6"
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "7C",
+          "6C",
           "BROUILLARD",
           "",
-          "5C > 14C",
+          "4C > 16C",
           "VT 3KMH"
         ],
         "short": [
           "ALBI",
-          "7C",
+          "6C",
           "BROUILLARD",
-          "5C>14C"
+          "4C>16C"
         ]
       },
       "iss": {
@@ -113,16 +113,16 @@
       "both": {
         "full": [
           "ALBI",
-          "7C",
+          "6C",
           "BROUILLARD",
-          "5C>14C",
+          "4C>16C",
           "ISS 20H04",
           "09/11",
           "SO>ENE",
           "2MIN M0.6"
         ],
         "short": [
-          "7C",
+          "6C",
           "BROUILLARD",
           "ISS 20H04",
           "09/11"
