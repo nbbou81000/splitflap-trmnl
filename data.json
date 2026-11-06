@@ -1,17 +1,17 @@
 {
-  "updated_at": "06/11 02:50",
+  "updated_at": "06/11 09:37",
   "city": "ALBI",
   "weather": {
-    "temp": 6,
-    "wind": 3,
-    "tmin": 4,
+    "temp": 7,
+    "wind": 2,
+    "tmin": 3,
     "tmax": 16,
-    "label": "BROUILLARD",
-    "label_short": "BROUILLARD"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "09/11",
-    "time": "20H04",
+    "time": "20H03",
     "dir": "SO>ENE",
     "mag": 0.6,
     "duration_min": 2
@@ -22,25 +22,25 @@
         "full": [
           "METEO ALBI",
           "",
-          "6C  BROUILLARD",
+          "7C  COUVERT",
           "",
-          "MIN 4C  MAX 16C",
+          "MIN 3C  MAX 16C",
           "",
-          "VENT 3 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "6C BROUILLARD",
-          "MIN 4C MAX 16C",
-          "VENT 3 KM/H"
+          "7C COUVERT",
+          "MIN 3C MAX 16C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 09/11 A 20H04",
+          "LE 09/11 A 20H03",
           "",
           "SO>ENE  MAG 0.6",
           "",
@@ -49,7 +49,7 @@
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 09/11 A 20H04",
+          "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ]
@@ -57,18 +57,18 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "6C BROUILLARD",
-          "MIN 4C MAX 16C",
-          "VENT 3 KM/H",
+          "7C COUVERT",
+          "MIN 3C MAX 16C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
-          "LE 09/11 A 20H04",
+          "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ],
         "short": [
-          "6C BROUILLARD",
-          "VENT 3 KM/H",
-          "LE 09/11 A 20H04",
+          "7C COUVERT",
+          "VENT 2 KM/H",
+          "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6"
         ]
       }
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "6C",
-          "BROUILLARD",
+          "7C",
+          "COUVERT",
           "",
-          "4C > 16C",
-          "VT 3KMH"
+          "3C > 16C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "6C",
-          "BROUILLARD",
-          "4C>16C"
+          "7C",
+          "COUVERT",
+          "3C>16C"
         ]
       },
       "iss": {
@@ -97,14 +97,14 @@
           "ISS",
           "",
           "09/11",
-          "20H04",
+          "20H03",
           "",
           "SO>ENE",
           "MAG 0.6",
           "2 MIN"
         ],
         "short": [
-          "ISS 20H04",
+          "ISS 20H03",
           "09/11",
           "SO>ENE",
           "2MIN M0.6"
@@ -113,18 +113,18 @@
       "both": {
         "full": [
           "ALBI",
-          "6C",
-          "BROUILLARD",
-          "4C>16C",
-          "ISS 20H04",
+          "7C",
+          "COUVERT",
+          "3C>16C",
+          "ISS 20H03",
           "09/11",
           "SO>ENE",
           "2MIN M0.6"
         ],
         "short": [
-          "6C",
-          "BROUILLARD",
-          "ISS 20H04",
+          "7C",
+          "COUVERT",
+          "ISS 20H03",
           "09/11"
         ]
       }
