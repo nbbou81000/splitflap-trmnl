@@ -1,13 +1,13 @@
 {
-  "updated_at": "06/11 17:22",
+  "updated_at": "06/11 22:39",
   "city": "ALBI",
   "weather": {
-    "temp": 13,
-    "wind": 3,
-    "tmin": 4,
+    "temp": 4,
+    "wind": 4,
+    "tmin": 3,
     "tmax": 14,
-    "label": "SOLEIL",
-    "label_short": "SOLEIL"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "09/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "13C  SOLEIL",
+          "4C  BROUILLARD",
           "",
-          "MIN 4C  MAX 14C",
+          "MIN 3C  MAX 14C",
           "",
-          "VENT 3 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "13C SOLEIL",
-          "MIN 4C MAX 14C",
-          "VENT 3 KM/H"
+          "4C BROUILLARD",
+          "MIN 3C MAX 14C",
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "13C SOLEIL",
-          "MIN 4C MAX 14C",
-          "VENT 3 KM/H",
+          "4C BROUILLARD",
+          "MIN 3C MAX 14C",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ],
         "short": [
-          "13C SOLEIL",
-          "VENT 3 KM/H",
+          "4C BROUILLARD",
+          "VENT 4 KM/H",
           "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "13C",
-          "SOLEIL",
+          "4C",
+          "BROUILLARD",
           "",
-          "4C > 14C",
-          "VT 3KMH"
+          "3C > 14C",
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "13C",
-          "SOLEIL",
-          "4C>14C"
+          "4C",
+          "BROUILLARD",
+          "3C>14C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "13C",
-          "SOLEIL",
-          "4C>14C",
+          "4C",
+          "BROUILLARD",
+          "3C>14C",
           "ISS 20H03",
           "09/11",
           "SO>ENE",
           "2MIN M0.6"
         ],
         "short": [
-          "13C",
-          "SOLEIL",
+          "4C",
+          "BROUILLARD",
           "ISS 20H03",
           "09/11"
         ]
