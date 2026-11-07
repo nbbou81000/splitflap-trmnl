@@ -1,13 +1,13 @@
 {
-  "updated_at": "07/11 15:12",
+  "updated_at": "07/11 19:54",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 2,
+    "temp": 7,
+    "wind": 4,
     "tmin": 0,
     "tmax": 15,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "BROUILLARD",
+    "label_short": "BROUILLARD"
   },
   "iss": {
     "date": "09/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  COUVERT",
+          "7C  BROUILLARD",
           "",
           "MIN 0C  MAX 15C",
           "",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C COUVERT",
+          "7C BROUILLARD",
           "MIN 0C MAX 15C",
-          "VENT 2 KM/H"
+          "VENT 4 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C COUVERT",
+          "7C BROUILLARD",
           "MIN 0C MAX 15C",
-          "VENT 2 KM/H",
+          "VENT 4 KM/H",
           "PROCHAINE ISS",
           "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ],
         "short": [
-          "15C COUVERT",
-          "VENT 2 KM/H",
+          "7C BROUILLARD",
+          "VENT 4 KM/H",
           "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6"
         ]
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "COUVERT",
+          "7C",
+          "BROUILLARD",
           "",
           "0C > 15C",
-          "VT 2KMH"
+          "VT 4KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "COUVERT",
+          "7C",
+          "BROUILLARD",
           "0C>15C"
         ]
       },
@@ -113,8 +113,8 @@
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "COUVERT",
+          "7C",
+          "BROUILLARD",
           "0C>15C",
           "ISS 20H03",
           "09/11",
@@ -122,8 +122,8 @@
           "2MIN M0.6"
         ],
         "short": [
-          "15C",
-          "COUVERT",
+          "7C",
+          "BROUILLARD",
           "ISS 20H03",
           "09/11"
         ]
