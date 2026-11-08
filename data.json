@@ -1,13 +1,13 @@
 {
-  "updated_at": "08/11 02:34",
+  "updated_at": "08/11 09:09",
   "city": "ALBI",
   "weather": {
-    "temp": 4,
-    "wind": 5,
+    "temp": 8,
+    "wind": 2,
     "tmin": 4,
-    "tmax": 20,
-    "label": "PEU NUAGEUX",
-    "label_short": "NUAGEUX"
+    "tmax": 19,
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
     "date": "09/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "4C  PEU NUAGEUX",
+          "8C  COUVERT",
           "",
-          "MIN 4C  MAX 20C",
+          "MIN 4C  MAX 19C",
           "",
-          "VENT 5 KM/H",
+          "VENT 2 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "4C PEU NUAGEUX",
-          "MIN 4C MAX 20C",
-          "VENT 5 KM/H"
+          "8C COUVERT",
+          "MIN 4C MAX 19C",
+          "VENT 2 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "4C PEU NUAGEUX",
-          "MIN 4C MAX 20C",
-          "VENT 5 KM/H",
+          "8C COUVERT",
+          "MIN 4C MAX 19C",
+          "VENT 2 KM/H",
           "PROCHAINE ISS",
           "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6",
           "DUREE 2 MIN"
         ],
         "short": [
-          "4C PEU NUAGEUX",
-          "VENT 5 KM/H",
+          "8C COUVERT",
+          "VENT 2 KM/H",
           "LE 09/11 A 20H03",
           "SO>ENE MAG 0.6"
         ]
@@ -79,17 +79,17 @@
           "METEO",
           "ALBI",
           "",
-          "4C",
-          "NUAGEUX",
+          "8C",
+          "COUVERT",
           "",
-          "4C > 20C",
-          "VT 5KMH"
+          "4C > 19C",
+          "VT 2KMH"
         ],
         "short": [
           "ALBI",
-          "4C",
-          "NUAGEUX",
-          "4C>20C"
+          "8C",
+          "COUVERT",
+          "4C>19C"
         ]
       },
       "iss": {
@@ -113,17 +113,17 @@
       "both": {
         "full": [
           "ALBI",
-          "4C",
-          "NUAGEUX",
-          "4C>20C",
+          "8C",
+          "COUVERT",
+          "4C>19C",
           "ISS 20H03",
           "09/11",
           "SO>ENE",
           "2MIN M0.6"
         ],
         "short": [
-          "4C",
-          "NUAGEUX",
+          "8C",
+          "COUVERT",
           "ISS 20H03",
           "09/11"
         ]
