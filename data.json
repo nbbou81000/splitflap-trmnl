@@ -1,20 +1,20 @@
 {
-  "updated_at": "09/11 11:29",
+  "updated_at": "09/11 21:55",
   "city": "ALBI",
   "weather": {
-    "temp": 21,
-    "wind": 11,
+    "temp": 15,
+    "wind": 1,
     "tmin": 12,
     "tmax": 22,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "label": "PEU NUAGEUX",
+    "label_short": "NUAGEUX"
   },
   "iss": {
-    "date": "09/11",
-    "time": "20H03",
-    "dir": "SO>ENE",
-    "mag": 0.6,
-    "duration_min": 2
+    "date": "10/11",
+    "time": "19H16",
+    "dir": "SSO>ENE",
+    "mag": -0.3,
+    "duration_min": 4
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "21C  COUVERT",
+          "15C  PEU NUAGEUX",
           "",
           "MIN 12C  MAX 22C",
           "",
-          "VENT 11 KM/H",
+          "VENT 1 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "21C COUVERT",
+          "15C PEU NUAGEUX",
           "MIN 12C MAX 22C",
-          "VENT 11 KM/H"
+          "VENT 1 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 09/11 A 20H03",
+          "LE 10/11 A 19H16",
           "",
-          "SO>ENE  MAG 0.6",
+          "SSO>ENE  MAG -0.3",
           "",
-          "DUREE 2 MIN",
+          "DUREE 4 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 09/11 A 20H03",
-          "SO>ENE MAG 0.6",
-          "DUREE 2 MIN"
+          "LE 10/11 A 19H16",
+          "SSO>ENE MAG -0.3",
+          "DUREE 4 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "21C COUVERT",
+          "15C PEU NUAGEUX",
           "MIN 12C MAX 22C",
-          "VENT 11 KM/H",
+          "VENT 1 KM/H",
           "PROCHAINE ISS",
-          "LE 09/11 A 20H03",
-          "SO>ENE MAG 0.6",
-          "DUREE 2 MIN"
+          "LE 10/11 A 19H16",
+          "SSO>ENE MAG -0.3",
+          "DUREE 4 MIN"
         ],
         "short": [
-          "21C COUVERT",
-          "VENT 11 KM/H",
-          "LE 09/11 A 20H03",
-          "SO>ENE MAG 0.6"
+          "15C PEU NUAGEUX",
+          "VENT 1 KM/H",
+          "LE 10/11 A 19H16",
+          "SSO>ENE MAG -0.3"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "21C",
-          "COUVERT",
+          "15C",
+          "NUAGEUX",
           "",
           "12C > 22C",
-          "VT 11KMH"
+          "VT 1KMH"
         ],
         "short": [
           "ALBI",
-          "21C",
-          "COUVERT",
+          "15C",
+          "NUAGEUX",
           "12C>22C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "09/11",
-          "20H03",
+          "10/11",
+          "19H16",
           "",
-          "SO>ENE",
-          "MAG 0.6",
-          "2 MIN"
+          "SSO>ENE",
+          "MAG -0.3",
+          "4 MIN"
         ],
         "short": [
-          "ISS 20H03",
-          "09/11",
-          "SO>ENE",
-          "2MIN M0.6"
+          "ISS 19H16",
+          "10/11",
+          "SSO>ENE",
+          "4MIN M-0.3"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "21C",
-          "COUVERT",
+          "15C",
+          "NUAGEUX",
           "12C>22C",
-          "ISS 20H03",
-          "09/11",
-          "SO>ENE",
-          "2MIN M0.6"
+          "ISS 19H16",
+          "10/11",
+          "SSO>ENE",
+          "4MIN M-0.3"
         ],
         "short": [
-          "21C",
-          "COUVERT",
-          "ISS 20H03",
-          "09/11"
+          "15C",
+          "NUAGEUX",
+          "ISS 19H16",
+          "10/11"
         ]
       }
     }
