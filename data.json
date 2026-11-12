@@ -1,20 +1,20 @@
 {
-  "updated_at": "12/11 17:57",
+  "updated_at": "12/11 23:30",
   "city": "ALBI",
   "weather": {
-    "temp": 15,
-    "wind": 11,
+    "temp": 14,
+    "wind": 16,
     "tmin": 13,
     "tmax": 18,
-    "label": "AVERSES",
-    "label_short": "AVERSES"
+    "label": "COUVERT",
+    "label_short": "COUVERT"
   },
   "iss": {
-    "date": "12/11",
-    "time": "19H17",
+    "date": "13/11",
+    "time": "18H29",
     "dir": "SO>ENE",
-    "mag": -2,
-    "duration_min": 5
+    "mag": -1.4,
+    "duration_min": 7
   },
   "lines": {
     "wide": {
@@ -22,54 +22,54 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  AVERSES",
+          "14C  COUVERT",
           "",
           "MIN 13C  MAX 18C",
           "",
-          "VENT 11 KM/H",
+          "VENT 16 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C AVERSES",
+          "14C COUVERT",
           "MIN 13C MAX 18C",
-          "VENT 11 KM/H"
+          "VENT 16 KM/H"
         ]
       },
       "iss": {
         "full": [
           "PROCHAINE ISS",
           "",
-          "LE 12/11 A 19H17",
+          "LE 13/11 A 18H29",
           "",
-          "SO>ENE  MAG -2",
+          "SO>ENE  MAG -1.4",
           "",
-          "DUREE 5 MIN",
+          "DUREE 7 MIN",
           ""
         ],
         "short": [
           "PROCHAINE ISS",
-          "LE 12/11 A 19H17",
-          "SO>ENE MAG -2",
-          "DUREE 5 MIN"
+          "LE 13/11 A 18H29",
+          "SO>ENE MAG -1.4",
+          "DUREE 7 MIN"
         ]
       },
       "both": {
         "full": [
           "METEO ALBI",
-          "15C AVERSES",
+          "14C COUVERT",
           "MIN 13C MAX 18C",
-          "VENT 11 KM/H",
+          "VENT 16 KM/H",
           "PROCHAINE ISS",
-          "LE 12/11 A 19H17",
-          "SO>ENE MAG -2",
-          "DUREE 5 MIN"
+          "LE 13/11 A 18H29",
+          "SO>ENE MAG -1.4",
+          "DUREE 7 MIN"
         ],
         "short": [
-          "15C AVERSES",
-          "VENT 11 KM/H",
-          "LE 12/11 A 19H17",
-          "SO>ENE MAG -2"
+          "14C COUVERT",
+          "VENT 16 KM/H",
+          "LE 13/11 A 18H29",
+          "SO>ENE MAG -1.4"
         ]
       }
     },
@@ -79,16 +79,16 @@
           "METEO",
           "ALBI",
           "",
-          "15C",
-          "AVERSES",
+          "14C",
+          "COUVERT",
           "",
           "13C > 18C",
-          "VT 11KMH"
+          "VT 16KMH"
         ],
         "short": [
           "ALBI",
-          "15C",
-          "AVERSES",
+          "14C",
+          "COUVERT",
           "13C>18C"
         ]
       },
@@ -96,36 +96,36 @@
         "full": [
           "ISS",
           "",
-          "12/11",
-          "19H17",
+          "13/11",
+          "18H29",
           "",
           "SO>ENE",
-          "MAG -2",
-          "5 MIN"
+          "MAG -1.4",
+          "7 MIN"
         ],
         "short": [
-          "ISS 19H17",
-          "12/11",
+          "ISS 18H29",
+          "13/11",
           "SO>ENE",
-          "5MIN M-2"
+          "7MIN M-1.4"
         ]
       },
       "both": {
         "full": [
           "ALBI",
-          "15C",
-          "AVERSES",
+          "14C",
+          "COUVERT",
           "13C>18C",
-          "ISS 19H17",
-          "12/11",
+          "ISS 18H29",
+          "13/11",
           "SO>ENE",
-          "5MIN M-2"
+          "7MIN M-1.4"
         ],
         "short": [
-          "15C",
-          "AVERSES",
-          "ISS 19H17",
-          "12/11"
+          "14C",
+          "COUVERT",
+          "ISS 18H29",
+          "13/11"
         ]
       }
     }
