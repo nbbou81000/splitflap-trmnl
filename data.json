@@ -1,13 +1,13 @@
 {
-  "updated_at": "12/11 09:28",
+  "updated_at": "12/11 17:57",
   "city": "ALBI",
   "weather": {
     "temp": 15,
-    "wind": 2,
+    "wind": 11,
     "tmin": 13,
-    "tmax": 17,
-    "label": "COUVERT",
-    "label_short": "COUVERT"
+    "tmax": 18,
+    "label": "AVERSES",
+    "label_short": "AVERSES"
   },
   "iss": {
     "date": "12/11",
@@ -22,18 +22,18 @@
         "full": [
           "METEO ALBI",
           "",
-          "15C  COUVERT",
+          "15C  AVERSES",
           "",
-          "MIN 13C  MAX 17C",
+          "MIN 13C  MAX 18C",
           "",
-          "VENT 2 KM/H",
+          "VENT 11 KM/H",
           ""
         ],
         "short": [
           "METEO ALBI",
-          "15C COUVERT",
-          "MIN 13C MAX 17C",
-          "VENT 2 KM/H"
+          "15C AVERSES",
+          "MIN 13C MAX 18C",
+          "VENT 11 KM/H"
         ]
       },
       "iss": {
@@ -57,17 +57,17 @@
       "both": {
         "full": [
           "METEO ALBI",
-          "15C COUVERT",
-          "MIN 13C MAX 17C",
-          "VENT 2 KM/H",
+          "15C AVERSES",
+          "MIN 13C MAX 18C",
+          "VENT 11 KM/H",
           "PROCHAINE ISS",
           "LE 12/11 A 19H17",
           "SO>ENE MAG -2",
           "DUREE 5 MIN"
         ],
         "short": [
-          "15C COUVERT",
-          "VENT 2 KM/H",
+          "15C AVERSES",
+          "VENT 11 KM/H",
           "LE 12/11 A 19H17",
           "SO>ENE MAG -2"
         ]
@@ -80,16 +80,16 @@
           "ALBI",
           "",
           "15C",
-          "COUVERT",
+          "AVERSES",
           "",
-          "13C > 17C",
-          "VT 2KMH"
+          "13C > 18C",
+          "VT 11KMH"
         ],
         "short": [
           "ALBI",
           "15C",
-          "COUVERT",
-          "13C>17C"
+          "AVERSES",
+          "13C>18C"
         ]
       },
       "iss": {
@@ -114,8 +114,8 @@
         "full": [
           "ALBI",
           "15C",
-          "COUVERT",
-          "13C>17C",
+          "AVERSES",
+          "13C>18C",
           "ISS 19H17",
           "12/11",
           "SO>ENE",
@@ -123,7 +123,7 @@
         ],
         "short": [
           "15C",
-          "COUVERT",
+          "AVERSES",
           "ISS 19H17",
           "12/11"
         ]
